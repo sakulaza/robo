@@ -1,0 +1,19 @@
+[23-Sep-2016 14:03:25 UTC] PHP Fatal error:  Cannot redeclare class App\Http\Controllers\Admin\PostController in K:\object\robo\app\Http\Controllers\PostController.php on line 88
+[24-Sep-2016 16:51:50 UTC] PHP Fatal error:  Class 'App\Jobs\Job' not found in K:\object\robo\app\Jobs\PostFormFields.php on line 7
+[24-Sep-2016 16:53:10 UTC] PHP Fatal error:  Class 'App\Jobs\Job' not found in K:\object\robo\app\Jobs\PostFormFields.php on line 7
+[24-Sep-2016 16:54:20 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Bus\SelfHandling' not found in K:\object\robo\app\Jobs\PostFormFields.php on line 8
+[25-Sep-2016 02:02:14 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Bus\SelfHandling' not found in K:\object\robo\app\Jobs\PostFormFields.php on line 8
+[25-Sep-2016 02:15:00 UTC] PHP Fatal error:  Class 'App\Tag' not found in K:\object\robo\app\Jobs\PostFormFields.php on line 61
+[25-Sep-2016 02:42:43 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 02:50:22 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 02:50:57 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 02:54:40 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 02:58:57 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 03:07:19 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 03:09:11 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 03:15:44 UTC] PHP Fatal error:  Call to undefined function page_image() in K:\object\robo\storage\framework\views\21a8d881a43d15a2dd20cf15ac89e64ce05c0257.php on line 54
+[25-Sep-2016 03:42:35 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in K:\object\robo\app\Http\Requests\PostCreateRequest.php on line 8
+[25-Sep-2016 08:10:04 UTC] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in K:\object\robo\app\Http\Requests\PostCreateRequest.php on line 8
+[25-Sep-2016 08:19:28 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14
+[28-Sep-2016 06:32:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in K:\object\robo\app\Http\Controllers\ArticleController.php on line 18
+[28-Sep-2016 06:32:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Post' not found in K:\object\robo\app\Http\Controllers\ArticleController.php on line 17

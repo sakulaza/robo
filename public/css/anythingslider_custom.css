@@ -1,0 +1,99 @@
+#slider .caption-top{
+	top:26px;
+  background: rgba(255,255,255,.4);
+  color: #fff;
+  padding: 10px 15px 10px 26px;
+  margin: 0;
+  position: absolute;
+  z-index: 10;
+
+ }
+#slider li{ position:relative; }
+#slider .caption-top .caption-head{
+	font-size:24px;
+	text-transform:uppercase;
+	font-weight:bold;
+	white-space: nowrap;
+}
+#slider .caption-top .caption-text{
+	font-size:14px;
+}
+
+#slider .slide-1 .caption-top{	background: url(/themes/rbforex/images/light-65.png); }
+#slider .slide-1 .caption-text{	color: #f36523; }
+#slider .slide-1 img{  }
+#slider .slide-2 .caption-top{	background: url(/themes/rbforex/images/dark-65.png); }
+#slider .slide-2 .caption-text{	color: #fff; opacity:.75; filter:alpha(opacity=75); }
+#slider .slide-3 .caption-top{	background: url(/themes/rbforex/images/light-25.png); color:#000; }
+#slider .slide-3 .caption-text{	color: #000; opacity:.75; filter:alpha(opacity=75); }
+#slider .slide-4 .caption-top{	background: url(/themes/rbforex/images/blue-55.png); }
+#slider .slide-4 .caption-text{	color: #00284d; }
+#slider .slide-5 .caption-top{	background: url(/themes/rbforex/images/light-65.png); }
+#slider .slide-5 .caption-text{	color: #007c4f; }
+#slider .slide-6 .caption-top{	background: url(/themes/rbforex/images/light-25.png); }
+#slider .slide-6 .caption-text{	color: #252525; opacity:.85; filter:alpha(opacity=85);  }
+
+#slider .slide-7 .caption-top{	background: url(/themes/rbforex/images/dark-75.png); color:#fff; }
+#slider .slide-7 .caption-head{	font-size:21px !important; margin-bottom:3px; }
+#slider .slide-7 .orange{	color:#ffa600 !important; }
+#slider .slide-7 .caption-text{	color: #ffa600; opacity:.75; filter:alpha(opacity=75); margin-bottom:5px; }
+
+#slider .slide-8 .caption-top{	background: url(../images/dark2-65.png); }
+
+#sliderLoader{ position:absolute; margin-top:-34px; margin-left:661px; z-index:100; opacity:0.7; filter:alpha(opacity=0.7); }
+#rebate-img{ width:464px; height:213px; background:url(/themes/rbforex/images/rebate-img.png); position:absolute; top:0; right:0; z-index:80; }
+
+.orange{  color:#f57c1f; }
+.white{  color:#fff; }
+
+
+.slide-button-1{
+	color:#073763 !important;
+	/*text-shadow:1px -1px 0px #c46319;*/
+	background: url(/themes/rbforex/images/slider-button-1.png) 0 0 no-repeat;
+}
+.slide-button-6{
+	color:#fff !important;
+	text-shadow:1px -1px 0px #c46319;
+	background: url(/themes/rbforex/images/slider-button-6.png) 0 0 no-repeat;
+}
+.slide-button-3{
+	color:#fff !important;
+	text-shadow:1px -1px 0px #d43136;
+	background: url(/themes/rbforex/images/slider-button-3.png) 0 0 no-repeat;
+}
+.slide-button-4{
+	color:#fff !important;
+	text-shadow:1px -1px 0px #007f50;
+	background: url(/themes/rbforex/images/slider-button-4.png) 0 0 no-repeat;
+}
+.slide-button {
+	line-height:27px;
+	display:inline-block;
+	font-size:11px;
+	font-weight:bold;
+	padding:0px 0px 3px;
+	width:100px;
+	text-align:center;
+	text-decoration:none;
+	position:absolute;
+	bottom:25px;
+	left:26px;
+	z-index:80;
+	text-decoration:none !important;
+}.slide-button:hover {
+
+}.slide-button:active {
+
+}
+
+.anythingSlider.rtl .anythingControls ul { float: none; margin: 0; direction: ltr; }
+.anythingSlider.rtl .anythingControls ul li { float: none; }
+.anythingSlider.rtl .anythingControls ul a { float: none; width: 14px; }
+
+.anythingSlider.rtl .caption-text,
+.anythingSlider.rtl .caption-head,
+.anythingSlider.rtl .slide-button { direction: rtl; }
+
+.anythingSlider.rtl .caption-text,
+.anythingSlider.rtl .caption-head {text-align: right;}

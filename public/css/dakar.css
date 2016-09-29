@@ -1,0 +1,50 @@
+@font-face {
+	font-family: Qanelas;
+	font-weight: 300;
+	src: url("../fonts/qanelas/qanelas_thin.ttf");
+}
+@font-face {
+	font-family: Qanelas;
+	font-weight: 400;
+	src: url("../fonts/qanelas/qanelas_regular.ttf");
+}
+.dakar-wrapper {
+	background: url("../images/dakar/background.png") top center no-repeat;
+	height: 350px;
+	margin-bottom: -200px;
+}
+.dakar-wrapper .wrapper {
+	width: 930px;
+	margin: 0 auto;
+	padding-top: 25px;
+	position: relative;
+}
+.dakar-wrapper .head-text {
+	font-family: Qanelas, sans-serif;
+	text-transform: uppercase;
+	color: #003b5a;
+	font-size: 1.6em;
+	font-weight: 400;
+	line-height: 1.45em;
+	padding-left: 20px;
+	float: left;
+}
+.dakar-wrapper .close-button {
+	text-transform: lowercase;
+	font-size: 0.9em;
+	background: #317ca3;
+	color: #FFFFFF;
+	-webkit-border-radius: 0 0 5px 5px;
+	-moz-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	padding: 3px 10px 5px 10px;
+	display: inline-block;
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.dakar-wrapper .emblem {
+	float: left;
+	margin-top: -5px;
+}
