@@ -20,6 +20,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 
 Route::get('/about/{type?}','ArticleController@about');
+Route::get('/trade-conditions/{type?}','ArticleController@trade_conditions');
 
 Route::group(['prefix'=>'admin', 'middleware' => 'web'], function(){
     Route::get('/', 'AdminController@index');

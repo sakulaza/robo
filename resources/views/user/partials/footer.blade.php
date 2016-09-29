@@ -123,11 +123,11 @@
 
     <div id="f-registration">
         <p style="text-align:left;font-weight: bold;">本网站含GoldMany集团公司的基本信息介绍：</p>
-        <p style="float: left; width: 390px;text-align: justify; ">GoldMany (CY) Ltd受到CySEC监管, 执照号191/13.</p>
-        <p style="float: right; width: 390px;text-align: justify; ">GoldMany Ltd受到IFSC的监管, 执照号为
+        <p style="float: left; width: 390px;text-align: justify; ">Gold Many Global Ltd受到CySEC监管, 执照号14668.</p>
+        <p style="float: right; width: 390px;text-align: justify; ">Gold Many Global Ltd受到IFSC的监管, 执照号为
             IFSC/60/271/TS/16.</p>
-        <p style="clear:both; text-align:left;">此网站是GoldMany(CY)Ltd的财产.</p>
-        <p style="text-align:left; font-weight: bold; margin-bottom: 0px;">GoldMany(CY)Ltd以及GoldMany
+        <p style="clear:both; text-align:left;">此网站是Gold Many Global Ltd的财产.</p>
+        <p style="text-align:left; font-weight: bold; margin-bottom: 0px;">Gold Many Global Ltd以及GoldMany
             Ltd不为居住在美国,日本,加拿大,比利时的客户提供任何金融服务.
         </p>
     </div>

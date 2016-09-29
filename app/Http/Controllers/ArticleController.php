@@ -18,4 +18,8 @@ class ArticleController extends Controller
         //$article = Post::where('subtitle',$path)->firstOrFail();
         return view("user.$type");
     }
+
+    public function trade_conditions(Request $request,$type = 'account-types'){
+        return view("user.$type");
+    }
 }

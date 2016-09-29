@@ -1,0 +1,144 @@
+#right{margin: 0;}
+
+.right-list{
+	list-style-type:none;
+	font-size:17px;
+	line-height:32px;
+	margin-left:20px;
+	padding:0;
+	margin-top: 19px;
+    position:relative;
+    z-index:10;
+    margin-bottom: 0;
+}
+
+.fl{
+	float:left;
+}
+.fr{float:right}
+.address{
+	font-size:12px;
+	color:#667788;
+}
+
+.big-btn {
+    padding-top: 40px;
+    position: absolute;
+    margin-left: 290px;
+    z-index: 10;
+}
+.big-btn a{
+	background-image:url('../images/pages/bigbtn.png');
+	display:block;
+	width:358px;
+	height:98px;
+	float:right;
+}
+
+.big-btn a:hover{
+	background-position:0 97px;
+}
+
+
+.clr{
+	clear:both;
+}
+
+.present{
+	width:1000px;
+	height:515px;
+	background-image:url('../images/pages/present.jpg');
+	margin-left:-33px;
+	position:relative;
+	margin-top: -40px;
+    /*overflow: hidden;*/
+}
+
+.present .fr{
+	margin-right:260px;
+}
+
+.getnow{
+	font-size: 26px;
+	padding-top: 11px;
+	margin-left: 51px;
+	color: white;
+}
+
+.present .btn1{background-image:url('../images/pages/btn-1.png');top:80px;}
+.present .btn2{background-image:url('../images/pages/btn-2.png');background-position: 1px 27px;top:240px;}
+.present .btn3{background-image:url('../images/pages/btn-3.png');background-position: 1px 27px;top:393px;}
+
+.present .btn4{background-image:url('../images/pages/btn-4.png');background-position: 1px 33px;top:80px;display:none;}
+.present .btn5{background-image:url('../images/pages/btn-5.png');background-position: 2px 31px;top:80px;}
+.present .btn6{background-image:url('../images/pages/btn-6.png');background-position: 2px 31px;top:240px;}
+.present .btn7{background-image:url('../images/pages/btn-7.png');background-position: 2px 31px;top:393px;}
+.pres-button{background-position: 0px 26px;	width: 259px; height:141px;	background-repeat:no-repeat; position:absolute;}
+.pres-button a{	width: 259px; height:141px;	display:block; text-indent: -10000px;}
+.pres-button:hover{
+	background-position:bottom left;
+}
+
+.thisis{
+    width:1000px; margin-bottom:40px;
+    padding-top: 20px;
+}
+
+.thisis .fl{
+	margin-right:35px;
+}
+
+.thisis .fr{
+	width:288px;
+}
+
+.commission{
+	width:929px;
+	height:68px;
+	background-image:url(../images/pages/rounded-wide.png);
+}
+
+.mr{
+	margin-right:44px
+}
+
+.managers{
+	width:940px;
+	margin-top:60px;
+	}
+
+.man-item{
+	width:439px;
+
+}
+
+.man-text{
+	margin-top:10px;
+}
+
+.man-item .names{
+	margin-left:10px;
+
+
+}
+.name{
+	font-size:22px;
+	color:#344964;
+	margin-top:5px;
+}
+
+.occupation{
+	font-size:17px;
+	color:#3f85a9;
+	margin-top:13px;
+}
+
+
+
+.commission a{
+	display: block;
+	float: left;
+	margin-left: 50px;
+	margin-right: 37px;
+	margin-top: 17px;
+}
