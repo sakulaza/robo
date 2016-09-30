@@ -339,11 +339,11 @@
 
 
 
-<script src="/themes/rbforex/js/main/rbfx/linktracker.js?v=2"></script>
+<script src="/js/linktracker.js?v=2"></script>
 
 
-<script type="text/javascript" src="/themes/rbforex/js/rbfx/ajax.js?v=1"></script>
-<script type="text/javascript" src="/themes/rbforex/js/referrals/rbfx/referral.js?v=1"></script>
+<script type="text/javascript" src="/js/ajax.js?v=1"></script>
+<script type="text/javascript" src="/js/referral.js?v=1"></script>
 <script type="text/javascript">
 
     $(function () {
@@ -374,7 +374,7 @@
     </div>
 </div>
 
-<script src="/themes/rbforex/js/externallink/rbfx/notification.js"></script>
+<script src="/js/notification.js"></script>
 <script>
 
     $(document).ready(function() {

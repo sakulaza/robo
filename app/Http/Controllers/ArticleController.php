@@ -22,4 +22,14 @@ class ArticleController extends Controller
     public function trade_conditions(Request $request,$type = 'account-types'){
         return view("user.$type");
     }
+
+    public function trading_accounts(Request $request,$type = 'standard'){
+        return view("user.$type");
+    }
+
+    public function operations(Request $request,$type = 'operations'){
+        return view("user.$type");
+    }
+
+
 }

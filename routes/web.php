@@ -21,6 +21,8 @@ Route::get('/home', 'HomeController@index');
 
 Route::get('/about/{type?}','ArticleController@about');
 Route::get('/trade-conditions/{type?}','ArticleController@trade_conditions');
+Route::get('/trading-accounts/{type?}','ArticleController@trading_accounts');
+Route::get('/operations/{type?}','ArticleController@operations');
 
 Route::group(['prefix'=>'admin', 'middleware' => 'web'], function(){
     Route::get('/', 'AdminController@index');

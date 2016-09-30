@@ -195,7 +195,7 @@
                             "style='display: none;'> <div class='modal-dialog'> " +
                             "<div class='modal-content'> <div class='modal-content-container'> " +
                             "<div class='modal-header'> <a class='close button-close'>" +
-                            "<img src='/themes/rbforex/images/modal/times-big.png' alt='X' width='14' height='14'/>" +
+                            "<img src='/images/times-big.png' alt='X' width='14' height='14'/>" +
                             "</a> <p class='modal-header-description' data-id='modal-header-desc'></p> </div> " +
                             "<div class='modal-body'> <div class='modal-body-header'> <h2>开设交易账户</h2> " +
                             "<h3 data-id='modal-body-header-desc-h3'></h3> </div> " +
@@ -208,7 +208,7 @@
                             "<label id='real-title' class='radio-title checked'>真实</label> " +
                             "<label id='demo-title' class='radio-title'>模拟</label></div> </div> " +
                             "</form> </div> <div class='modal-footer'> <a class='button-close' data-dismiss='modal'>" +
-                            "<img src='/themes/rbforex/images/modal/times-small.png' alt='x' width='8' height='8'/>" +
+                            "<img src='/images/times-small.png' alt='x' width='8' height='8'/>" +
                             "<i class='icon'></i><span>感谢,我已经有一个</span></a> " +
                             "<a class='button-open' id='modal_form_register' href='#'> <span>开设账户</span> </a> " +
                             "</div> </div> </div> </div> </div>");
@@ -793,11 +793,11 @@
 
 
 
-<script src="/themes/rbforex/js/main/rbfx/linktracker.js?v=2"></script>
+<script src="/js/linktracker.js?v=2"></script>
 
 
-<script type="text/javascript" src="/themes/rbforex/js/rbfx/ajax.js?v=1"></script>
-<script type="text/javascript" src="/themes/rbforex/js/referrals/rbfx/referral.js?v=1"></script>
+<script type="text/javascript" src="/js/ajax.js?v=1"></script>
+<script type="text/javascript" src="/js/referral.js?v=1"></script>
 <script type="text/javascript">
 
     $(function () {
@@ -828,7 +828,7 @@
     </div>
 </div>
 
-<script src="/themes/rbforex/js/externallink/rbfx/notification.js"></script>
+<script src="/js/notification.js"></script>
 <script>
 
     $(document).ready(function() {
