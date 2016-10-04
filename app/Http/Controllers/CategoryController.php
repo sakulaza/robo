@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Category;
-use Illuminate\Http\Request;
 use App\Http\Requests\CategoryCreateRequest;
 use App\Http\Requests\CategoryUpdateRequest;
 use App\Http\Requests;

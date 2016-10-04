@@ -51,15 +51,19 @@
     </script>
 
 
-    <div id="path"><a href="/" >首页</a>/ <a href="/operations/" >交易服务</a>/                                              杠杆最大值1:1000
+    <div id="path">
+        <a href="/" >首页</a>/<a href="/operations/" >交易服务</a>/杠杆最大值1:1000
     </div>
 
     <div id="left">
-        <h1 >为什么 选择GoldMany</h1>
+        <h1 >杠杆最大值1:1000</h1>
         <table class="soc-2 share">
             <tr>
                 <td class="soc-3">
-                    <div class="fb-like" data-href="http://cn.GoldMany.com/about/why-GoldMany/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
+                    <div class="fb-like" data-href="/operations/1000-up-leverage/" data-send="false"
+                         data-layout="button_count" data-width="82" data-show-faces="true">
+
+                    </div>
                     <div id="fb-root"></div>
                     <script>
 
@@ -80,7 +84,7 @@
                     <script type="IN/Share" data-counter="right"></script>
                 </td>
                 <td>
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cn.GoldMany.com/about/why-GoldMany/"></a>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cn.roboforex.com/operations/1000-up-leverage/"></a>
                     <script>!function(d, s, id) {
                             var js, fjs = d.getElementsByTagName(s)[0];
                             if (!d.getElementById(id)) {
@@ -93,7 +97,7 @@
                 </td>
                 <td>
                     <!-- Place this tag where you want the +1 button to render. -->
-                    <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300" data-href="http://cn.GoldMany.com/about/why-GoldMany/"></div>
+                    <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300" data-href="http://cn.roboforex.com/operations/1000-up-leverage/"></div>
 
                     <!-- Place this tag after the last +1 button tag. -->
                     <script type="text/javascript">
@@ -112,190 +116,284 @@
             </tr>
         </table>
         <div ><div>
-                <div class="why-robo">
-                    <h2 class="head-title">
-                        为什么交易者选择我们公司?</h2>
-                    <div class="head-description">
-                        GoldMany是在金融服务领域领先的外汇经纪商. 以下服务可用于公司客户:</div>
-                </div>
-                <div class="why-us-block" style="
-    height: 493px;
-">
-                    <div class="head">
-                        <div class="icon icon-monitor">
-                            &nbsp;</div>
-                        <h3 class="title">
-                            GoldMany 为成功交易提供优异的条件</h3>
+                <style type="text/css">
+                    .column {
+                        display: inline-block;
+                    }
+                    .column__list {
+                        vertical-align: top;
+                        width: 320px;
+                        height: 255px;
+                        margin-top: 10px;
+                    }
+                    .column__list .column__text {
+                        height: 150px;
+                        font-style: italic;
+                        line-height: 21px;
+                    }
+                    .column__list .column__text {
+                        height: 155px;
+                        font-style: italic;
+                        line-height: 21px;
+                    }
+                    .btn_link {
+                        white-space: nowrap;
+                        text-align: center;
+                        overflow: hidden;
+                        display: inline-block;
+                        padding: 8px 10px;
+                        font-size: 15px;
+                        line-height: 19px;
+                        margin: 0px;
+                        text-align: center;
+                        color: #fff !important;
+                        text-shadow: none;
+                        vertical-align: middle;
+                        cursor: pointer;
+                        text-decoration: none;
+                        border-color: #a9a9a9;
+                        background: #286a95;
+                        -webkit-border-radius: 4px;
+                        -moz-border-radius: 4px;
+                        border-radius: 4px;
+                        -webkit-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                        -moz-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                        -ms-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                        -o-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                        box-shadow: 1px 2px 6px 0px rgba(0, 0, 0, 0.4);
+                    }
+                    .btn_link img {
+                        float: right;
+                        width: 18px;
+                        height: 18px;
+                        margin-left: 10px;
+                    }
+                    .btn_link:hover {
+                        opacity: 0.8
+                    }
+                    .item-block {
+                        width: 230px;
+                        height: 210px;
+                        border-left: 2px solid #286a95;
+                        position: relative;
+                    }
+                    .item-block-text {
+                        opacity: 0;
+                        height: 230px;
+                        text-align: center;
+                        padding: 0px 20px;
+                        font-size: 14px;
+                        -webkit-transition: all 100ms linear;
+                        -moz-transition: all 100ms linear;
+                        -o-transition: all 100ms linear;
+                        transition: all 100ms linear;
+                    }
+                    .item-block-text:hover {
+                        opacity: 1;
+                    }
+                    .item-block:hover {
+                        background: #fff;
+                    }
+                    .item-block:hover > .item-block-header {
+                        display: none;
+                        -webkit-transition: all 100ms linear;
+                        -moz-transition: all 100ms linear;
+                        -o-transition: all 100ms linear;
+                        transition: all 100ms linear;
+                    }
+                    .item-block-header {
+                        font-size: 15px;
+                        text-align: center;
+                        height: 230px;
+                        margin-bottom: 0;
+                        padding-top: 30px;
+                    }	</style>
+                <div class="page-banner rebates-service" style="height: 235px;margin-bottom: 0px;">
+                    <div style="background: rgba(255,255,255, 0.8);height: 50px;width: 400px;position: absolute; top: 30px; z-index: 9; padding: 20px;">
+                        <div class="title" style="top: 20px;color: #66507F;font-size: 20px;">
+                            <span style="color: #DF1547;font-size: 20px;">增加</span>的杠杆</div>
+                        <div class="description" style="top: 45px;">
+                            MT4账户选择高达1:1000的杠杆</div>
                     </div>
-                    <ul class="reasons">
-                        <li>
-                            MetaTrader4, MetaTrader5, WebTrader GoldMany 和 cTrader <a href="/trade-conditions/terminals/" target="_blank">交易终端</a></li>
-                        <li>
-                            即时订单执行</li>
-                        <li>
-                            <a href="/trade-conditions/account-types" target="_blank">9种类型的交易账户</a></li>
-                        <li>
-                            差价合约交易 (CFD)</li>
-                        <li>
-                            没有最小存款</li>
-                        <li>
-                            可交易的<a href="http://cn.GoldMany.com/operations/bonuses-promotions/tradable-bonus/" target="_blank">奖金 50％</a></li>
-                        <li>
-                            存款奖励<a href="/operations/bonuses-promotions/115-deposit-bonus/" target="_blank">高达115%</a></li>
-                        <li>
-                            <a href="/trade-conditions/specifications" target="_blank">点差0点起 </a></li>
-                        <li>
-                            <a href="/operations/bonuses-promotions/1000-up-leverage/" target="_blank">杠杆 1:700, 1:888, 1:1000</a></li>
-                        <li>
-                            免费远程 <a href="/operations/forex-vps/" target="_blank">VPS-服务器</a></li>
-                        <li>
-                            <a href="/investment/copyfx-service/" target="_blank">CopyFX</a> - 跟单交易投资平台</li>
-                        <li>
-                            最高至账户结余的<a href="http://cn.GoldMany.com/operations/bonuses-promotions/up-to-10-percents-on-account-balance/" target="_blank">10%</a></li>
+                    <img src="/images/operations/leverage-change-head.jpg" style="width: 648px; height: 235px;" /></div>
+                <div class="note_block" style="/* margin-top: 20px; */padding: 20px 32px 20px 32px;border: none;margin-bottom: 0;">
+                    <h3 style="margin: 20px 0;color: #215682;/* text-align: center; */font-size: 15px;">
+                        交易杠杆放大的好处：</h3>
+                    <ul style="list-style-type: none;padding-left: 20px;">
+                        <li style="margin-bottom: 10px;">
+                            <span style=" font-size: 14px; font-weight: bold; color: #215682;">交易机会增加</span><br />
+                            无须增加投资便可扩大交易量，是外汇交易进阶良机</li>
+                        <li style="margin-bottom: 10px;">
+                            <span style=" font-size: 14px; font-weight: bold; color: #215682;">即使在已有开仓头寸时也能增加可用资金</span><br />
+                            杠杆交易放大将减少开仓保证金，可释放账户可用资金</li>
+                        <li style="margin-bottom: 10px;">
+                            <span style="font-size: 14px; font-weight: bold; color: #215682;">更强抵御浮亏能力</span><br />
+                            更低保证金意味维持仓位所需资金也更少。</li>
                     </ul>
                 </div>
-                <div class="why-us-block last" style="
-    height: 493px;
+                <div style="text-align: center;margin-bottom: 40px;background: #286a95;color: #fff;">
+                    <div style="width: 648px;text-align: center;">
+                        <p style="text-align: center;font-size: 20px;padding-top: 20px;">
+                            您现可选择以下三种杠杆比率：</p>
+                        <p style="
+    margin: 0 60px 30px 60px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #fff;
 ">
-                    <div class="head">
-                        <div class="icon icon-sign">
-                            &nbsp;</div>
-                        <h3 class="title">
-                            GoldMany是国际监管机构的成员, 保护客户的权益</h3>
+				<span style="
+    font-size: 30px;
+">1:700</span><span style="
+    margin: 0 113px;
+    font-size: 30px;
+">1:888</span><span style="
+    font-size: 30px;
+">1:1000</span></p>
                     </div>
-                    <ul class="reasons">
-                        <li>
-                            GoldMany (CY) Ltd受到CySEC监管, 执照号191/13并且还在英国FCA注册. 编号为608962</li>
-                        <li>
-                            并且GoldMany (CY) Ltd 是塞浦路斯<a href="https://my.robofx.com/files/document/information_on_investor_compensation_scheme.pdf" target="_blank">投资者赔偿基金</a>会的一名正式会员, 可为投资者提供高达20,000欧元存款的保险&nbsp;</li>
-                        <li>
-                            GoldMany Ltd受到IFSC的监管, 执照号为 IFSC/60/271/TS/16&nbsp;</li>
-                        <li>
-                            <div>
-                                此外, GoldMany Ltd是国际金融委员会的正式成员, 此独立组织致力于调解投资者与经纪商的纠纷已有超过50年的历史</div>
+                    <div style="display: inline-block; vertical-align: top; width: 322px;">
+                        <p>
+                            无需停止交易操作即可在您会员中心更改您的杠杆</p>
+                        <a class="btn_link" href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/" style="text-decoration: none;background: #D8452A;margin-bottom: 30px;width: 150px;" target="_blank"><span>更改杠杆</span>
+                            <img alt="" src="/images/operations/2_min_white.png" /></a></div>
+                    <div style="display: inline-block; vertical-align: top; width: 322px;">
+                        <p>
+                            当注册一个新账户时,选择增加的杠杆</p>
+                        <a class="btn_link rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/" style="text-decoration: none;background: #D8452A;width: 150px;margin-bottom: 30px;" target="_blank"><span>开设账户</span>
+                            <img alt="" src="/images/operations/2_min_white.png" /></a></div>
+                </div>
+                <p style="
+    font-size: 14px;
+    /* text-align: center; */
+    margin: 30px 0;
+">
+                    <strong>账户杠杆在以下情形将自动下调至1:500</strong></p>
+                <div style="
+    border: 2px solid #D8452A;
+    color: #D8452A;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 37px;
+">
+                    1</div>
+                <div style="
+    display: inline-block;
+    vertical-align: middle;
+    width: 600px;
+">
+                    周五晚11点（EET时间）到周六凌晨1点（EET时间），此期间内您不可选择高杠杆。之后您的杠杆将自动复原。</div>
+                <div style="
+    border: 2px solid #D8452A;
+    color: #D8452A;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 37px;
+    vertical-align: top;
+">
+                    2</div>
+                <div style="
+    display: inline-block;
+    vertical-align: middle;
+    width: 600px;
+">
+                    <p>
+                        如果账户净值超过 2,000 USD / 1,800 EUR / 12,000 CNY / 1,700 GOLD.</p>
+                    <p>
+                        净值是根据以下公式计算的当前资金数额:</p>
+                    <p>
+                        <strong style="
+">&lt;净值&gt; = &lt;账户余额&gt; + &lt;未平仓头寸的浮动盈亏&gt;</strong></p>
+                    <p>
+                        您可以在交易终端的&quot;交易&quot;标签检查当前净值.</p>
+                    <p>
+                        如果交易账户净值超过上面标注的金额并且杠杆自动减少至1:500, 那么您需要减少您的净值至上面要求的金额并且在您会员中心的&quot;<a href="http://my.cn.roboforex.com/cs/trading-account/change-leverage/" target="_blank">更改杠杆</a>&quot;版块发送第二个申请来恢复您的杠杆值.</p>
+                </div>
+                <div class="note_block" style="
+    padding: 20px;
+    border: none;
+">
+                    <p>
+                        <strong>请注意</strong>, 交易账户杠杆修改后再次登陆之前，交易终端保证金参数仍会按之前杠杆值显示。</p>
+                    <p style="
+    margin-bottom: 0;
+">
+                        我们建议您在杠杆做了任何更改之后,重新登陆交易终端,这样所有保证金参数才是正确的显示.</p>
+                </div>
+                <h3 style="margin: 40px 0;color: #215682;">
+                    <a href="javascript:void(0)" onclick="showFaqText(1);" style="text-decoration: none; border-bottom: 1px dashed #3c95c3;">&quot;杠杆1:700, 1:888, 1:1000&quot; 计划的条件</a></h3>
+                <div class="fl-answer" id="faq_text1" style="display: none;">
+                    <ol>
+                        <li style="margin-bottom: 10px;">
+                            任何开设有RoboForex真实交易账户的客户均可参加此活动。</li>
+                        <li style="margin-bottom: 10px;">
+                            杠杆上调<span class="footnote">*</span>只对MT4账户的美分和标准账户以及CopyFX账户有效。</li>
+                        <li style="margin-bottom: 10px;">
+                            上调杠杆只适合净值不超过2,000美元/1,800欧元/12,000元人民币/1,700黄金的账户。</li>
+                        <li style="margin-bottom: 10px;">
+                            如果最大额度的杠杆账户净值超过上面标注的金额, 那么杠杆将会自动i降低至1:500. 在净值降低至上面标注的金额后, 客户可选择在会员中心重新增加杠杆值.</li>
+                        <li style="margin-bottom: 10px;">
+                            <p>
+                                对于真实交易账户, 从周五晚上11点(EET)至周六临城1点(EET):</p>
+                            <ul>
+                                <li>
+                                    所有账户的增加杠杆自动降低到1:500.</li>
+                                <li>
+                                    公司客户不允许更改他们平常的杠杆到这个增加的杠杆.</li>
+                                <li>
+                                    客户不允许注册增加杠杆的新账户.</li>
+                                <li>
+                                    在星期日1 AM (EET)之后,杠杆自动恢复成以前的数值.</li>
+                            </ul>
                         </li>
-                    </ul>
+                        <li style="margin-bottom: 10px;">
+                            此计划最重要的条款是RoboForex有权不提供任何理由或事先提醒即可拒绝客户增加杠杆的申请.</li>
+                    </ol>
+                    <p>
+                        <span class="footnote">*</span> - 根据此计划的规则, 杠杆可以增加至1:700, 1:888或者1:1000. 此计划不作用于RoboForex(CY)的波兰客户. 波兰客户可用最大杠杆为1:100, 不包括模拟比赛账户.</p>
                 </div>
-                <div class="why-us-block" style="
-    height: 359px;
-">
-                    <div class="head">
-                        <div class="icon icon-case">
-                            &nbsp;</div>
-                        <h3 class="title">
-                            GoldMany 在外汇市场提供专业服务</h3>
-                    </div>
-                    <ul class="reasons">
-                        <li>
-                            在外汇市场提供交易条件的个人顾问</li>
-                        <li>
-                            24/7 <a href="https://my.GoldMany.com/cs/livesupport/" target="_blank">在线客户支持服务</a></li>
-                        <li>
-                            <a href="/analytics/" target="_blank">分析支持</a> 和 <a href="/operations/" target="_blank">信息服务</a></li>
-                        <li>
-                            對所有客戶免費開放的&quot;<a href="https://my.cn.GoldMany.com/cs/analytics" target="_blank">GoldMany分析中心</a>&quot;</li>
-                        <li>
-                            由专家举办的为初学者和有经验的交易者准备的免费<a href="/beginner/webinars/" target="_blank">研讨会</a></li>
-                    </ul>
-                </div>
-                <div class="why-us-block last" style="
-    height: 359px;
-">
-                    <div class="head">
-                        <div class="icon icon-cup">
-                            &nbsp;</div>
-                        <h3 class="title">
-                            GoldMany的质量全世界公认</h3>
-                    </div>
-                    <ul class="reasons">
-                        <li>
-                            <a href="/about/awards#a14" target="_blank">&laquo;Best Retail Forex Broker&raquo; 2015年</a></li>
-                        <li>
-                            <a href="/about/awards#a13" target="_blank">&laquo;The best ECN broker&raquo; 2015年</a></li>
-                        <li>
-                            <a href="/about/awards#a12" target="_blank">&laquo;Fastest Growing Forex Brand Asia&raquo; 2014年</a></li>
-                        <li>
-                            <a href="/about/awards#a11" target="_blank">&laquo;Best Standard Forex Broker&raquo; 2014年</a></li>
-                        <li>
-                            <a href="/about/awards#a10" target="_blank">&laquo;The best ECN broker&raquo; 2013年</a></li>
-                        <li>
-                            <a href="/about/awards#a9" target="_blank">&laquo;Best Forex News &amp; Analysis Provider&raquo; 2013年</a></li>
-                        <li>
-                            <a href="/about/awards#a8" target="_blank">&laquo;Best Retail Forex Brand Russia &amp; CIS&raquo; 2013年</a></li>
-                        <li>
-                            <a href="/about/awards#a7" target="_blank">&laquo;Best Retail Forex Broker&raquo; 2013年</a></li>
-                    </ul>
-                </div>
-                <div class="clearfix">
-                    &nbsp;</div>
-                <div class="centered-btn-block">
-                    <a class="likeBigButton rw-tip_holder" href="https://my.cn.GoldMany.com/cs/register/" target="_blank"><span>注册 </span></a></div>
             </div>
+            <br />
         </div>
     </div>
 
     <div id="right">
         <ul id="r-menu">
             <li >
-                <a href="/about/why-GoldMany/"  >为什么选择GoldMany</a>
+                <a href="/operations/bonuses-promotions/"  >赠金,计划和活动</a>
+
+
             </li>
             <li >
-                <a href="/about/mission/"  >公司宗旨</a>
+                <a href="/operations/security/"  >资金安全</a>
+
+
             </li>
             <li >
-                <a href="/about/business-model/"  >商业模式</a>
+                <a href="/operations/deposit-withdraw/"  >存款 / 取款</a>
+
+
+            </li>
+            <li  class="selected" >
+                <a>杠杆最大值1:1000</a>
+
+
             </li>
             <li >
-                <a href="/about/liquidity-providers/"  >流动性</a>
-            </li>
-            <li >
-                <a href="/about/regulation/"  >公司监管</a>
-            </li>
-            <li >
-                <a href="/about/news/"  >公司新闻</a>
-            </li>
-            <li >
-                <a href="/about/feedback/"  >反馈建议</a>
-            </li>
-            <li >
-                <a href="/about/faq/"  >常见问题</a>
-            </li>
-            <li >
-                <a href="/about/sponsorship/"  >锦标赛</a>
-            </li>
-            <li >
-                <a href="/about/results-2014/"  >2014 年成绩</a>
-            </li>
-            <li >
-                <a href="/about/exhibition/"  >GoldMany 展览会</a>
-            </li>
-            <li >
-                <a href="/about/awards/"  >授予奖项</a>
-            </li>
-            <li >
-                <a href="/about/media/"  >GoldMany 媒体</a>
-            </li>
-            <li >
-                <a href="/about/contacts/"  >联系我们</a>
+                <a href="/operations/forex-contest/"  >外汇模拟账户比赛</a>
             </li>
         </ul>
 
-
-
-        <ul id="r-icons">
-            <li><a href="https://my.cn.GoldMany.com/cs/register/" class="rw-tip_holder" id="fdi1">开设<br />
-                    真实账户</a></li>
-            <li><a href="/trading-accounts/demo/" id="fdi2">开设<br />模拟账户</a></li>
-            <li>
-                <a href="https://my.cn.GoldMany.com/cs/help/download-center/" class="modal-trigger"
-                   data-terminal="mt4" id="fdi3r">下载<br />METATRADER4</a>
-            </li>
-            <li class="last"><a href="https://my.cn.GoldMany.com/cs/help/download-center/" id="fdi4"
-                                class="modal-trigger" data-terminal="mt4"
-                                onclick="gaqPush('Downloads Multiterminal','EXE'); ga('send', 'event', 'Download','click','Multiterminal');" target="_blank">下载MultiTerminal</a>
-            </li>
-        </ul>
-        <div class="risk-warning">风险警示: 外汇交易意味着您是自愿承担失去资金的可能风险.</div>
+        @include('user.partials.right_bar')
 
 
     </div>
@@ -305,90 +403,5 @@
     @include('user.partials.footer')
 
 </div>
-
-
-
-<script src="/js/linktracker.js?v=2"></script>
-
-
-<script type="text/javascript" src="/js/ajax.js?v=1"></script>
-<script type="text/javascript" src="/js/referral.js?v=1"></script>
-<script type="text/javascript">
-
-    $(function () {
-        (new RBFX.ReferralsReferral({
-            referrer_info_url: '/referrals/getReferrerInfo/',
-            set_referrer_agent_id_cookie_url: '/referrals/setAgentIdCookieByReferrer/',
-            remove_referrer_agent_id_cookie_url: '/referrals/removeAgentIdCookieByReferrer/'
-        })).getReferrerInfo();
-    });
-
-</script><div id="external-link-notification" class="external-link-notification__container">
-    <div class="external-link-notification__popup">
-        <div class="external-link-notification__message">
-            <div class="external-link-notification__info-intro">
-                <h2>请注意！</h2><p>您将访问GoldMany(CY) Ltd (由CySEC监管, 执照编号. 191/13)的网站.</p>
-            </div>
-            <div class="external-link-notification__checkbox">
-                <input id="external-link-state" type="checkbox" />
-                <label for="external-link-state">无需任何确认即可随时访问此网站</label>
-            </div>
-        </div>
-        <div class="clear"></div>
-        <div class="external-link-notification__buttons">
-            <a id="external-link-accept-button" class="external-link-notification__accept" href="#" data-disable-notification>前往</a>
-            <a id="external-link-cancel-button" class="external-link-notification__cancel" href="#" data-disable-notification>取消</a>
-        </div>
-        <div class="clear"></div>
-    </div>
-</div>
-
-<script src="/js/notification.js"></script>
-<script>
-
-    $(document).ready(function() {
-        var link_tracker = new RBFX.MainLinkTracker();
-        (new RBFX.ExternalLinkNotification({
-            popup_selector: '#external-link-notification',
-            notification_state_selector: '#external-link-state',
-            cancel_button_selector: '#external-link-cancel-button',
-            accept_button_selector: '#external-link-accept-button',
-            accept_callback_map: {
-                'a[data-banner-info]': link_tracker.handleBannerLinkClick
-            },
-            notification_domain_list: ["robofx.com","robofx.ru","robooption.com","GoldMany.pl","GoldMany.pt","it.GoldMany.com","rbfx.es"],
-            trigger_selector: 'a:not([data-disable-notification])',
-            cookie_name: 'disable_external_link_notification'
-        })).initEventHandlers();
-    });
-
-</script>
-<script>
-
-    $(function() {
-        (new RBFX.MainLinkTracker()).initEventHandlers();
-    });
-
-</script>
-<script type="text/javascript">(function (d, w, c) {
-        (w[c] = w[c] || []).push(function () {
-            try {
-                w.yaCounter = new Ya.Metrika({
-                    id: 23465704,
-                    webvisor: true,
-                    clickmap: true,
-                    trackLinks: true,
-                    accurateTrackBounce: true
-                });
-            } catch (e) { }
-        });
-        var n = d.getElementsByTagName('script')[0], s = d.createElement('script'), f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//mc.yandex.ru/metrika/watch.js';
-        if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); }
-    })(document, window, 'yandex_metrika_callbacks');</script>
-<noscript><div><img src="//mc.yandex.ru/watch/23465704" style="position:absolute; left:-9999px;" alt=""/></div>
-</noscript>
 </body>
 </html>

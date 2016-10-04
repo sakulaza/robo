@@ -1,11 +1,11 @@
-<?php $top_categories = \App\Category::where('father_id',0)->get();?>
+<?php $top_categories = \App\Category::where('father_id',0)->where('is_active',1)->get();?>
 <ul class="nav nav-pills nav-justified">
     @foreach($top_categories as $c)
         <li class=" @if ($loop->last) last @endif ">
             <div class="nav-wrapper">
                 <a href="/{{$c->cname}}">{{$c->title}}</a>
                 <div class="sm-helper"></div>
-                <?php $categories = \App\Category::where('father_id',$c->id)->get();?>
+                <?php $categories = \App\Category::where('father_id',$c->id)->where('is_active',1)->get();?>
                 <ul class="dropdown-menu" role="menu">
                     @foreach($categories as $cs)
                         <li><a href="/{{$cs->cname}}">{{$cs->title}}</a></li>

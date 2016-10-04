@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Post;
 use Illuminate\Http\Request;
 
 class ArticleController extends Controller
@@ -28,6 +27,10 @@ class ArticleController extends Controller
     }
 
     public function operations(Request $request,$type = 'operations'){
+        return view("user.$type");
+    }
+
+    public function forex_affiliate(Request $request,$type = 'forex-affiliate'){
         return view("user.$type");
     }
 

@@ -6,16 +6,20 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="定单的执行规则，包括止损 止盈 杠杆 挂单 头寸" />
-    <meta name="keywords" content="外汇交易 保证金交易 MT4交易平台 免费5美金 止损 止盈 杠杆 挂单 头寸" />
+    <meta name="description" content="Roboforex外汇模拟账户比赛，使用MT4交易平台，交易杠杆1：100，外汇，黄金，
+    白银，期货都可以参加比赛" />
+    <meta name="keywords" content="Roboforex模拟比赛,模拟账户，外汇交易比赛，MT4交易平台，免费10万美金比赛资金，
+    免费5美金,交易杠杆，黄金交易，白银交易" />
     <meta name="w1-verification" content="117844634768" />
 
 
-    <title>订单类型</title>
-    <meta property="og:title" content="订单类型" />
-    <meta property="og:description" content="定单的执行规则，包括止损 止盈 杠杆 挂单 头寸" />
-    <meta property="og:url" content="/trade-conditions/forex-order-types/" />
+    <title>外汇模拟账户比赛</title>
+    <meta property="og:title" content="外汇模拟账户比赛" />
+    <meta property="og:description" content="Roboforex外汇模拟账户比赛，使用MT4交易平台，交易杠杆1：100，外汇，
+    黄金，白银，期货都可以参加比赛" />
+    <meta property="og:url" content="/operations/forex-contest/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
+
 
     @include('user.partials.script')
 </head>
@@ -51,15 +55,18 @@
 
 
     <div id="path">
-        <a href="/" >首页</a>/<a href="/trade-conditions/account-types/" >条件</a>/订单类型
+        <a href="/" >首页</a>
+        /                                              <a href="/operations/" >交易服务</a>
+        /                                              外汇模拟账户比赛
     </div>
 
     <div id="left">
-        <h1 >账户类型 定单执行 止损 止盈 杠杆 挂单 头寸</h1>
+        <h1 >外汇模拟账户比赛</h1>
         <table class="soc-2 share">
             <tr>
                 <td class="soc-3">
-                    <div class="fb-like" data-href="http://cn.roboforex.com/trade-conditions/forex-order-types/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
+                    <div class="fb-like" data-href="/operations/forex-contest/"
+                         data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
                     <div id="fb-root"></div>
                     <script>
 
@@ -81,7 +88,7 @@
                 </td>
                 <td>
                     <a href="https://twitter.com/share" class="twitter-share-button"
-                       data-url="/trade-conditions/forex-order-types/"></a>
+                       data-url="/operations/forex-contest/"></a>
                     <script>!function(d, s, id) {
                             var js, fjs = d.getElementsByTagName(s)[0];
                             if (!d.getElementById(id)) {
@@ -95,7 +102,7 @@
                 <td>
                     <!-- Place this tag where you want the +1 button to render. -->
                     <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300"
-                         data-href="/trade-conditions/forex-order-types/"></div>
+                         data-href="/operations/forex-contest/"></div>
 
                     <!-- Place this tag after the last +1 button tag. -->
                     <script type="text/javascript">
@@ -113,84 +120,132 @@
                 </td>
             </tr>
         </table>
-        <div ><h2>
-                定单类型</h2>
+        <div ><p>
+                <a href="http://www.contestfx.com/" target="_blank"><img alt="" src="/images/operations/contestfx-banner-cn.jpg" style="width: 648px;" /></a></p>
+            <p style="text-align: justify;">
+                模拟账户外汇比赛对每个人是很好的机会来测试他们的知识, 学会新的技能, 和赢取真实奖金, 它可以变成您的初始存款或增加您的资本. ContestFX项目的所有比赛都是在模拟账户举行, 不需要任何初始投资. 现在就加入其中任何一个! 测试您的运气, 也许您会成为赢家!</p>
             <p>
-                客户终端允许您创建和发送命令,执行买卖交易.该终端还可以控制和管理仓位.为此,有几种类型的交易指令.该命令是对客户进行交易的交易指令。该终端使用下列命令::</p>
-            <p>
-                <strong>&ldquo;市价定单&rdquo; </strong>是一个以现价买或卖金融工具的命令. 执行该命令将立即开设一个交易头寸.</p>
-            <p>
-                <strong>&ldquo;挂单&rdquo; </strong>是一个在未来以指定价格开仓或平仓的命令. 该命令用于当价格达到一定的价位时开设一个交易头寸. 下面的挂单类型有效的: 买入限价, 买入止损, 卖出限价, 和卖出止损. 一个挂单应跟随止损和获利定单. 当一个挂单被激活时, 止损和获利定单会自动在开仓价位执行.</p>
-            <p>
-                <strong>&ldquo;止损&rdquo; </strong>- 是当金融工具的价格向不获利的方向移动时,旨在减少损失的一个命令. 这样的定单总是和未结头寸或者挂单相联系的. 检查这种定单是否符合多头条件, 使用买入价, 空头是使用卖出价.</p>
-            <p>
-                <strong>&ldquo;获利&rdquo; </strong>是当金融工具的价格达到理想水平时,旨在赚钱的一个命令. 执行该命令会平仓. 一个获利定单总是和未结头寸或挂单相联系的. 检查这种定单是否符合多头条件是使用买入价,空头是使用卖出价.</p>
-            <h2>
-                定单执行</h2>
-            <p>
-                客户定单执行的质量是GoldMany优先考虑的.</p>
-            <p>
-                1. 一个金融工具的价格有2个值: 买入价和卖出价. 买入价是一个金融工具在市场上的出售价格. 卖出价是一个金融工具在市场上的购入价格. 客户开仓一个空头或平仓一个多头使用买入价. 客户开仓一个多头或平仓一个空头是卖出价.点差是卖出价和买入价的差价.</p>
-            <p>
-                2. Fix-Cent 和 Fix-Standard 账户是使用 &laquo;即时执行&raquo; 执行模式. Pro-Cent 和 Pro-Standard 账户是使用 &laquo;市价执行&raquo; 执行模式.</p>
-            <p>
-                3. 如果市场条件不同于一般条件,定单处理时间可能会延长.</p>
-            <p>
-                4. Pro-Cent 和 Pro-Standard 账户的卖出止损,买入止损,买入限价, 卖出限价,获利, 止损定单的是以处理定单时的现价执行.</p>
-            <p>
-                5. Fix-Cent, Fix-Standard 账户的卖出止损,买入止损,止损定单会不以指定价格执行, 如果这些定单是以gap模式接受处理.</p>
-            <p>
-                6. 为了开仓交易, 客户的交易账户必须有可用资金 (可用保证金) . 保证金的大小取决于自己的杠杆数. 客户可选择的最大杠杆是 1:1000.</p>
-            <p>
-                7. 客户必须保持交易账户的保证金在要求的水平之上. 如果没有,头寸将根据交易规则强行平仓.</p>
-            <p>
-                8. 保证金水平是保证金股权的一个百分比率. Margin Level = (Equity / Margin) * 100.</p>
+                <strong>以下比赛是可用的:</strong></p>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 648px;">
+                <tbody>
+                <tr>
+                    <td style="vertical-align: top;" width="110px">
+                        <a href="http://www.contestfx.com/cs/contest-item/rule/Week-with-CFD/" target="_blank">
+                            <img alt="" src="/images/operations/cfd.png" style="/* float: left; */ height: 95px; width: 100px;" />
+                        </a>
+                    </td>
+                    <td style="vertical-align: top;">
+                        <p style="text-align: justify;">
+                            <strong><a href="http://www.contestfx.com/cs/contest-item/rule/Week-with-CFD/" target="_blank">CFD周</a></strong>
+                            - 本赛事为周赛事，比赛平台为MT4 ECN-Pro 模拟账户，交易工具为差价合约CFD。
+                            比赛结束取前十名优胜者并按最终排名颁发奖金。奖金以赠金形式转入获奖者真实交易账户，
+                            仅在满足一定交易量后方可提取。相关细则请参阅本赛事&quot;规则&quot;页。
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" width="324">
+                        <div style="margin-bottom:1em">
+                            &nbsp;</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="vertical-align: top;" width="110px">
+                        <a href="http://www.contestfx.com/cs/contest-item/rule/KingSize-MT5/" target="_blank">
+                            <img alt="" src="/images/operations//kingsize.png" style="float: left; height: 95px; width: 100px;" />
+                        </a>
+                    </td>
+                    <td style="vertical-align: top; text-align: justify;">
+                        <a href="http://www.contestfx.com/cs/contest-item/rule/KingSize-MT5/" target="_blank">
+                            <strong>KingSize MT5</strong>
+                        </a> &ndash;
+                        MetaTrader5账户比赛是每周四举行并持续24小时.
+                        奖金池是根据他们最终排名的前10名交易者之间进行分配.
+                        奖金做为一个奖励转账到获胜者真实MetaTrader5账户.
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" width="324">
+                        <div style="margin-bottom:1em">
+                            &nbsp;</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="vertical-align: top;" width="110px">
+                        <a href="http://www.contestfx.com/cs/contest-item/rule/Trade-Day/" target="_blank">
+                            <img alt="" src="/images/operations/megalot.png" style="float: left; height: 95px; width: 100px;" /></a>
+                    </td>
+                    <td style="vertical-align: top;">
+                        <p style="text-align: justify;">
+                            <a href="http://www.contestfx.com/cs/contest-item/rule/Trade-Day/" target="_blank">
+                                <strong>Trade Day</strong>
+                            </a> &ndash; MT4账户比赛是每周三举行并持续24小时.
+                            最好结果的前10名交易者是获胜者. 奖金做为一个奖励转账到获胜者账户, 仅在所有必需条件满足之后可以支取.
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" width="324">
+                        <div style="margin-bottom:1em">
+                            &nbsp;</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="vertical-align: top;" width="110px">
+                        <a href="http://www.contestfx.com/cs/contest-item/rule/demo-forex/" target="_blank">
+                            <img alt="" src="/images/operations//demo.png" style="float: left; height: 95px; width: 100px;" /></a></td>
+                    <td style="vertical-align: top;">
+                        <p style="text-align: justify;">
+                            <a href="http://www.contestfx.com/cs/contest-item/rule/demo-forex/" target="_blank">
+                                <strong>Demo Forex</strong>
+                            </a> &ndash; 比赛每月举行. 最好结果的前10名交易者 (考虑每个参赛者比赛账户余额) 是获胜者.
+                            奖金做为一个奖励转账到获胜者账户, 仅在所有必需条件满足之后可以支取.
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <br />
         </div>
     </div>
 
     <div id="right">
         <ul id="r-menu">
             <li >
-                <a href="/trade-conditions/account-types/"  >账户类型</a>
+                <a href="/operations/bonuses-promotions/"  >赠金,计划和活动</a>
 
 
             </li>
             <li >
-                <a href="/trade-conditions/specifications/"  >合约细则</a>
+                <a href="/operations/verification/"  >账户验证</a>
 
 
             </li>
             <li >
-                <a href="/trade-conditions/ecn/"  >专业ECN 账户</a>
+                <a href="/operations/security/"  >资金安全</a>
 
 
             </li>
             <li >
-                <a href="/trade-conditions/cfd-trading-goldmany/"  >CFD(差价合约）</a>
+                <a href="/operations/deposit-withdraw/"  >存款 / 取款</a>
+
+
+            </li>
+            <li >
+                <a href="/operations/1000-up-leverage/"  >杠杆最大值1:1000</a>
 
 
             </li>
             <li  class="selected" >
-                <a>订单类型</a>
-            </li>
-            <li >
-                <a href="/trade-conditions/terminals/"  >交易终端</a>
-
-
-            </li>
-            <li >
-                <a href="/trade-conditions/metatrader4-mt4/"  >MetaTrader 4 (MT4)</a>
-
-
-            </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
+                <a>外汇模拟账户比赛</a>
 
 
             </li>
         </ul>
 
+
         @include('user.partials.right_bar')
+
 
     </div>
 
