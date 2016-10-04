@@ -73,15 +73,14 @@
                     您可以写下您感兴趣的时间. 我们的专家将在您指定的时间联系您.<br/>
                     &nbsp;</p>
                 <h2>
-                    GoldMany(CY)Ltd总部利马索尔,塞浦路斯</h2>
+                    Gold Many Global Ltd 总部：英国</h2>
                 <div style="
     position: relative;
     border-top: 3px solid #256FBC;
     margin-bottom: 30px;
 ">
-                    <iframe frameborder="0" height="160" marginheight="0" marginwidth="0" scrolling="no"
-                            src="http://www.openstreetmap.org/export/embed.html?bbox=33.066197633743286%2C34.687013314812425%2C33.0732786655426%2C34.69083316687489&amp;layer=mapnik&amp;marker=34.68892326287691%2C33.069738149642944&amp;wmode=transparent"
-                            width="648" wmode="Opaque"></iframe>
+                    <iframe src="http://www.google.cn/maps/embed?pb=!1m18!1m12!1m3!1d2477.890616768358!2d-3.3558591845110985!3d51.606892779651545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e17b3d388f2eb%3A0xc457cf1aad5d42ec!2sGraigwen+Service+Station+Ltd!5e0!3m2!1szh-CN!2scn!4v1475568028608"
+                            width="648" height="160" frameborder="0" style="border:0" allowfullscreen></iframe>
                     <div style="
     text-align: justify;
     background: rgb(249, 248, 248);
@@ -90,84 +89,49 @@
     position: relative;
     height: 190px;
 ">
-                        <p style="text-align: center;position: absolute;bottom: 10px;right: 10px;background: #fff;padding: 7px;margin-bottom: 0;">
-                            <a href="/files/filemanager/image3/structure/about/contacts/cy_office_1.JPG"
-                               rel="image_group" style="margin-right: 2px;"><img
-                                        src="/files/filemanager/image3/structure/about/contacts/cy_office_1_s.jpg"
-                                        style="height: 75px;"/></a><a
-                                    href="/files/filemanager/image3/structure/about/contacts/cy_office_2.JPG"
-                                    rel="image_group" style="margin-right: 2px;"><img
-                                        src="/files/filemanager/image3/structure/about/contacts/cy_office_2_s.jpg"
-                                        style="height: 75px;"/></a> <a
-                                    href="/files/filemanager/image3/structure/about/contacts/cy_office_3.JPG"
-                                    rel="image_group" style="margin-right: 2px;"><img
-                                        src="/files/filemanager/image3/structure/about/contacts/cy_office_3_s.jpg"
-                                        style="height: 75px;"/></a></p>
-                        <strong>办公地址</strong>: Soboh House 377, 28th October Street, office #1, CY-3107 Limassol, Cyprus<br/>
-                        <strong>法务地址</strong>: 4 Modestou Panteli, office 005, Mesa Geitonia, PC 4003, Limassol,
-                        Cyprus<br/>
-                        <strong>P.O. Box</strong>: 54176, CY-3721 Limassol, Cyprus<br/>
-                        <strong>电话</strong>: +357 25 262660<br/>
-                        <strong>传真</strong>: +357 25 580077<br/>
-                        <strong>邮箱</strong>:<a href="mailto:info@robofx.com">&nbsp;info@robofx.com</a><br/>
                         <br/>
-                        <strong>工作时间</strong>: 09:00 - 18:00 (UTC+2)<br/>
+                        <strong>办公地址</strong>: 9 Pantygraigwen Road  Pontypridd Mid   Glamorgan  United Kingdom CF37 2RR<br/><br/>
+                        <strong>电话</strong>: +44 845 257 6082<br/><br/>
+                        <strong>传真</strong>: +44 844 504 5173<br/><br/>
+                        <strong>邮箱</strong>:<a href="mailto:support@goldmanyfx.com">&nbsp;support@goldmanyfx.com</a><br/>
                         <br/>
-                        <strong>注册号</strong>: HE310464<br/>
-                        <strong>纳税人识别号</strong>: 12310464I
+                        <strong>工作时间</strong>: 02:00 - 11:00 (UTC+0)<br/>
                     </div>
                 </div>
-                <h2>
-                    GoldMany Ltd, 贝尔莫潘,伯利兹</h2>
+                <h2>Gold Many Global Ltd,办公室,上海,中国</h2>
                 <div style="
-    padding: 20px;
+    position: relative;
     border-top: 3px solid #256FBC;
-    background: rgb(249, 248, 248);
     margin-bottom: 30px;
 ">
-                    <strong>办公地址</strong>: 176, Joo Chiat Road, #02-02, 427447, 新加坡<br/>
-                    <strong>法务地址</strong>: No. 1 Orchid Garden Street, 贝尔莫潘,伯利兹<br/>
-                    <strong>电话:</strong> +65 3158 8389<br/>
-                    <strong>邮箱:</strong><a href="mailto:info@GoldMany.com"> info@GoldMany.com</a>&nbsp;(一般问题)<br/>
-                    <strong>E-mail partnership: </strong><a href="mailto:sales@GoldMany.com">sales@GoldMany.com</a>&nbsp;(销售部)<br/>
-                    <strong>邮箱: </strong><a href="mailto:marketing@GoldMany.com">marketing@GoldMany
-                        .com</a>&nbsp;(市场部)<br/>
-                    <br/>
-                    <img alt="" src="http://www.roboforex.ua/files/filemanager/image/icons/skype.png"
-                         style="width: 16px; height: 16px; float: left;"/> &nbsp;代理Skype: <a
-                            href="skype:roboforex.affiliate?call">roboforex.affiliate</a></div>
-                <h2>
-                    GoldMany LP, 奥克兰, 新西兰</h2>
-                <div style="
-    padding: 20px;
-    border-top: 3px solid #256FBC;
+                    <iframe src="http://www.google.cn/maps/embed?pb=!1m18!1m12!1m3!1d3411.4567564188333!2d121.2110997147517!3d31.235776681464635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b25c5476efe15d%3A0x842c478157935d22!2z5LiK5rW35biC6Z2S5rWm5Yy65Y2O6IW-6LevMTI4OOWPtw!5e0!3m2!1szh-CN!2scn!4v1475569217213"
+                            width="648" height="160" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <div style="
+    text-align: justify;
     background: rgb(249, 248, 248);
-    margin-bottom: 30px;
+    padding: 20px;
+    margin-top: -20px;
+    position: relative;
+    height: 190px;
 ">
-                    <strong>客服中心:</strong><br/>
-                    <br/>
-                    <strong>邮箱:</strong>
-                    <script language="JavaScript">
-                        <!--
-                        var name = "info";
-                        var domain = "GoldMany.com";
-                        var sb_recipient = name + "@" + domain;
-                        var sb_url = "mailto:" + sb_recipient;
-                        document.write(sb_recipient.link(sb_url));
-                        // -->
-                    </script>
+                        <br/>
+                        <strong>办公地址</strong>: 上海市青浦区华新镇华腾路1288号1栋2层I区265室<br/><br/>
+                        {{--<strong>法务地址</strong>: No. 1 Orchid Garden Street, 贝尔莫潘,伯利兹<br/>--}}
+                        <strong>电话:</strong> 400-800-0654<br/><br/>
+                        <strong>邮箱:</strong><a href="support@goldmanyfx.com"> support@goldmanyfx.com</a><br/>
+                        <br/>
+                        <strong>工作时间</strong>: 09:00 - 18:00<br/>
+                    </div>
                 </div>
+
                 <h2>
-                    GoldMany(CY)Ltd办公室,大连,中国</h2>
+                    Gold Many Global Ltd 办公室,盘锦,中国</h2>
                 <div style="
     position: relative;
     border-top: 3px solid #256FBC;
 ">
-                    <iframe frameborder="0" height="160" marginheight="0" marginwidth="0" scrolling="no"
-                            src="http://www.openstreetmap.org/export/embed.html?bbox=121.61475777626038%2C38.912991765346206%2C121.63267493247986%2C38.920588143663394&amp;layer=mapnik&amp;marker=38.916790056148315%2C121.62371635437012&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent"
-                            style="
-    opacity: 0.7;
-" width="648" wmode="Opaque"></iframe>
+                    <iframe src="http://www.google.cn/maps/embed?pb=!1m18!1m12!1m3!1d2766.683989918853!2d122.07038735259123!3d41.12374162085832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5e263f1d3665bfdf%3A0x9be19d14cfc1f602!2z6L695a6B55yB55uY6ZSm5biC5YW06ZqG5Y-w5Yy66bmk57-U6LevNDflj7cg6YKu5pS_57yW56CBOiAxMjQwMTA!5e0!3m2!1szh-CN!2scn!4v1475569945621"
+                            width="648" height="160" frameborder="0" style="border:0" allowfullscreen></iframe>
                     <div style="
     text-align: justify;
     background: rgb(249, 248, 248);
@@ -177,44 +141,14 @@
     position: relative;
     height: 145px;
 ">
-                        <p style="text-align: center;position: absolute;bottom: 10px;right: 10px;background: #fff;padding: 7px;margin-bottom: 0;">
-                            <a href="http://www.roboforex.ru/files/filemanager/image3/news/85CCDFAD642D56C3394172ACF1A51D3A.jpg"
-                               rel="image_group" style="margin-right: 2px;"><img
-                                        src="http://www.roboforex.ru/files/filemanager/image3/news/85CCDFAD642D56C3394172ACF1A51D3A.jpg"
-                                        style="height: 100px;/* box-shadow: 0 0 10px #344964; */"/></a><a
-                                    href="http://www.roboforex.ru/files/filemanager/image3/news/D6E7474563D10FA8DF8BDE.png"
-                                    rel="image_group" style="margin-right: 2px;"><img
-                                        src="http://www.roboforex.ru/files/filemanager/image3/news/D6E7474563D10FA8DF8BDE.png"
-                                        style="height: 100px;"/></a> <a
-                                    href="http://www.roboforex.ru/files/filemanager/image3/news/24B02D6098D32EE256C733A6591844DE.jpg"
-                                    rel="image_group" style="margin-right: 2px;"><img
-                                        src="http://www.roboforex.ru/files/filemanager/image3/news/24B02D6098D32EE256C733A6591844DE.jpg"
-                                        style="height: 100px;/* box-shadow: 0 0 10px #344964; */"/></a> <a
-                                    href="http://www.roboforex.ru/files/filemanager/image3/news/D6E7474563D10FA8DE4122B1ED9F8BDE.jpg"
-                                    rel="image_group"><img
-                                        src="http://www.roboforex.ru/files/filemanager/image3/news/D6E7474563D10FA8DE4122B1ED9F8BDE.jpg"
-                                        style="height: 100px;/* box-shadow: 0 0 10px #344964; */"/></a></p>
-                        <strong>地址</strong>: 中山区,大公街. 13号, 塔2, 2单元 40-1, 大连, 中国<br/>
+                        <strong>地址</strong>: 盘锦市兴隆台区石油大街财富广场B座1111-1113<br/><br/>
+                        <strong>电话</strong>: 400-800-0654<br/><br/>
+                        <strong>邮箱</strong>:&nbsp;<a href="mailto:support@goldmanyfx.com">support@goldmanyfx.com</a><br/><br/>
                         <br/>
-                        <strong>电话</strong>: +86 202 9194643<br/>
-                        <strong>邮箱</strong>:&nbsp;<a href="mailto:infochina@roboforex.com">infochina@roboforex
-                            .com</a><br/>
-                        <br/>
-                        <strong>工作时间</strong>: 10:00 - 20:00
+                        <strong>工作时间</strong>: 09:00 - 18:00
                     </div>
                 </div>
-                <h2>
-                    GoldMany乌克兰</h2>
-                <div style="
-    padding: 20px;
-    border-top: 3px solid #256FBC;
-    background: rgb(249, 248, 248);
-    margin-bottom: 30px;
-">
-                    <strong>客服中心:</strong><br/>
-                    <br/>
-                    <strong>电话:</strong> 0 800 21 02 34 (乌克兰免费电话)
-                </div>
+
                 <script lang="text/javascript">
                     jQuery(document).ready(function () {
                         $("a[rel=image_group, image_group2]").fancybox({
@@ -257,13 +191,15 @@
                         <td><textarea warp=soft rows=7 cols=50 name=send[title]></textarea></td>
                     </tr>
                     <tr id="faq-code">
-                        <th><img src="/kcaptcha.php?temp=525" style="cursor:pointer;"
-                                 onclick="var time = new Date(); this.src = '/kcaptcha.php?temp='+time.getMilliseconds();"/>
-                        </th>
-                        <td>
-                            <input id="ff-code" class="fText" name="send[captcha]" value=""/>
-                            <label for="ff-code">键入字符<br/>您看到下面的图片</label>
-                        </td>
+                        {{--<th>--}}
+                            {{--<img src="/kcaptcha.php?temp=525" style="cursor:pointer;"--}}
+                                 {{--onclick="var time = new Date(); --}}
+                                 {{--this.src = '/kcaptcha.php?temp='+time.getMilliseconds();"/>--}}
+                        {{--</th>--}}
+                        {{--<td>--}}
+                            {{--<input id="ff-code" class="fText" name="send[captcha]" value=""/>--}}
+                            {{--<label for="ff-code">键入字符<br/>您看到下面的图片</label>--}}
+                        {{--</td>--}}
                     </tr>
 
                     <tr>

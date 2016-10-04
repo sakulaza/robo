@@ -27,7 +27,7 @@
     </div>
 
     <div id="h-contacts" class="top-header-contact-help">
-        <div id="hc-phone" dir="ltr"><span>+862029194643</span></div>
+        <div id="hc-phone" dir="ltr"><span>400-800-0654</span></div>
         <div class="clear"></div>
         <div class="hc-links">
             <a href="javascript:void(0)" id="hc-support"

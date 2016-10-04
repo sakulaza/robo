@@ -123,55 +123,56 @@
 
     <div id="f-registration">
         <p style="text-align:left;font-weight: bold;">本网站含GoldMany集团公司的基本信息介绍：</p>
-        <p style="float: left; width: 390px;text-align: justify; ">Gold Many Global Ltd受到CySEC监管, 执照号14668.</p>
-        <p style="float: right; width: 390px;text-align: justify; ">Gold Many Global Ltd受到IFSC的监管, 执照号为
-            IFSC/60/271/TS/16.</p>
+        <p style="float: left; width: 390px;text-align: justify; ">Gold Many Global Ltd受到Vanuatu监管, 执照号14668.</p>
+        {{--<p style="float: right; width: 390px;text-align: justify; ">Gold Many Global Ltd受到IFSC的监管, 执照号为--}}
+            {{--IFSC/60/271/TS/16.</p>--}}
         <p style="clear:both; text-align:left;">此网站是Gold Many Global Ltd的财产.</p>
-        <p style="text-align:left; font-weight: bold; margin-bottom: 0px;">Gold Many Global Ltd以及GoldMany
-            Ltd不为居住在美国,日本,加拿大,比利时的客户提供任何金融服务.
-        </p>
+        {{--<p style="text-align:left; font-weight: bold; margin-bottom: 0px;">Gold Many Global Ltd以及GoldMany--}}
+            {{--Ltd不为居住在美国,日本,加拿大,比利时的客户提供任何金融服务.--}}
+        {{--</p>--}}
     </div>
 
     <div id="f-menu">
     </div>
     <div id="f-copyright">
         <div id="fc-forex">
-            © GoldMany, 2009-2016.<br>All rights reserved.
-        </div>
-        <div class="socials">
-            <ul>
-                <li class="social-sprite-horizontal" id="fw-facebook">
-                    <a href="https://www.facebook.com/GoldManychina" target="_blank" title="FaceBook"></a>
-                </li>
-                <li class="social-sprite-horizontal" id="fw-twitter">
-                    <a href="http://twitter.com/GoldMany_com" target="_blank" title="Twitter"></a>
-                </li>
-                <li class="social-sprite-horizontal" id="fw-youtube">
-                    <a href="http://www.youtube.com/GoldManylp" target="_blank" title="Youtube"></a>
-                </li>
-                <li class="social-sprite-horizontal" id="fw-google-plus">
-                    <a href="https://plus.google.com/communities/109893718694185537318" target="_blank"
-                       title="Google+"></a>
-                </li>
-
-            </ul>
-        </div>
-        <div id="fc-links">
             <a href="http://cn.GoldMany.com/about/security-policy/">隐私政策</a><br>
             <a href="http://cn.GoldMany.com/about/risk-warning/">风险警告</a>
+
         </div>
-        <div id="fc-design">
-            <!--a class="foot-awward" href="/about/awards" target="_blank"><img alt="2013«最佳零售外汇经纪人»" src="/files/filemanager/image/GoldMany_award_1.png" style="width: 45px; height: 56px;" title="2013«最佳零售外汇经纪人»" /></a> <a class="foot-awward" href="/about/awards" target="_blank"><img alt="2013俄罗斯和独联体最佳零售外汇品牌奖" src="/files/filemanager/image/brand2013.png" style="width: 42px; height: 56px;" title="2013俄罗斯和独联体最佳零售外汇品牌奖" /></a> <a class="foot-awward" href="/about/awards" style="margin-right: 12px;" target="_blank"><img alt="2013«最佳外汇新闻 &amp; 分析提供者»" src="/files/filemanager/image/mena245alt.png" style="width: 42px; height: 56px;" title="2013«最佳外汇新闻 &amp; 分析提供者»" /></a> <a class="foot-awward" href="/about/awards/" style="margin-right: 12px;" target="_blank" title="«亚洲增长最快的外汇品牌» 2014年"><img alt="«亚洲增长最快的外汇品牌» 2014年" src="/files/filemanager/images2/GoldMany_award_new%20copy.png" style="width: 45px; height: 56px;" /></a> <a class="foot-awward" href="/about/awards" style="margin-right: 10px;" target="_blank"><img alt="在阿联酋迪拜的国际金融中心展览会&quot;第13届中东和北非地区外汇秀&quot;的奖项 &quot;2014最佳标准外汇经纪商&quot;" src="/files/filemanager/images2/cup_mena_n.png" style="width: 41px; height: 56px;" title="在阿联酋迪拜的国际金融中心展览会&quot;第13届中东和北非地区外汇秀&quot;的奖项 &quot;2014最佳标准外汇经纪商&quot;" /></a-->
-            <a class="foot-awward" href="http://cn.GoldMany.com/about/sponsorship/starikovich-heskes-dakar-2017/"
-               style="margin-right: 0px;" target="_blank">
-                <img alt="&quot;The Dakar 2017&quot;" src="/images/dakar-bw.png" style="width: 65px;"
-                     title="2017年达喀尔拉力赛&quot;Starikovich-Heskes队伍&quot;赞助">
-            </a>
-            <a class="foot-awward" href="http://cn.GoldMany.com/about/sponsorship/ipa-limassol-football-team-2016/"
-               style="margin-right: 12px;" target="_blank">
-                <img alt="IPA Limassol" src="/images/football-bw.png" style="width: 75px; margin-top: -5px;"
-                     title="利马索尔足球队赞助商">
-            </a>
+        {{--<div class="socials">--}}
+            {{--<ul>--}}
+                {{--<li class="social-sprite-horizontal" id="fw-facebook">--}}
+                    {{--<a href="https://www.facebook.com/GoldManychina" target="_blank" title="FaceBook"></a>--}}
+                {{--</li>--}}
+                {{--<li class="social-sprite-horizontal" id="fw-twitter">--}}
+                    {{--<a href="http://twitter.com/GoldMany_com" target="_blank" title="Twitter"></a>--}}
+                {{--</li>--}}
+                {{--<li class="social-sprite-horizontal" id="fw-youtube">--}}
+                    {{--<a href="http://www.youtube.com/GoldManylp" target="_blank" title="Youtube"></a>--}}
+                {{--</li>--}}
+                {{--<li class="social-sprite-horizontal" id="fw-google-plus">--}}
+                    {{--<a href="https://plus.google.com/communities/109893718694185537318" target="_blank"--}}
+                       {{--title="Google+"></a>--}}
+                {{--</li>--}}
+
+            {{--</ul>--}}
+        {{--</div>--}}
+        <div id="fc-links">
+            © GoldMany, 2009-2016. All rights reserved.
         </div>
+        {{--<div id="fc-design">--}}
+            {{--<!--a class="foot-awward" href="/about/awards" target="_blank"><img alt="2013«最佳零售外汇经纪人»" src="/files/filemanager/image/GoldMany_award_1.png" style="width: 45px; height: 56px;" title="2013«最佳零售外汇经纪人»" /></a> <a class="foot-awward" href="/about/awards" target="_blank"><img alt="2013俄罗斯和独联体最佳零售外汇品牌奖" src="/files/filemanager/image/brand2013.png" style="width: 42px; height: 56px;" title="2013俄罗斯和独联体最佳零售外汇品牌奖" /></a> <a class="foot-awward" href="/about/awards" style="margin-right: 12px;" target="_blank"><img alt="2013«最佳外汇新闻 &amp; 分析提供者»" src="/files/filemanager/image/mena245alt.png" style="width: 42px; height: 56px;" title="2013«最佳外汇新闻 &amp; 分析提供者»" /></a> <a class="foot-awward" href="/about/awards/" style="margin-right: 12px;" target="_blank" title="«亚洲增长最快的外汇品牌» 2014年"><img alt="«亚洲增长最快的外汇品牌» 2014年" src="/files/filemanager/images2/GoldMany_award_new%20copy.png" style="width: 45px; height: 56px;" /></a> <a class="foot-awward" href="/about/awards" style="margin-right: 10px;" target="_blank"><img alt="在阿联酋迪拜的国际金融中心展览会&quot;第13届中东和北非地区外汇秀&quot;的奖项 &quot;2014最佳标准外汇经纪商&quot;" src="/files/filemanager/images2/cup_mena_n.png" style="width: 41px; height: 56px;" title="在阿联酋迪拜的国际金融中心展览会&quot;第13届中东和北非地区外汇秀&quot;的奖项 &quot;2014最佳标准外汇经纪商&quot;" /></a-->--}}
+            {{--<a class="foot-awward" href="http://cn.GoldMany.com/about/sponsorship/starikovich-heskes-dakar-2017/"--}}
+               {{--style="margin-right: 0px;" target="_blank">--}}
+                {{--<img alt="&quot;The Dakar 2017&quot;" src="/images/dakar-bw.png" style="width: 65px;"--}}
+                     {{--title="2017年达喀尔拉力赛&quot;Starikovich-Heskes队伍&quot;赞助">--}}
+            {{--</a>--}}
+            {{--<a class="foot-awward" href="http://cn.GoldMany.com/about/sponsorship/ipa-limassol-football-team-2016/"--}}
+               {{--style="margin-right: 12px;" target="_blank">--}}
+                {{--<img alt="IPA Limassol" src="/images/football-bw.png" style="width: 75px; margin-top: -5px;"--}}
+                     {{--title="利马索尔足球队赞助商">--}}
+            {{--</a>--}}
+        {{--</div>--}}
     </div>
 </div>
