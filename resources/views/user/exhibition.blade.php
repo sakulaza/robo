@@ -56,61 +56,6 @@
 
     <div id="left">
         <h1 >GoldMany 展览会</h1>
-        <table class="soc-2 share">
-            <tr>
-                <td class="soc-3">
-                    <div class="fb-like" data-href="http://cn.GoldMany.com/about/exhibition/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
-                    <div id="fb-root"></div>
-                    <script>
-
-                        (function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (d.getElementById(id))
-                                return;
-                            js = d.createElement(s);
-                            js.id = id;
-                            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
-                            fjs.parentNode.insertBefore(js, fjs);
-                        }(document, 'script', 'facebook-jssdk'));
-
-                    </script>
-                </td>
-                <td class="soc-3 linkedin">
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-                    <script type="IN/Share" data-counter="right"></script>
-                </td>
-                <td>
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cn.GoldMany.com/about/exhibition/"></a>
-                    <script>!function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (!d.getElementById(id)) {
-                                js = d.createElement(s);
-                                js.id = id;
-                                js.src = "//platform.twitter.com/widgets.js";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }
-                        }(document, "script", "twitter-wjs");</script>
-                </td>
-                <td>
-                    <!-- Place this tag where you want the +1 button to render. -->
-                    <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300" data-href="http://cn.GoldMany.com/about/exhibition/"></div>
-
-                    <!-- Place this tag after the last +1 button tag. -->
-                    <script type="text/javascript">
-
-                        (function() {
-                            var po = document.createElement('script');
-                            po.type = 'text/javascript';
-                            po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0];
-                            s.parentNode.insertBefore(po, s);
-                        })();
-
-                    </script>
-                </td>
-            </tr>
-        </table>
         <div ><p style="text-align: justify;">
                 每年, GoldMany不仅扩大服务提供种类和提高它们的质量, 而且也参加许多特定领域的展览会. GoldMany是不同国际和俄罗斯展览会的永久参与者,致力于外汇市场相关服务.</p>
             <p style="text-align: justify;">

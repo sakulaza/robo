@@ -34,5 +34,9 @@ class ArticleController extends Controller
         return view("user.$type");
     }
 
+    public function beginner(Request $request,$type = 'beginner'){
+        return view("user.$type");
+    }
+
 
 }

@@ -351,67 +351,6 @@
 
     <div id="left">
         <h1 >关于GoldMany</h1>
-        <table class="soc-2 share">
-            <tr>
-                <td class="soc-3">
-                    <div class="fb-like" data-href="http://cn.GoldMany.com/about/" data-send="false"
-                         data-layout="button_count" data-width="82" data-show-faces="true">
-                    </div>
-                    <div id="fb-root"></div>
-                    <script>
-
-                        (function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (d.getElementById(id))
-                                return;
-                            js = d.createElement(s);
-                            js.id = id;
-                            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
-                            fjs.parentNode.insertBefore(js, fjs);
-                        }(document, 'script', 'facebook-jssdk'));
-
-                    </script>
-                </td>
-                <td class="soc-3 linkedin">
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-                    <script type="IN/Share" data-counter="right"></script>
-                </td>
-                <td>
-                    <a href="https://twitter.com/share" class="twitter-share-button"
-                       data-url="http://cn.GoldMany.com/about/">
-                    </a>
-                    <script>!function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (!d.getElementById(id)) {
-                                js = d.createElement(s);
-                                js.id = id;
-                                js.src = "//platform.twitter.com/widgets.js";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }
-                        }(document, "script", "twitter-wjs");</script>
-                </td>
-                <td>
-                    <!-- Place this tag where you want the +1 button to render. -->
-                    <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300"
-                         data-href="http://cn.GoldMany.com/about/">
-                    </div>
-
-                    <!-- Place this tag after the last +1 button tag. -->
-                    <script type="text/javascript">
-
-                        (function() {
-                            var po = document.createElement('script');
-                            po.type = 'text/javascript';
-                            po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0];
-                            s.parentNode.insertBefore(po, s);
-                        })();
-
-                    </script>
-                </td>
-            </tr>
-        </table>
         <div ><style type="text/css">
                 .carousel_wrapper {
                     width: 100%;
@@ -474,50 +413,33 @@
                 }</style>
             <div class="about-robo">
                 <p style="text-align: justify;">
-                    國家外匯經紀商GoldMany是一個金融集團, 在短時間內即成為金融市場領先的外匯經紀商並且獲取了
-                    數以萬計客戶的信心. GoldMany金融集團由GoldMany(CY)Ltd, RoboTrade和GoldMany LP組成.</p>
+                    Gold  Many 是一家总部位于英国伦敦的国际外汇交易商。
+                    通过目前最先进的在线外汇交易技术，
+                    向交易者提供只有投资银行和高净值投资者才能使用到的低廉价格以及超高的流动性服务。</p>
                 <p style="text-align: justify;">
-                    自创立时刻, GoldMany一直专注于创造舒适的交易条件和提供高质量的服务给客户,
-                    公司的主要优势是完美的声誉, 客户服务以及技术创新. 今天, 我们在积极成功的运营于全球一些国家
-                    和尽力扩展我们的活动领域, 涵盖新的地区. 我们对提供给我们客户和合作伙伴的服务感到非常自豪,
-                    无论他们的经验和投资的金额, 所有服务品质是相同的.
+                    公司秉承依法、合规、真诚、务实的服务宗旨，本着以真心换真情、以服务赢得用户的信条，诚信经营、
+                    规范运作、创新发展的经营理念，为投资者提供最具竞争力的专业交易平台。提供包括外汇货币对、差价合约、
+                    商品和欧美股指等近百种交易产品。我们承诺：将以最优秀的团队和最专业的技术，为您提供创造更多财富的机遇！
+                </p>
+                <p style="text-align: justify;">
+                    公司的经营活动受到英国、澳大利亚等其他多国金融监管机构的监督，
+                    公司通过多种平台为客户提供5天24小时规范化操作的全方位金融服务，
+                    实时提供全球逾10家顶尖银行及流通量提供商的实时报价入口，
+                    以极具竞争力的价格及速度执行所有交易。
+                </p>
+                <p style="text-align: justify;">
+                    “求真务实，追求卓越”是我们价值的体现，“汇聚财智 ，共享成长”是我们的责任，
+                    我们为成为一流的金融企业而努力，为您提供全面便捷的投资服务，并将一路与您同行。
                 </p>
                 <h3 class="styled-h first">
                     <i class="icon">&nbsp;</i><span class="styled-h-text">监管</span></h3>
                 <ul class="regulation" style="list-style: none;padding-left: 0px;">
                     <li>
-                        <img alt="" src="/images/about/cysec.png" style="float: left;
-                        width: 120px; display: block; height: 55px; margin: -3px 10px 14px 0px;" />
+                        <img alt="" src="/images/about/belize.png" style="float: left; width: 80px;
+                        height: 40px; display: block; margin: -15px 10px 14px 0px;" />
                         <div class="description">
-                            GoldMany (CY) Ltd受到CySEC监管, 执照号191/13并且还在英国FCA注册. 编号为608962.</div>
-                        <div class="clear">
-                            &nbsp;</div>
-                    </li>
-                    <li>
-                        <img alt="" src="/images/about/icf.png"
-                             style="float: left; width: 120px; display: block;
-                             margin: -3px 10px 14px 0px; height: 55px;" />
-                        <div class="description">
-                            并且GoldMany (CY) Ltd 是塞浦路斯
-                            <a href="https://my.robofx.com/files/document/
-                            information_on_investor_compensation_scheme.pdf" target="_blank">
-                                投资者赔偿基金会
-                            </a>的一名正式会员, 可为投资者提供高达20,000欧元存款的保险.
+                            Gold Many Global Ltd受到Vanuatu监管, 执照号14668.
                         </div>
-                        <div class="clear">
-                            &nbsp;</div>
-                    </li>
-                    <li>
-                        <img alt="" src="/images/about/belize.png" style="float: left; width: 120px; height: 55px; display: block; margin: -3px 10px 14px 0px;" />
-                        <div class="description">
-                            GoldMany Ltd受到IFSC的监管, 执照号为 IFSC/60/271/TS/16.</div>
-                        <div class="clear">
-                            &nbsp;</div>
-                    </li>
-                    <li>
-                        <img alt="" src="/images/about/FC.png" style="float: left; width: 120px; display: block; height: 55px; margin: -3px 10px 14px 0px;" />
-                        <div class="description">
-                            此外, GoldMany Ltd是国际金融委员会的一名正式成员, 此独立组织致力于调解投资者与经纪商的纠结已有超过50年的历史.</div>
                         <div class="clear">
                             &nbsp;</div>
                     </li>

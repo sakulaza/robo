@@ -7,18 +7,18 @@
     可交易固定和浮动点差美分账户，所有账户均允许程序化交易.">
     <meta name="keywords" content="Gold Many,在线外汇, 在线外汇交易, 外汇交易, 货币交易, 在线外汇交易,
     在线外汇经纪商, 机器人外汇">
-    <meta name="w1-verification" content="117844634768">
+    {{--<meta name="w1-verification" content="117844634768">--}}
     <meta name="revisit-after" content="1 day">
 
     <title>*Gold Many* - 24x5 在线外汇交易 | 货币交易</title>
     <meta property="og:title" content="*Gold Many* - 24x5 在线外汇交易 | 货币交易">
     <meta property="og:description" content="Gold Many交易条件：订单自动交割，低点差，杠杆最高1:1000，
     最小手数0.01，可交易固定和浮动点差美分账户，所有账户均允许程序化交易.">
-    <meta property="og:url" content="http://cn.GoldMany.com/">
-    <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png">
+    <meta property="og:url" content="/">
+    {{--<meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png">--}}
 
-    <link href="http://cn.GoldMany.com/favicon.ico" rel="icon" type="image/x-icon">
-    <link href="http://cn.GoldMany.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
     <link media="all" rel="stylesheet" href="/css/redmond.css">
     <link href="/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
@@ -33,8 +33,7 @@
     <script type="text/javascript" async="" src="/js/watch.js"></script>
     <script id="facebook-jssdk" src="/js/all.js"></script>
     <script id="twitter-wjs" src="/js/widgets.js"></script>
-    <script type="text/javascript" async="" src="/js/plusone.js"
-            gapi_processed="true"></script>
+    <script type="text/javascript" async="" src="/js/plusone.js" gapi_processed="true"></script>
     <script async="" src="/js/fbevents.js"></script>
     <script async="" src="/js/analytics.js"></script>
     <script type="text/javascript" src="/js/raygun.min.js"></script>
@@ -54,16 +53,16 @@
         var is_sent_auth_request = false;
 
         var dqConfig = {
-            'lk_domen': 'https://my.cn.GoldMany.com/cs',
-            'livesupport_url': 'https://my.cn.GoldMany.com/cs/livesupport/',
-            'livesupport_anonymous_url': 'https://my.cn.GoldMany.com/cs/livesupport/anonymous/',
-            'theme': '/themes/rbforex/',
-            'root_path': '/',
-            'callback_domen': '',
-            'lang': 'cs',
-            'ok': 'Ok',
-            'cancel': 'Cancel',
-            'callback_title': 'Order callback',
+            'lk_domen' : 'https://my.cn.roboforex.com/cs',
+            'livesupport_url' : 'https://my.cn.roboforex.com/cs/livesupport/',
+            'livesupport_anonymous_url' : 'https://my.cn.roboforex.com/cs/livesupport/anonymous/',
+            'theme' : '/themes/rbforex/',
+            'root_path' : '/',
+            'callback_domen' : '',
+            'lang' : 'cs',
+            'ok' : 'Ok',
+            'cancel' : 'Cancel',
+            'callback_title' : 'Order callback',
             'button_selector': '.form button, .form .button, .likeBigButtonLoader'
         };
 
@@ -115,7 +114,7 @@
         ga('send', 'pageview');
 
         var _gaq = _gaq || [];
-        _gaq.push(['_setDomainName', 'GoldMany.com']);
+        _gaq.push(['_setDomainName', 'goldmany.com']);
         _gaq.push(['_trackPageview']);
         function gaqPush(category, action, opt_label, opt_noninteraction) {
         }
@@ -155,9 +154,7 @@
 
         var terminal_settings = {
             labels: {
-                link_template: '您可以从 <a href=\"https://my.cn.GoldMany.com/cs/\">' +
-                '会员中心</a><a href=\"https://my.cn.GoldMany.com/cs/help/download-center/\" target=\"_blank\">' +
-                '的下载中心</a> 下载交易平台.'
+                link_template: '您可以从 <a href=\"https://my.cn.roboforex.com/cs/\">会员中心</a><a href=\"https://my.cn.roboforex.com/cs/help/download-center/\" target=\"_blank\">的下载中心</a> 下载交易平台.'
             },
             terminal: {
                 mt4: {
@@ -378,7 +375,8 @@
                             <i>GoldMany新的探险之旅等待您的加入!</i></div>
                     </div>
                     <a class="slide-button slide-button-6"
-                       href="http://cn.GoldMany.com/operations/bonuses-promotions/road-to-dakar-2017/?utm_source=slider&amp;utm_medium=banners&amp;utm_campaign=dakar"
+                       href="/operations/bonuses-promotions/road-to-dakar-2017/?utm_source=slider&amp;
+                       utm_medium=banners&amp;utm_campaign=dakar"
                        style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多
                     </a>
                     <img alt="" src="/images/dakar_slider.png" style="width: 689px; height: 212px;">
@@ -391,7 +389,8 @@
                             <i>打开外汇市场完整分析的一扇窗口！</i></div>
                     </div>
                     <a class="slide-button slide-button-3"
-                       href="https://my.cn.GoldMany.com/cs/analytics/?utm_source=slider&amp;utm_medium=banners&amp;utm_campaign=analytics"
+                       href="https://my.cn.roboforex.com/cs/analytics/?utm_source=slider&amp;
+                       utm_medium=banners&amp;utm_campaign=analytics"
                        style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多
                     </a>
                     <img alt="" src="/images/analytics_slider.png" style="width: 689px; height: 212px;">
@@ -404,39 +403,12 @@
                             <i>助您交易成功利器!</i></div>
                     </div>
                     <a class="slide-button slide-button-3"
-                       href="http://cn.GoldMany.com/operations/bonuses-promotions/?utm_source=slider&amp;utm_medium=banners&amp;utm_campaign=bonuses_programmes"
+                       href="/operations/bonuses-promotions/?utm_source=slider&amp;
+                       utm_medium=banners&amp;utm_campaign=bonuses_programmes"
                        style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多
                     </a>
                     <img alt="" src="/images/bonuses_slider.png" style="width: 689px; height: 212px;">
                 </li>
-                <!--li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-head" style="color: #FF0303; font-size: 19px; margin-bottom: 7px;">
-                    <span style="color: #FF0303;">可交易的奖金 50％</span></div>
-                  <div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>获得最高3,000美金赠金<br />
-                    GoldMany可交易赠金!</i></div>
-                </div>
-                <a class="slide-button slide-button-3" href="http://cn.GoldMany.com/operations/bonuses-promotions/tradable-bonus/?utm_source=slider&utm_medium=banners&utm_campaign=tradable" style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="http://GoldMany.com/files/filemanager/image3/banners/tradable_slider.png" style="width: 689px; height: 212px;" /></li>
-              <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-head" style="color: #FF0303;">
-                    <span style="color:#ff9400; font-size: 20px;">从您所做的交易中获得额外的利润!</span></div>
-                </div>
-                <div style="bottom: 40px; right: 0; background: rgba(255, 255, 255, 0.8);  padding: 10px 15px 10px 26px;  margin: 0;  position: absolute;  z-index: 10; color: #fff;">
-                  <div class="caption-head">
-                    <span style="color: #224F7D; font-size: 15px; text-transform: uppercase; font-weight: bold; white-space: nowrap;">返点 (Cashback)<br />
-                    最高至账户结余的10%</span></div>
-                </div>
-                <a class="slide-button slide-button-6" href="http://cn.GoldMany.com/operations/bonuses-promotions/up-to-10-percents-on-account-balance/?utm_source=slider&utm_medium=banners&utm_campaign=percents-on-balance" style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="http://www.GoldMany.com/files/filemanager/image3/banners/rebates-slider.png" style="width: 689px; height: 212px;" /></li>
-              <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-head" style="color: #FF0303; font-size: 19px; margin-bottom: 7px;">
-                    <span style="color: #FF0303; font-size: 16px;">无手续费出金!</span></div>
-                  <div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>GoldMany客户每月两次无手续费出金.</i></div>
-                </div>
-                <a class="slide-button slide-button-3" href="http://cn.GoldMany.com/operations/bonuses-promotions/free-withdrawal/?utm_source=slider&utm_medium=banners&utm_campaign=0_commission_withdrawal" style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="http://GoldMany.com/files/filemanager/image3/banners/free-withdrawal_slider.png" style="width: 689px; height: 212px;" /></li-->
                 <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
                     <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
                         <div class="caption-head" style="color: #FF0303; font-size: 17px; margin-bottom: 10px;">
@@ -446,59 +418,37 @@
                                 交易最流行的交易商品!</i></div>
                     </div>
                     <a class="slide-button slide-button-6"
-                       href="http://cn.GoldMany.com/trade-conditions/account-types/?utm_source=slider&amp;utm_medium=banners&amp;utm_campaign=tools"
+                       href="/trade-conditions/account-types/?utm_source=slider&amp;
+                       utm_medium=banners&amp;utm_campaign=tools"
                        style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多
                     </a>
                     <img alt="" src="/images/trading_instruments_slider.png" style="width: 689px; height: 212px;">
                 </li>
-                <!--li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px; top:65px; height: 50px; background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>使用功能特性期权<br />
-                    的在线交易平台<br />
-                    用浏览器即可进行交易</i></div>
-                </div>
-                <a class="slide-button slide-button-3" href="http://cn.GoldMany.com/trade-conditions/webtrader/?utm_source=slider&utm_medium=banners&utm_campaign=webtrader" style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="/files/filemanager/image3/banners/webtrader_slider.png" style="width: 689px; height: 212px;" /></li>
-              <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-head" style="color: #FF0303; font-size: 17px; margin-bottom: 10px;">
-                    <span style="color: #224F7D;">存款没有手续费</span></div>
-                  <div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>对所有支付系统.</i></div>
-                </div>
-                <a class="slide-button slide-button-1" href="http://cn.GoldMany.com/operations/bonuses-promotions/commission-free/?utm_source=slider&utm_medium=banners&utm_campaign=commission_free" style="text-shadow: 0px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="/files/filemanager/images2/banners/autowithdrawal-banner.jpg" style="width: 689px; height: 212px;" /></li>
-              <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
-                <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
-                  <div class="caption-head" style="color: #FF0303; font-size: 17px; margin-bottom: 10px;">
-                    <span style="color: #224F7D;">GoldMany 代理计划</span></div>
-                  <div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>您想要获得点差的40%的高级返佣吗？<br />
-                    成为代理</i></div>
-                </div>
-                <a class="slide-button slide-button-1" href="http://cn.GoldMany.com/forex-affiliate/?utm_source=slider&utm_medium=banners&utm_campaign=partners" style="text-shadow: 0px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt="" src="/files/filemanager/image3/banners/partnership_slider.png" style="width: 689px; height: 212px;" /></li-->
                 <li class="slide-5 panel" data-navcolor="3" style="width: 687px; height: 225px;">
                     <div class="caption-top" style="left: 0px;background: rgba(255, 255, 255, 0.8);color: #fff;">
                         <div class="caption-head" style="color: #FF0303; font-size: 16px; margin-bottom: 7px;">
 				<span style="color: #FF0303;">GoldMany成为<br>
 				足球队官方赞助</span></div>
-                        <!--div class="caption-text" style="color: #224F7D; font-size: 15px;">
-                    <i>Всё, что нужно для успешного трейдинга!</i></div--></div>
+                       </div>
                     <a class="slide-button slide-button-3"
-                       href="http://cn.GoldMany.com/about/sponsorship/ipa-limassol-football-team-2016/"
-                       style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a> <img alt=""
-                                                                                                src="/images/football_team_slider.png"
-                                                                                                style="width: 689px; height: 212px;">
+                       href="/about/sponsorship/ipa-limassol-football-team-2016/"
+                       style="text-shadow: 1px -1px 0px #224F7D;" target="_blank">阅读更多</a>
+                    <img alt="" src="/images/football_team_slider.png" style="width: 689px; height: 212px;">
                 </li>
             </ul>
             <img alt="" id="sliderLoader" src="/images/loader.gif">
         </div>
 
         <ul id="fd-icons">
-            <li><a class="rw-tip_holder" href="https://my.cn.GoldMany.com/cs/register/" id="fdi1">开设<br>真实账户</a></li>
-            <li><a class="rw-tip_holder" href="https://my.cn.GoldMany.com/cs/register-demo/" id="fdi2">开设<br>模拟账户</a>
+            <li><a class="rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/" id="fdi1">
+                    开设<br>真实账户</a>
+            </li>
+            <li><a class="rw-tip_holder" href="https://my.cn.roboforex.com/cs/register-demo/" id="fdi2">
+                    开设<br>模拟账户</a>
             </li>
             <li class="last">
-                <a class="modal-trigger" data-terminal="mt4" href="https://my.cn.GoldMany.com/cs/help/download-center/"
+                <a class="modal-trigger" data-terminal="mt4"
+                   href="https://my.cn.roboforex.com/cs/help/download-center/"
                    id="fdi3">下载<br>METATRADER4</a>
             </li>
         </ul>
@@ -508,14 +458,15 @@
 
         <div id="quickTop" class="quickTop-cs">
             <div class="large">
-                <a href="http://cn.GoldMany.com/forex-affiliate/" id="qt1" target="_blank">合作伙伴 代理计划</a> <a
-                        href="http://cn.GoldMany.com/operations/mam-multiterminal/" id="qt2" target="_blank">多账户终端
-                    MAM软件</a> <a href="http://cn.GoldMany.com/operations/bonuses-promotions/" id="qt3" target="_blank">奖金和推广</a>
+                <a href="/forex-affiliate/" id="qt1" target="_blank">合作伙伴 代理计划</a>
+                <a href="/operations/mam-multiterminal/" id="qt2" target="_blank">多账户终端MAM软件</a>
+                <a href="/operations/bonuses-promotions/" id="qt3" target="_blank">奖金和推广</a>
             </div>
 
 
             <div class="risk-warning">
-                <div style="width: 631px; padding: 4px; padding-left: 10px; margin-left: -5px; font-weight: normal;"><b>外汇交易</b>涉及高风险,
+                <div style="width: 631px; padding: 4px; padding-left: 10px; margin-left: -5px; font-weight: normal;">
+                    <b>外汇交易</b>涉及高风险,
                     可能导致失去您的整个投资.
                 </div>
             </div>
@@ -525,23 +476,24 @@
         <h1>
             在线外汇交易</h1>
         <p>
-            GoldMany致力于在外汇市场提供优质服务：人性化的账户类型（从适合初学者的<a href="http://cn.GoldMany.com/trading-accounts/standard/"
-                                                       target="_blank">美分账户</a>到专业投资者<a
-                    href="http://cn.GoldMany.com/trade-conditions/ecn/" target="_blank">的ECN账户</a>）、操作方便的账户管理中心、功能齐全的交易终端（<a
-                    class="modal-trigger" data-terminal="mt4"
-                    href="http://cn.GoldMany.com/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>, <a
-                    class="modal-trigger" data-terminal="mt5"
-                    href="http://cn.GoldMany.com/trade-conditions/metatrader5-mt5/" target="_blank">MT5</a>, <a
-                    class="modal-trigger" data-terminal="ctrader"
-                    href="http://cn.GoldMany.com/trade-conditions/ctrader/" target="_blank">cTrader</a>)
-            、品种多样的交易标的、直通式处理桥接技术——帮助客户实施各种交易策略。您只需发出指令，其他的交给GoldMany!</p>
+            GoldMany致力于在外汇市场提供优质服务：人性化的账户类型（从适合初学者的
+            <a href="/trading-accounts/standard/" target="_blank">美分账户</a>
+            到专业投资者的
+            <a href="/trade-conditions/ecn/" target="_blank">ECN账户</a>）、
+            操作方便的账户管理中心、功能齐全的交易终端（
+            <a class="modal-trigger" data-terminal="mt4" href="/trade-conditions/metatrader4-mt4/"
+               target="_blank">MT4</a>,
+             <a class="modal-trigger" data-terminal="ctrader"
+                href="/trade-conditions/ctrader/" target="_blank">cTrader</a>)
+            、品种多样的交易标的、直通式处理桥接技术——帮助客户实施各种交易策略。
+            您只需发出指令，其他的交给GoldMany!</p>
         <div class="l-columns">
             <div class="lc-left">
                 <h1>
                     我们的优势</h1>
                 <ul class="features">
                     <li>
-                        MetaTrader4/5,cTrader交易平台
+                        MetaTrader4,cTrader交易平台
                     </li>
                     <li>
                         NDD和STP处理技术
@@ -550,29 +502,33 @@
                         存款货币 USD / EUR / CNY / GOLD
                     </li>
                     <li>
-                        <a href="http://cn.GoldMany.com/operations/bonuses-promotions/free-withdrawal/"
-                           target="_blank">每月两次无手续费出金</a></li>
+                        <a href="/operations/bonuses-promotions/free-withdrawal/"
+                           target="_blank">每月两次无手续费出金</a>
+                    </li>
                     <li>
-                        可交易的奖金 <a href="http://cn.GoldMany.com/operations/bonuses-promotions/tradable-bonus/"
+                        可交易的奖金
+                        <a href="/operations/bonuses-promotions/tradable-bonus/"
                                   target="_blank">50％</a></li>
                     <li>
-                        外汇存款奖励从 <a href="http://cn.GoldMany.com/operations/forex-bonus-deposit/"
-                                   target="_blank">50%</a> 到 <a
-                                href="http://cn.GoldMany.com/operations/bonuses-promotions/115-deposit-bonus/"
-                                target="_blank">115%</a></li>
+                        外汇存款奖励从
+                        <a href="/operations/forex-bonus-deposit/"
+                                   target="_blank">50%</a> 到
+                        <a href="/operations/bonuses-promotions/115-deposit-bonus/"
+                                target="_blank">115%</a>
+                    </li>
                     <li>
                         ECN账户杠杆1:300
                     </li>
                     <li>
-                        5 级 <a href="http://cn.GoldMany.com/forex-affiliate/" target="_blank">合作伙伴计划</a></li>
+                        5 级 <a href="/forex-affiliate/" target="_blank">合作伙伴计划</a></li>
                     <li>
                         可以使用微小账户
                     </li>
                     <li>
-                        免费的<a href="http://cn.GoldMany.com/operations/forex-vps/" target="_blank">VPS服务器</a></li>
+                        免费的<a href="/operations/forex-vps/" target="_blank">VPS服务器</a></li>
                     <li>
-                        最高至账户结余的<a
-                                href="http://cn.GoldMany.com/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
+                        最高至账户结余的
+                        <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
                                 target="_blank">10%</a></li>
                 </ul>
             </div>
@@ -584,7 +540,7 @@
                         最小点差0点起
                     </li>
                     <li>
-                        <a href="http://cn.GoldMany.com/operations/bonuses-promotions/1000-up-leverage/"
+                        <a href="/operations/bonuses-promotions/1000-up-leverage/"
                            target="_blank">杠杆 1:700, 1:888, 1:1000</a></li>
                     <li>
                         差价合约交易 (CFD)
@@ -602,13 +558,13 @@
                         4位和5位报价
                     </li>
                     <li>
-                        Level II 报价和 <a href="http://cn.GoldMany.com/operations/one-click-trading-service/"
+                        Level II 报价和 <a href="/operations/one-click-trading-service/"
                                         target="_blank">一键交易</a></li>
                     <li>
                         智能交易启用
                     </li>
                     <li>
-                        来自领先的ECN系统的<a href="http://cn.GoldMany.com/about/liquidity-providers/" target="_blank">流动性</a>
+                        来自领先的ECN系统的<a href="/about/liquidity-providers/" target="_blank">流动性</a>
                     </li>
                 </ul>
             </div>
@@ -617,22 +573,23 @@
 
 
         <div id="paymentSystems">
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw"><img alt="Visa" height="30"
-                                                                               src="/images/visa_pos_fc.png"
+            <a href="/operations/deposit-withdraw">
+                <img alt="Visa" height="30"
+                     src="/images/visa_pos_fc.png"
                                                                                width="48"></a>
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw"><img alt="MasterCard" height="30"
+            <a href="/operations/deposit-withdraw"><img alt="MasterCard" height="30"
                                                                                src="/images/mc_accpt_060_png.png"
                                                                                width="47"></a>
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw"><img alt="Moneybookers" height="30"
+            <a href="/operations/deposit-withdraw"><img alt="Moneybookers" height="30"
                                                                                src="/images/ps-moneybookers.png"
                                                                                width="61"></a>
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw"><img alt="cashU" height="29"
+            <a href="/operations/deposit-withdraw"><img alt="cashU" height="29"
                                                                                src="/images/ps-cu2.png"
                                                                                width="66"></a>
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw"><img alt="UnionPay"
+            <a href="/operations/deposit-withdraw"><img alt="UnionPay"
                                                                                src="/images/union_pay_thumb_(1).png"
                                                                                style="width: 47px; height: 30px;"></a>
-            <a href="http://cn.GoldMany.com/operations/deposit-withdraw/neteller/" target="_blank"><img alt="Neteller"
+            <a href="/operations/deposit-withdraw/neteller/" target="_blank"><img alt="Neteller"
                                                                                                          src="/images/neteller-logo.png"
                                                                                                          style="height: 28px;"></a>
 
@@ -649,54 +606,54 @@
                     <div class="nl-item">
                         <div class="nli-date">02.09.2016 / 12:51</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/">一目云图分析
+                            <a href="/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/">一目云图分析
                                 02.09.2016 (GBP/USD, GOLD)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">02.09.2016 / 12:42</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/ichimoku-analysis/candlesticks-02092016/">日本蜡烛图分析02.09.2016
+                            <a href="/analytics/forex-forecast/ichimoku-analysis/candlesticks-02092016/">日本蜡烛图分析02.09.2016
                                 (EUR/USD, USD/JPY)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">02.09.2016 / 12:21</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/technical-analysis/technical-02092016/">外汇技术分析
+                            <a href="/analytics/forex-forecast/technical-analysis/technical-02092016/">外汇技术分析
                                 02.09.2016 (EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, USD/RUB, GOLD)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">02.09.2016 / 11:15</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-02092016/">穆雷数学线分析
+                            <a href="/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-02092016/">穆雷数学线分析
                                 02.09.2016 (EUR/USD, AUD/USD)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">01.09.2016 / 14:59</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/technical-analysis/fibo-01092016/">斐波那契数列分析
+                            <a href="/analytics/forex-forecast/technical-analysis/fibo-01092016/">斐波那契数列分析
                                 01.09.2016 (EUR/USD, EUR/GBP)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">01.09.2016 / 13:47</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/technical-analysis/technical-01092016/">外汇技术分析
+                            <a href="/analytics/forex-forecast/technical-analysis/technical-01092016/">外汇技术分析
                                 01.09.2016 (EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, USD/RUB, GOLD)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">01.09.2016 / 13:39</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-01092016/">穆雷数学线分析
+                            <a href="/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-01092016/">穆雷数学线分析
                                 01.09.2016 (EUR/USD, AUD/USD)</a></h2>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">01.09.2016 / 13:27</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/analytics/forex-forecast/ichimoku-analysis/ichimoku-01092016/">一目云图分析01.09.2016
+                            <a href="/analytics/forex-forecast/ichimoku-analysis/ichimoku-01092016/">一目云图分析01.09.2016
                                 (GBP/USD, GOLD)</a></h2>
                     </div>
 
                     <div class="left read-more">
-                        <a href="http://cn.GoldMany.com/analytics/forex-forecast/">分析存档</a>
+                        <a href="/analytics/forex-forecast/">分析存档</a>
                     </div>
 
                 </div>
@@ -706,7 +663,7 @@
                 <div class="newsList">
                     <div class="nl-item">
                         <div class="nli-date">02.09.2016</div>
-                        <h2><a href="http://cn.GoldMany.com/about/news/schedule-trade-change-cfd-xau-xag-09-2016/691/">Changes
+                        <h2><a href="/about/news/schedule-trade-change-cfd-xau-xag-09-2016/691/">Changes
                                 in trading schedule on CFD and Metals</a></h2>
                         <div class="nli-announce">Trading schedule on Contracts for Difference and Metals will be
                             changed.
@@ -714,26 +671,26 @@
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">31.08.2016</div>
-                        <h2><a href="http://cn.GoldMany.com/about/news/coupons-the-dakar-2017/689/">"2017达喀尔之路"活动礼券已在您的会员中心里</a>
+                        <h2><a href="/about/news/coupons-the-dakar-2017/689/">"2017达喀尔之路"活动礼券已在您的会员中心里</a>
                         </h2>
                         <div class="nli-announce">现在您可以在一个页面就可以查看所有活动以及所获得礼券的最新信息.</div>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">24.08.2016</div>
-                        <h2><a href="http://cn.GoldMany.com/about/news/schedule-trade-change-cfd-08-2016/687/">差价合约FTSE100指数交易时间更改</a>
+                        <h2><a href="/about/news/schedule-trade-change-cfd-08-2016/687/">差价合约FTSE100指数交易时间更改</a>
                         </h2>
                         <div class="nli-announce">差价合约FTSE100指数交易时间将做出更改.</div>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">17.08.2016</div>
                         <h2>
-                            <a href="http://cn.GoldMany.com/about/news/new-payment-bitcoin/685/">GoldMany的客户可以使用比特币入金</a>
+                            <a href="/about/news/new-payment-bitcoin/685/">GoldMany的客户可以使用比特币入金</a>
                         </h2>
                         <div class="nli-announce">我们的客户可以使用趋势支付系统比特币入金交易账户.</div>
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">16.08.2016</div>
-                        <h2><a href="http://cn.GoldMany.com/about/news/improved-trading-conditions-08-2016/684/">贵金属交易列表扩充ECN和Pro类型账户交易条件改进</a>
+                        <h2><a href="/about/news/improved-trading-conditions-08-2016/684/">贵金属交易列表扩充ECN和Pro类型账户交易条件改进</a>
                         </h2>
                         <div class="nli-announce">Pro-Cent, Pro-Standard, ECN-Pro NDD以及ECN-Pro
                             Affiliate类型账户的交易工具列表已经进行了扩充.
@@ -741,65 +698,17 @@
                     </div>
                     <div class="nl-item">
                         <div class="nli-date">10.08.2016</div>
-                        <h2><a href="http://cn.GoldMany.com/about/news/the-dakar-2017/682/">从GoldMany获得观看2017达喀尔拉力赛的机会!</a>
+                        <h2><a href="/about/news/the-dakar-2017/682/">从GoldMany获得观看2017达喀尔拉力赛的机会!</a>
                         </h2>
                         <div class="nli-announce">公司赠送两张全世界最大越野赛事2017年达喀尔拉力锦标赛的门票.</div>
                     </div>
 
                     <div class="left read-more">
-                        <a href="http://cn.GoldMany.com/about/news/">新闻存档</a>
+                        <a href="/about/news/">新闻存档</a>
                     </div>
 
                 </div>
-                <form method="post" id="subscribe" enctype="multipart/form-data" action="http://cn.GoldMany.com/"
-                      target="_self" onsubmit="return false;">
-                    <p>
-                        <input id="s-email" name="email[email]" placeholder="输入您的电子邮件" class="fText" value=""
-                               onkeydown="if (key_enter(event)) form_validate_email();">
 
-                        <button type="button" id="s-submit" class="fSubmit button likeBigButtonLoader button-submit"
-                                onclick="form_validate_email();" style="display: none;">
-                            <span class="button-text">订阅</span>
-                            <div class="button-loader-wrapper">
-                                <span class="button-loader"></span>
-                                <span class="button-loader-text"></span>
-                            </div>
-                        </button>
-                        <a href="http://cn.GoldMany.com/about/news/rss/" id="s-rss" class="rss-button">
-                            <i class="fa fa-rss-square"></i>
-                        </a>
-                    </p>
-                </form>
-
-                <script type="text/javascript">
-                    var err_request = '数据上传时发生一个错误';
-                    var form_state = 1;
-
-                    function form_validate_email() {
-                        if (form_state == 0) return;
-                        form_state = 0;
-
-                        var selector = '#subscribe';
-                        var form = $(selector);
-                        var validate_path = '/subscription/validateMain/';
-
-                        JsHttpRequest.query(validate_path, form.serialize(),
-                                function (result, errors) {
-                                    form_state = 1;
-                                    if (result && result.res == 0) {
-                                        $.dqValidate(selector, result);
-                                    } else if (result && result.res == 1 && result.link) {
-                                        //alert(result.link);
-                                        window.location.assign(result.link);
-                                        return;
-                                    } else {
-                                        console.log(errors);
-                                    }
-                                }, true
-                        );
-                    }
-
-                </script>
             </div>
         </div>
 
@@ -811,17 +720,17 @@
         <h3 class="h1">货币报价</h3>
         <div id="r-quotes">
             <div id="rq-caption">
-                <a href="http://cn.GoldMany.com/" class="rqc-switch active" rel="rq-quote-1"><span
+                <a href="/" class="rqc-switch active" rel="rq-quote-1"><span
                             class="rqc-switch-sub">
 				<span class="rqc-switch-text">股</span></span>
                 </a>
-                <a href="http://cn.GoldMany.com/" class="rqc-switch " rel="rq-quote-5"><span class="rqc-switch-sub">
+                <a href="/" class="rqc-switch " rel="rq-quote-5"><span class="rqc-switch-sub">
 				<span class="rqc-switch-text">金属</span></span>
                 </a>
-                <a href="http://cn.GoldMany.com/" class="rqc-switch " rel="rq-quote-20"><span class="rqc-switch-sub">
+                <a href="/" class="rqc-switch " rel="rq-quote-20"><span class="rqc-switch-sub">
 				<span class="rqc-switch-text">CFD</span></span>
                 </a>
-                <a href="http://cn.GoldMany.com/" class="rqc-switch " rel="rq-quote-24"><span class="rqc-switch-sub">
+                <a href="/" class="rqc-switch " rel="rq-quote-24"><span class="rqc-switch-sub">
 				<span class="rqc-switch-text">Zero Spread</span></span>
                 </a>
             </div>
@@ -1084,7 +993,7 @@
                 </table>
             </div>
             <div id="rq-dt">
-                <a href="http://cn.GoldMany.com/" class="r-quote-reload play">&nbsp;</a> <span id="r-quotes-time">10:30:14</span>
+                <a href="/" class="r-quote-reload play">&nbsp;</a> <span id="r-quotes-time">10:30:14</span>
                 GMT+2 / <span class="quotes_date" id="r-quotes-date">2016.09.05</span>
             </div>
         </div>
@@ -1447,10 +1356,10 @@
         <div class="clear"></div>
         <div class="external-link-notification__buttons">
             <a id="external-link-accept-button" class="external-link-notification__accept"
-               href="http://cn.GoldMany.com/#" data-disable-notification="">前往
+               href="/#" data-disable-notification="">前往
             </a>
             <a id="external-link-cancel-button" class="external-link-notification__cancel"
-               href="http://cn.GoldMany.com/#" data-disable-notification="">取消
+               href="/#" data-disable-notification="">取消
             </a>
         </div>
         <div class="clear"></div>
@@ -1518,7 +1427,7 @@
      style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;">
     <div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on">
         <span class="ui-dialog-title" id="ui-dialog-title-modalDialog" unselectable="on">Order callback</span>
-        <a href="http://cn.GoldMany.com/#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on">
+        <a href="/#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on">
             <span class="ui-icon ui-icon-closethick" unselectable="on">close</span>
         </a>
     </div>
@@ -1564,7 +1473,7 @@
                     <div class="modal-body-header"><h2>开设交易账户</h2>
                         <h3 data-id="modal-body-header-desc-h3"></h3>
                     </div>
-                    <form action="http://cn.GoldMany.com/" class="modal-form" id="modal_form" method="GET">
+                    <form action="/" class="modal-form" id="modal_form" method="GET">
                         <label for="email" class="form-label">邮箱:</label>
                         <div class="form-input">
                             <input autocomplete="off" type="text" name="email" id="email" class="focus-it" value="" placeholder="">
@@ -1583,7 +1492,7 @@
                         <img src="/images/times-small.png" alt="x" width="8" height="8">
                         <i class="icon"></i><span>感谢,我已经有一个</span>
                     </a>
-                    <a class="button-open" id="modal_form_register" href="http://cn.GoldMany.com/#">
+                    <a class="button-open" id="modal_form_register" href="/#">
                         <span>开设账户</span>
                     </a>
                 </div>
