@@ -38,5 +38,9 @@ class ArticleController extends Controller
         return view("user.$type");
     }
 
+    public function analytics(Request $request,$type = 'analytics'){
+        return view("user.$type");
+    }
+
 
 }
