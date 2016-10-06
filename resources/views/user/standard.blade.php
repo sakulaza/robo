@@ -92,9 +92,6 @@
                     无止损止盈点数限制、从汇市主要ECN系统获取。
                     无手续费，返点要求与标准账户相同。
                 </p>
-                <h2>
-
-                    剥头皮最好的交易条件!</h2>
             </td>
             <td class="last">
                 <p>
@@ -123,8 +120,6 @@
                     <a href="/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>。
                 </p>
 
-                <h2>
-                    剥头皮最好的交易条件!</h2>
             </td>
             <td class="last">
                 <p>

@@ -479,17 +479,10 @@
         <h1>
             在线外汇交易</h1>
         <p>
-            GoldMany致力于在外汇市场提供优质服务：人性化的账户类型（从适合初学者的
-            <a href="/trading-accounts/standard/" target="_blank">美分账户</a>
-            到专业投资者的
-            <a href="/trade-conditions/ecn/" target="_blank">ECN账户</a>）、
-            操作方便的账户管理中心、功能齐全的交易终端（
-            <a class="modal-trigger" data-terminal="mt4" href="/trade-conditions/metatrader4-mt4/"
-               target="_blank">MT4</a>,
-             <a class="modal-trigger" data-terminal="ctrader"
-                href="/trade-conditions/ctrader/" target="_blank">cTrader</a>)
-            、品种多样的交易标的、直通式处理桥接技术——帮助客户实施各种交易策略。
-            您只需发出指令，其他的交给GoldMany!</p>
+            GoldMany致力于在外汇市场提供优质服务：人性化的账户类型（从适合初学者的 标准账户 到专业投资者的 ECN、
+            STP账户）、 操作方便的账户管理中心、功能齐全的交易终端 MT4 、品种多样的交易标的、直通式处理桥接技术
+            ——帮助客户实施各种交易策略。 您只需发出指令，其他的交给GoldMany!
+        </p>
         <div class="l-columns">
             <div class="lc-left">
                 <h1>
@@ -499,7 +492,7 @@
                         MetaTrader4交易平台
                     </li>
                     <li>
-                        NDD和STP处理技术
+                        ECN和STP处理技术
                     </li>
                     <li>
                         存款货币 USD / EUR / CNY / GOLD
@@ -520,15 +513,14 @@
                                 target="_blank">115%</a>
                     </li>
                     <li>
-                        ECN账户杠杆1:300
+                        ECN账户杠杆1:100
                     </li>
                     <li>
                         5 级 <a href="/forex-affiliate/" target="_blank">合作伙伴计划</a></li>
                     <li>
                         可以使用微小账户
                     </li>
-                    <li>
-                        免费的<a href="/operations/forex-vps/" target="_blank">VPS服务器</a></li>
+                    
                     <li>
                         最高至账户结余的
                         <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
@@ -544,7 +536,7 @@
                     </li>
                     <li>
                         <a href="/operations/bonuses-promotions/1000-up-leverage/"
-                           target="_blank">杠杆 1:700, 1:888, 1:1000</a></li>
+                           target="_blank">杠杆 1:100</a></li>
                     <li>
                         差价合约交易 (CFD)
                     </li>

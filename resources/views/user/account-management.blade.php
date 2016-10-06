@@ -413,53 +413,7 @@
                 </div>
             </div>
         </div>
-        <div class="for-trade">
-            <div class="for-trade__left">
-                <img alt=""
-                     src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/for-trade_v4.png">
-            </div>
-            <div class="for-trade__right">
-                <h3 class="section-title"> 交易须知</h3>
-                <p> 在&quot;<a
-                            {{--href="https://my.cn.roboforex.com/cs/help/download-center/" --}}
-                              target="_blank">下载中心</a>&quot;版块,您可以选择下载所有进行交易所需的交易终端(PC和移动设备版本).
-                </p>
-                <p> 您可以使用GoldMany提供的&quot;VPS-服务器&quot;服务来获得您远程交易终端24/7的使用. 您需在您会员中心&quot;<a
-                            {{--href="https://my.cn.roboforex.com/cs/profile/vps2/" --}}
-                            target="_blank">您的VPS 2.0服务器</a>&quot;版块发送一个请求来申请此服务.
-                </p>
-            </div>
-        </div>
-        <div class="education">
-            <h3 class="section-title"> 免费分析资源</h3>
-            <p> GoldMany客户可在他们的会员中心只用所有很有帮助的分析服务.</p>
-            <div class="education__content">
-                <div class="education__content-item">
-                    <img alt=""
-                         src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-1.png">
-                    <p> 技术分析<br>
-                        <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/tradingcentral/"--}}
-                                   target="_blank">交易中心</a></p>
-                </div>
-                <div class="education__content-item">
-                    <img alt=""
-                         src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-2.png">
-                    <p> 财经新闻<br>
-                        <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/forex-news/" --}}
-                                target="_blank">道琼斯</a></p>
-                </div>
-                <div class="education__content-item">
-                    <img alt=""
-                         src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-3.png">
-                    <p> 特有服务<br>&quot;
-                        <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/analytics-center/"--}}
-                                         target="_blank">GoldMany分析中心</a>&quot;.</p>
-                </div>
-            </div>
-        </div>
+
         <div class="features-bottom">
             <h2 class="features-title"> 9个最常被问的问题:</h2>
             <div class="features-bottom__row">
