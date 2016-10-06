@@ -432,7 +432,8 @@
                     我们为成为一流的金融企业而努力，为您提供全面便捷的投资服务，并将一路与您同行。
                 </p>
                 <h3 class="styled-h first">
-                    <i class="icon">&nbsp;</i><span class="styled-h-text">监管</span></h3>
+                    <i class="icon">&nbsp;</i><span class="styled-h-text">监管</span>
+                </h3><br/>
                 <ul class="regulation" style="list-style: none;padding-left: 0px;">
                     <li>
                         <img alt="" src="/images/about/belize.png" style="float: left; width: 80px;

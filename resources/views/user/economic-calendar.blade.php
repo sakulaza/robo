@@ -15,7 +15,7 @@
     <meta property="og:title" content="外汇财经日历" />
     <meta property="og:description" content="来自RoboForex公司详尽的外汇财经日历. 全球金融市场最重要的和预期事件实时更新." />
     <meta property="og:url" content="http://cn.roboforex.com/analytics/economic-calendar/" />
-    <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
+    <meta property="og:image" content="/images/logo-soc-share.png" />
 
     @include('user.partials.script')
 </head>
@@ -56,7 +56,7 @@
         /                                              外汇日历
     </div>
 
-    <link rel="stylesheet" href="/themes/rbforex/css/anythingslider.css" type="text/css" />
+    <link rel="stylesheet" href="/css/anythingslider.css" type="text/css" />
 
     <div id="left">
         <h1>外汇财经日历</h1>
@@ -274,7 +274,7 @@
                         <tr class="event-item" id="72576" onclick="showEventDetails('72576');" data-target="showEvent_72576" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -297,7 +297,7 @@
                         <tr class="event-item" id="72577" onclick="showEventDetails('72577');" data-target="showEvent_72577" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -320,7 +320,7 @@
                         <tr class="event-item" id="72578" onclick="showEventDetails('72578');" data-target="showEvent_72578" class="event-details-switch">
                             <td>01:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -343,7 +343,7 @@
                         <tr class="event-item" id="72579" onclick="showEventDetails('72579');" data-target="showEvent_72579" class="event-details-switch">
                             <td>01:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -366,7 +366,7 @@
                         <tr class="event-item" id="72580" onclick="showEventDetails('72580');" data-target="showEvent_72580" class="event-details-switch">
                             <td>01:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -389,7 +389,7 @@
                         <tr class="event-item" id="72581" onclick="showEventDetails('72581');" data-target="showEvent_72581" class="event-details-switch">
                             <td>02:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/co.gif" class="event-currency-flag">	CO
+                                <img alt="" src="/images/flags/icon/co.gif" class="event-currency-flag">	CO
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -412,7 +412,7 @@
                         <tr class="event-item" id="72582" onclick="showEventDetails('72582');" data-target="showEvent_72582" class="event-details-switch">
                             <td>02:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/co.gif" class="event-currency-flag">	CO
+                                <img alt="" src="/images/flags/icon/co.gif" class="event-currency-flag">	CO
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -435,7 +435,7 @@
                         <tr class="event-item" id="72583" onclick="showEventDetails('72583');" data-target="showEvent_72583" class="event-details-switch">
                             <td>05:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nl.gif" class="event-currency-flag">	NL
+                                <img alt="" src="/images/flags/icon/nl.gif" class="event-currency-flag">	NL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -458,7 +458,7 @@
                         <tr class="event-item" id="72584" onclick="showEventDetails('72584');" data-target="showEvent_72584" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -481,7 +481,7 @@
                         <tr class="event-item" id="72585" onclick="showEventDetails('72585');" data-target="showEvent_72585" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -504,7 +504,7 @@
                         <tr class="event-item" id="72586" onclick="showEventDetails('72586');" data-target="showEvent_72586" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
+                                <img alt="" src="/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -527,7 +527,7 @@
                         <tr class="event-item" id="72587" onclick="showEventDetails('72587');" data-target="showEvent_72587" class="event-details-switch">
                             <td>08:15</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ch.gif" class="event-currency-flag">	CH
+                                <img alt="" src="/images/flags/icon/ch.gif" class="event-currency-flag">	CH
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -550,7 +550,7 @@
                         <tr class="event-item" id="72588" onclick="showEventDetails('72588');" data-target="showEvent_72588" class="event-details-switch">
                             <td>08:15</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ch.gif" class="event-currency-flag">	CH
+                                <img alt="" src="/images/flags/icon/ch.gif" class="event-currency-flag">	CH
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -573,7 +573,7 @@
                         <tr class="event-item" id="72589" onclick="showEventDetails('72589');" data-target="showEvent_72589" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/gr.gif" class="event-currency-flag">	GR
+                                <img alt="" src="/images/flags/icon/gr.gif" class="event-currency-flag">	GR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -596,7 +596,7 @@
                         <tr class="event-item" id="72590" onclick="showEventDetails('72590');" data-target="showEvent_72590" class="event-details-switch">
                             <td>12:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -619,7 +619,7 @@
                         <tr class="event-item" id="72591" onclick="showEventDetails('72591');" data-target="showEvent_72591" class="event-details-switch">
                             <td>12:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -641,7 +641,7 @@
                         <tr class="event-item" id="72592" onclick="showEventDetails('72592');" data-target="showEvent_72592" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -664,7 +664,7 @@
                         <tr class="event-item" id="72593" onclick="showEventDetails('72593');" data-target="showEvent_72593" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -687,7 +687,7 @@
                         <tr class="event-item" id="72594" onclick="showEventDetails('72594');" data-target="showEvent_72594" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -710,7 +710,7 @@
                         <tr class="event-item" id="72595" onclick="showEventDetails('72595');" data-target="showEvent_72595" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -733,7 +733,7 @@
                         <tr class="event-item" id="72596" onclick="showEventDetails('72596');" data-target="showEvent_72596" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -756,7 +756,7 @@
                         <tr class="event-item" id="72597" onclick="showEventDetails('72597');" data-target="showEvent_72597" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -779,7 +779,7 @@
                         <tr class="event-item" id="72598" onclick="showEventDetails('72598');" data-target="showEvent_72598" class="event-details-switch">
                             <td>15:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -802,7 +802,7 @@
                         <tr class="event-item" id="73140" onclick="showEventDetails('73140');" data-target="showEvent_73140" class="event-details-switch">
                             <td>23:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -828,7 +828,7 @@
                         <tr class="event-item" id="72599" onclick="showEventDetails('72599');" data-target="showEvent_72599" class="event-details-switch">
                             <td>00:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -851,7 +851,7 @@
                         <tr class="event-item" id="72600" onclick="showEventDetails('72600');" data-target="showEvent_72600" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -874,7 +874,7 @@
                         <tr class="event-item" id="73141" onclick="showEventDetails('73141');" data-target="showEvent_73141" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -896,7 +896,7 @@
                         <tr class="event-item" id="72601" onclick="showEventDetails('72601');" data-target="showEvent_72601" class="event-details-switch">
                             <td>05:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nl.gif" class="event-currency-flag">	NL
+                                <img alt="" src="/images/flags/icon/nl.gif" class="event-currency-flag">	NL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -919,7 +919,7 @@
                         <tr class="event-item" id="72602" onclick="showEventDetails('72602');" data-target="showEvent_72602" class="event-details-switch">
                             <td>06:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -943,7 +943,7 @@
                         <tr class="event-item" id="72603" onclick="showEventDetails('72603');" data-target="showEvent_72603" class="event-details-switch">
                             <td>06:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -967,7 +967,7 @@
                         <tr class="event-item" id="72606" onclick="showEventDetails('72606');" data-target="showEvent_72606" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ro.gif" class="event-currency-flag">	RO
+                                <img alt="" src="/images/flags/icon/ro.gif" class="event-currency-flag">	RO
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -990,7 +990,7 @@
                         <tr class="event-item" id="72607" onclick="showEventDetails('72607');" data-target="showEvent_72607" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fi.gif" class="event-currency-flag">	FI
+                                <img alt="" src="/images/flags/icon/fi.gif" class="event-currency-flag">	FI
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1013,7 +1013,7 @@
                         <tr class="event-item" id="72604" onclick="showEventDetails('72604');" data-target="showEvent_72604" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1036,7 +1036,7 @@
                         <tr class="event-item" id="72605" onclick="showEventDetails('72605');" data-target="showEvent_72605" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1059,7 +1059,7 @@
                         <tr class="event-item" id="72608" onclick="showEventDetails('72608');" data-target="showEvent_72608" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/za.gif" class="event-currency-flag">	ZA
+                                <img alt="" src="/images/flags/icon/za.gif" class="event-currency-flag">	ZA
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1082,7 +1082,7 @@
                         <tr class="event-item" id="72609" onclick="showEventDetails('72609');" data-target="showEvent_72609" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/za.gif" class="event-currency-flag">	ZA
+                                <img alt="" src="/images/flags/icon/za.gif" class="event-currency-flag">	ZA
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1105,7 +1105,7 @@
                         <tr class="event-item" id="72610" onclick="showEventDetails('72610');" data-target="showEvent_72610" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1128,7 +1128,7 @@
                         <tr class="event-item" id="72611" onclick="showEventDetails('72611');" data-target="showEvent_72611" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1151,7 +1151,7 @@
                         <tr class="event-item" id="72612" onclick="showEventDetails('72612');" data-target="showEvent_72612" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1174,7 +1174,7 @@
                         <tr class="event-item" id="72613" onclick="showEventDetails('72613');" data-target="showEvent_72613" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1197,7 +1197,7 @@
                         <tr class="event-item" id="72614" onclick="showEventDetails('72614');" data-target="showEvent_72614" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1220,7 +1220,7 @@
                         <tr class="event-item" id="72615" onclick="showEventDetails('72615');" data-target="showEvent_72615" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/hu.gif" class="event-currency-flag">	HU
+                                <img alt="" src="/images/flags/icon/hu.gif" class="event-currency-flag">	HU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1243,7 +1243,7 @@
                         <tr class="event-item" id="72623" onclick="showEventDetails('72623');" data-target="showEvent_72623" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/hu.gif" class="event-currency-flag">	HU
+                                <img alt="" src="/images/flags/icon/hu.gif" class="event-currency-flag">	HU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1267,7 +1267,7 @@
                         <tr class="event-item" id="73142" onclick="showEventDetails('73142');" data-target="showEvent_73142" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1290,7 +1290,7 @@
                         <tr class="event-item" id="72619" onclick="showEventDetails('72619');" data-target="showEvent_72619" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ch.gif" class="event-currency-flag">	CH
+                                <img alt="" src="/images/flags/icon/ch.gif" class="event-currency-flag">	CH
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1313,7 +1313,7 @@
                         <tr class="event-item" id="72618" onclick="showEventDetails('72618');" data-target="showEvent_72618" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
+                                <img alt="" src="/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1336,7 +1336,7 @@
                         <tr class="event-item" id="72622" onclick="showEventDetails('72622');" data-target="showEvent_72622" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
+                                <img alt="" src="/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1359,7 +1359,7 @@
                         <tr class="event-item" id="72624" onclick="showEventDetails('72624');" data-target="showEvent_72624" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
+                                <img alt="" src="/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1382,7 +1382,7 @@
                         <tr class="event-item" id="72616" onclick="showEventDetails('72616');" data-target="showEvent_72616" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/at.gif" class="event-currency-flag">	AT
+                                <img alt="" src="/images/flags/icon/at.gif" class="event-currency-flag">	AT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1405,7 +1405,7 @@
                         <tr class="event-item" id="72617" onclick="showEventDetails('72617');" data-target="showEvent_72617" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/at.gif" class="event-currency-flag">	AT
+                                <img alt="" src="/images/flags/icon/at.gif" class="event-currency-flag">	AT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1428,7 +1428,7 @@
                         <tr class="event-item" id="72621" onclick="showEventDetails('72621');" data-target="showEvent_72621" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/at.gif" class="event-currency-flag">	AT
+                                <img alt="" src="/images/flags/icon/at.gif" class="event-currency-flag">	AT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1451,7 +1451,7 @@
                         <tr class="event-item" id="72620" onclick="showEventDetails('72620');" data-target="showEvent_72620" class="event-details-switch">
                             <td>08:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/dk.gif" class="event-currency-flag">	DK
+                                <img alt="" src="/images/flags/icon/dk.gif" class="event-currency-flag">	DK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1474,7 +1474,7 @@
                         <tr class="event-item" id="72625" onclick="showEventDetails('72625');" data-target="showEvent_72625" class="event-details-switch">
                             <td>08:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1497,7 +1497,7 @@
                         <tr class="event-item" id="72626" onclick="showEventDetails('72626');" data-target="showEvent_72626" class="event-details-switch">
                             <td>08:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1520,7 +1520,7 @@
                         <tr class="event-item" id="72627" onclick="showEventDetails('72627');" data-target="showEvent_72627" class="event-details-switch">
                             <td>08:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1543,7 +1543,7 @@
                         <tr class="event-item" id="72629" onclick="showEventDetails('72629');" data-target="showEvent_72629" class="event-details-switch">
                             <td>09:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
+                                <img alt="" src="/images/flags/icon/cz.gif" class="event-currency-flag">	CZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1566,7 +1566,7 @@
                         <tr class="event-item" id="72628" onclick="showEventDetails('72628');" data-target="showEvent_72628" class="event-details-switch">
                             <td>09:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/no.gif" class="event-currency-flag">	NO
+                                <img alt="" src="/images/flags/icon/no.gif" class="event-currency-flag">	NO
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1589,7 +1589,7 @@
                         <tr class="event-item" id="72630" onclick="showEventDetails('72630');" data-target="showEvent_72630" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -1612,7 +1612,7 @@
                         <tr class="event-item" id="72631" onclick="showEventDetails('72631');" data-target="showEvent_72631" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -1635,7 +1635,7 @@
                         <tr class="event-item" id="72632" onclick="showEventDetails('72632');" data-target="showEvent_72632" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -1658,7 +1658,7 @@
                         <tr class="event-item" id="72633" onclick="showEventDetails('72633');" data-target="showEvent_72633" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -1681,7 +1681,7 @@
                         <tr class="event-item" id="72634" onclick="showEventDetails('72634');" data-target="showEvent_72634" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1704,7 +1704,7 @@
                         <tr class="event-item" id="72635" onclick="showEventDetails('72635');" data-target="showEvent_72635" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1727,7 +1727,7 @@
                         <tr class="event-item" id="72636" onclick="showEventDetails('72636');" data-target="showEvent_72636" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1750,7 +1750,7 @@
                         <tr class="event-item" id="72638" onclick="showEventDetails('72638');" data-target="showEvent_72638" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/sg.gif" class="event-currency-flag">	SG
+                                <img alt="" src="/images/flags/icon/sg.gif" class="event-currency-flag">	SG
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1773,7 +1773,7 @@
                         <tr class="event-item" id="72637" onclick="showEventDetails('72637');" data-target="showEvent_72637" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1795,7 +1795,7 @@
                         <tr class="event-item" id="72640" onclick="showEventDetails('72640');" data-target="showEvent_72640" class="event-details-switch">
                             <td>12:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/in.gif" class="event-currency-flag">	IN
+                                <img alt="" src="/images/flags/icon/in.gif" class="event-currency-flag">	IN
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1817,7 +1817,7 @@
                         <tr class="event-item" id="72639" onclick="showEventDetails('72639');" data-target="showEvent_72639" class="event-details-switch">
                             <td>12:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cl.gif" class="event-currency-flag">	CL
+                                <img alt="" src="/images/flags/icon/cl.gif" class="event-currency-flag">	CL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1840,7 +1840,7 @@
                         <tr class="event-item" id="72642" onclick="showEventDetails('72642');" data-target="showEvent_72642" class="event-details-switch">
                             <td>13:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/pl.gif" class="event-currency-flag">	PL
+                                <img alt="" src="/images/flags/icon/pl.gif" class="event-currency-flag">	PL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1863,7 +1863,7 @@
                         <tr class="event-item" id="72641" onclick="showEventDetails('72641');" data-target="showEvent_72641" class="event-details-switch">
                             <td>13:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/br.gif" class="event-currency-flag">	BR
+                                <img alt="" src="/images/flags/icon/br.gif" class="event-currency-flag">	BR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1886,7 +1886,7 @@
                         <tr class="event-item" id="72643" onclick="showEventDetails('72643');" data-target="showEvent_72643" class="event-details-switch">
                             <td>13:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cl.gif" class="event-currency-flag">	CL
+                                <img alt="" src="/images/flags/icon/cl.gif" class="event-currency-flag">	CL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1909,7 +1909,7 @@
                         <tr class="event-item" id="72644" onclick="showEventDetails('72644');" data-target="showEvent_72644" class="event-details-switch">
                             <td>13:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cl.gif" class="event-currency-flag">	CL
+                                <img alt="" src="/images/flags/icon/cl.gif" class="event-currency-flag">	CL
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -1932,7 +1932,7 @@
                         <tr class="event-item" id="72645" onclick="showEventDetails('72645');" data-target="showEvent_72645" class="event-details-switch">
                             <td>13:15</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -1955,7 +1955,7 @@
                         <tr class="event-item" id="72646" onclick="showEventDetails('72646');" data-target="showEvent_72646" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -1978,7 +1978,7 @@
                         <tr class="event-item" id="72647" onclick="showEventDetails('72647');" data-target="showEvent_72647" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2001,7 +2001,7 @@
                         <tr class="event-item" id="72648" onclick="showEventDetails('72648');" data-target="showEvent_72648" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2024,7 +2024,7 @@
                         <tr class="event-item" id="72649" onclick="showEventDetails('72649');" data-target="showEvent_72649" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2047,7 +2047,7 @@
                         <tr class="event-item" id="72650" onclick="showEventDetails('72650');" data-target="showEvent_72650" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -2070,7 +2070,7 @@
                         <tr class="event-item" id="72651" onclick="showEventDetails('72651');" data-target="showEvent_72651" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2093,7 +2093,7 @@
                         <tr class="event-item" id="72652" onclick="showEventDetails('72652');" data-target="showEvent_72652" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2116,7 +2116,7 @@
                         <tr class="event-item" id="72653" onclick="showEventDetails('72653');" data-target="showEvent_72653" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2139,7 +2139,7 @@
                         <tr class="event-item" id="72654" onclick="showEventDetails('72654');" data-target="showEvent_72654" class="event-details-switch">
                             <td>13:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2162,7 +2162,7 @@
                         <tr class="event-item" id="72655" onclick="showEventDetails('72655');" data-target="showEvent_72655" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2185,7 +2185,7 @@
                         <tr class="event-item" id="72656" onclick="showEventDetails('72656');" data-target="showEvent_72656" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2208,7 +2208,7 @@
                         <tr class="event-item" id="72657" onclick="showEventDetails('72657');" data-target="showEvent_72657" class="event-details-switch">
                             <td>14:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2231,7 +2231,7 @@
                         <tr class="event-item" id="72659" onclick="showEventDetails('72659');" data-target="showEvent_72659" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2254,7 +2254,7 @@
                         <tr class="event-item" id="72658" onclick="showEventDetails('72658');" data-target="showEvent_72658" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -2277,7 +2277,7 @@
                         <tr class="event-item" id="72660" onclick="showEventDetails('72660');" data-target="showEvent_72660" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2300,7 +2300,7 @@
                         <tr class="event-item" id="72661" onclick="showEventDetails('72661');" data-target="showEvent_72661" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2323,7 +2323,7 @@
                         <tr class="event-item" id="72662" onclick="showEventDetails('72662');" data-target="showEvent_72662" class="event-details-switch">
                             <td>15:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/tr.gif" class="event-currency-flag">	TR
+                                <img alt="" src="/images/flags/icon/tr.gif" class="event-currency-flag">	TR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2346,7 +2346,7 @@
                         <tr class="event-item" id="73143" onclick="showEventDetails('73143');" data-target="showEvent_73143" class="event-details-switch">
                             <td>15:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2368,7 +2368,7 @@
                         <tr class="event-item" id="73104" onclick="showEventDetails('73104');" data-target="showEvent_73104" class="event-details-switch">
                             <td>15:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2390,7 +2390,7 @@
                         <tr class="event-item" id="72663" onclick="showEventDetails('72663');" data-target="showEvent_72663" class="event-details-switch">
                             <td>17:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2412,7 +2412,7 @@
                         <tr class="event-item" id="72664" onclick="showEventDetails('72664');" data-target="showEvent_72664" class="event-details-switch">
                             <td>18:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2434,7 +2434,7 @@
                         <tr class="event-item" id="73105" onclick="showEventDetails('73105');" data-target="showEvent_73105" class="event-details-switch">
                             <td>18:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2456,7 +2456,7 @@
                         <tr class="event-item" id="72665" onclick="showEventDetails('72665');" data-target="showEvent_72665" class="event-details-switch">
                             <td>20:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2479,7 +2479,7 @@
                         <tr class="event-item" id="73144" onclick="showEventDetails('73144');" data-target="showEvent_73144" class="event-details-switch">
                             <td>20:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2501,7 +2501,7 @@
                         <tr class="event-item" id="72667" onclick="showEventDetails('72667');" data-target="showEvent_72667" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2523,7 +2523,7 @@
                         <tr class="event-item" id="72669" onclick="showEventDetails('72669');" data-target="showEvent_72669" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2545,7 +2545,7 @@
                         <tr class="event-item" id="72670" onclick="showEventDetails('72670');" data-target="showEvent_72670" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2567,7 +2567,7 @@
                         <tr class="event-item" id="72672" onclick="showEventDetails('72672');" data-target="showEvent_72672" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2589,7 +2589,7 @@
                         <tr class="event-item" id="72668" onclick="showEventDetails('72668');" data-target="showEvent_72668" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2611,7 +2611,7 @@
                         <tr class="event-item" id="72666" onclick="showEventDetails('72666');" data-target="showEvent_72666" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2633,7 +2633,7 @@
                         <tr class="event-item" id="72671" onclick="showEventDetails('72671');" data-target="showEvent_72671" class="event-details-switch">
                             <td>20:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2655,7 +2655,7 @@
                         <tr class="event-item" id="73145" onclick="showEventDetails('73145');" data-target="showEvent_73145" class="event-details-switch">
                             <td>21:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2680,7 +2680,7 @@
                         <tr class="event-item" id="72673" onclick="showEventDetails('72673');" data-target="showEvent_72673" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2703,7 +2703,7 @@
                         <tr class="event-item" id="73146" onclick="showEventDetails('73146');" data-target="showEvent_73146" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2725,7 +2725,7 @@
                         <tr class="event-item" id="72674" onclick="showEventDetails('72674');" data-target="showEvent_72674" class="event-details-switch">
                             <td>02:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2748,7 +2748,7 @@
                         <tr class="event-item" id="72675" onclick="showEventDetails('72675');" data-target="showEvent_72675" class="event-details-switch">
                             <td>06:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/pe.gif" class="event-currency-flag">	PE
+                                <img alt="" src="/images/flags/icon/pe.gif" class="event-currency-flag">	PE
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2774,7 +2774,7 @@
                         <tr class="event-item" id="72676" onclick="showEventDetails('72676');" data-target="showEvent_72676" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/kr.gif" class="event-currency-flag">	KR
+                                <img alt="" src="/images/flags/icon/kr.gif" class="event-currency-flag">	KR
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -2796,7 +2796,7 @@
                         <tr class="event-item" id="73147" onclick="showEventDetails('73147');" data-target="showEvent_73147" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2821,7 +2821,7 @@
                         <tr class="event-item" id="72677" onclick="showEventDetails('72677');" data-target="showEvent_72677" class="event-details-switch">
                             <td>00:01</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -2844,7 +2844,7 @@
                         <tr class="event-item" id="72678" onclick="showEventDetails('72678');" data-target="showEvent_72678" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2867,7 +2867,7 @@
                         <tr class="event-item" id="72679" onclick="showEventDetails('72679');" data-target="showEvent_72679" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2890,7 +2890,7 @@
                         <tr class="event-item" id="72680" onclick="showEventDetails('72680');" data-target="showEvent_72680" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2913,7 +2913,7 @@
                         <tr class="event-item" id="72681" onclick="showEventDetails('72681');" data-target="showEvent_72681" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -2936,7 +2936,7 @@
                         <tr class="event-item" id="72682" onclick="showEventDetails('72682');" data-target="showEvent_72682" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -2958,7 +2958,7 @@
                         <tr class="event-item" id="72684" onclick="showEventDetails('72684');" data-target="showEvent_72684" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ar.gif" class="event-currency-flag">	AR
+                                <img alt="" src="/images/flags/icon/ar.gif" class="event-currency-flag">	AR
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -2980,7 +2980,7 @@
                         <tr class="event-item" id="72686" onclick="showEventDetails('72686');" data-target="showEvent_72686" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -3002,7 +3002,7 @@
                         <tr class="event-item" id="73106" onclick="showEventDetails('73106');" data-target="showEvent_73106" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3025,7 +3025,7 @@
                         <tr class="event-item" id="72685" onclick="showEventDetails('72685');" data-target="showEvent_72685" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -3047,7 +3047,7 @@
                         <tr class="event-item" id="72683" onclick="showEventDetails('72683');" data-target="showEvent_72683" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/hk.gif" class="event-currency-flag">	HK
+                                <img alt="" src="/images/flags/icon/hk.gif" class="event-currency-flag">	HK
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -3069,7 +3069,7 @@
                         <tr class="event-item" id="72687" onclick="showEventDetails('72687');" data-target="showEvent_72687" class="event-details-switch">
                             <td>06:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3092,7 +3092,7 @@
                         <tr class="event-item" id="72688" onclick="showEventDetails('72688');" data-target="showEvent_72688" class="event-details-switch">
                             <td>06:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3115,7 +3115,7 @@
                         <tr class="event-item" id="72689" onclick="showEventDetails('72689');" data-target="showEvent_72689" class="event-details-switch">
                             <td>06:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ch.gif" class="event-currency-flag">	CH
+                                <img alt="" src="/images/flags/icon/ch.gif" class="event-currency-flag">	CH
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -3138,7 +3138,7 @@
                         <tr class="event-item" id="72690" onclick="showEventDetails('72690');" data-target="showEvent_72690" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3161,7 +3161,7 @@
                         <tr class="event-item" id="72691" onclick="showEventDetails('72691');" data-target="showEvent_72691" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3184,7 +3184,7 @@
                         <tr class="event-item" id="72692" onclick="showEventDetails('72692');" data-target="showEvent_72692" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3207,7 +3207,7 @@
                         <tr class="event-item" id="72693" onclick="showEventDetails('72693');" data-target="showEvent_72693" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3230,7 +3230,7 @@
                         <tr class="event-item" id="72694" onclick="showEventDetails('72694');" data-target="showEvent_72694" class="event-details-switch">
                             <td>09:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/it.gif" class="event-currency-flag">	IT
+                                <img alt="" src="/images/flags/icon/it.gif" class="event-currency-flag">	IT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3253,7 +3253,7 @@
                         <tr class="event-item" id="72695" onclick="showEventDetails('72695');" data-target="showEvent_72695" class="event-details-switch">
                             <td>09:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/it.gif" class="event-currency-flag">	IT
+                                <img alt="" src="/images/flags/icon/it.gif" class="event-currency-flag">	IT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3276,7 +3276,7 @@
                         <tr class="event-item" id="72696" onclick="showEventDetails('72696');" data-target="showEvent_72696" class="event-details-switch">
                             <td>09:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3299,7 +3299,7 @@
                         <tr class="event-item" id="73107" onclick="showEventDetails('73107');" data-target="showEvent_73107" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/gr.gif" class="event-currency-flag">	GR
+                                <img alt="" src="/images/flags/icon/gr.gif" class="event-currency-flag">	GR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3322,7 +3322,7 @@
                         <tr class="event-item" id="73109" onclick="showEventDetails('73109');" data-target="showEvent_73109" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/gr.gif" class="event-currency-flag">	GR
+                                <img alt="" src="/images/flags/icon/gr.gif" class="event-currency-flag">	GR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3345,7 +3345,7 @@
                         <tr class="event-item" id="73110" onclick="showEventDetails('73110');" data-target="showEvent_73110" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/gr.gif" class="event-currency-flag">	GR
+                                <img alt="" src="/images/flags/icon/gr.gif" class="event-currency-flag">	GR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3368,7 +3368,7 @@
                         <tr class="event-item" id="73148" onclick="showEventDetails('73148');" data-target="showEvent_73148" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3390,7 +3390,7 @@
                         <tr class="event-item" id="73108" onclick="showEventDetails('73108');" data-target="showEvent_73108" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/pt.gif" class="event-currency-flag">	PT
+                                <img alt="" src="/images/flags/icon/pt.gif" class="event-currency-flag">	PT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3413,7 +3413,7 @@
                         <tr class="event-item" id="72697" onclick="showEventDetails('72697');" data-target="showEvent_72697" class="event-details-switch">
                             <td>10:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3435,7 +3435,7 @@
                         <tr class="event-item" id="72698" onclick="showEventDetails('72698');" data-target="showEvent_72698" class="event-details-switch">
                             <td>11:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3458,7 +3458,7 @@
                         <tr class="event-item" id="72699" onclick="showEventDetails('72699');" data-target="showEvent_72699" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3481,7 +3481,7 @@
                         <tr class="event-item" id="72700" onclick="showEventDetails('72700');" data-target="showEvent_72700" class="event-details-switch">
                             <td>16:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3503,7 +3503,7 @@
                         <tr class="event-item" id="72701" onclick="showEventDetails('72701');" data-target="showEvent_72701" class="event-details-switch">
                             <td>16:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3525,7 +3525,7 @@
                         <tr class="event-item" id="73111" onclick="showEventDetails('73111');" data-target="showEvent_73111" class="event-details-switch">
                             <td>22:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
+                                <img alt="" src="/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3548,7 +3548,7 @@
                         <tr class="event-item" id="73112" onclick="showEventDetails('73112');" data-target="showEvent_73112" class="event-details-switch">
                             <td>22:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
+                                <img alt="" src="/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3571,7 +3571,7 @@
                         <tr class="event-item" id="72702" onclick="showEventDetails('72702');" data-target="showEvent_72702" class="event-details-switch">
                             <td>23:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
+                                <img alt="" src="/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3597,7 +3597,7 @@
                         <tr class="event-item" id="73113" onclick="showEventDetails('73113');" data-target="showEvent_73113" class="event-details-switch">
                             <td>00:01</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/uk.gif" class="event-currency-flag">	UK
+                                <img alt="" src="/images/flags/icon/uk.gif" class="event-currency-flag">	UK
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3620,7 +3620,7 @@
                         <tr class="event-item" id="73114" onclick="showEventDetails('73114');" data-target="showEvent_73114" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3643,7 +3643,7 @@
                         <tr class="event-item" id="73115" onclick="showEventDetails('73115');" data-target="showEvent_73115" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3666,7 +3666,7 @@
                         <tr class="event-item" id="72703" onclick="showEventDetails('72703');" data-target="showEvent_72703" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/in.gif" class="event-currency-flag">	IN
+                                <img alt="" src="/images/flags/icon/in.gif" class="event-currency-flag">	IN
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -3688,7 +3688,7 @@
                         <tr class="event-item" id="72704" onclick="showEventDetails('72704');" data-target="showEvent_72704" class="event-details-switch">
                             <td>01:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3711,7 +3711,7 @@
                         <tr class="event-item" id="72705" onclick="showEventDetails('72705');" data-target="showEvent_72705" class="event-details-switch">
                             <td>02:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3734,7 +3734,7 @@
                         <tr class="event-item" id="72706" onclick="showEventDetails('72706');" data-target="showEvent_72706" class="event-details-switch">
                             <td>02:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3757,7 +3757,7 @@
                         <tr class="event-item" id="72707" onclick="showEventDetails('72707');" data-target="showEvent_72707" class="event-details-switch">
                             <td>02:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3780,7 +3780,7 @@
                         <tr class="event-item" id="72708" onclick="showEventDetails('72708');" data-target="showEvent_72708" class="event-details-switch">
                             <td>02:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3803,7 +3803,7 @@
                         <tr class="event-item" id="73116" onclick="showEventDetails('73116');" data-target="showEvent_73116" class="event-details-switch">
                             <td>03:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3826,7 +3826,7 @@
                         <tr class="event-item" id="73117" onclick="showEventDetails('73117');" data-target="showEvent_73117" class="event-details-switch">
                             <td>03:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cn.gif" class="event-currency-flag">	CN
+                                <img alt="" src="/images/flags/icon/cn.gif" class="event-currency-flag">	CN
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3849,7 +3849,7 @@
                         <tr class="event-item" id="72709" onclick="showEventDetails('72709');" data-target="showEvent_72709" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3872,7 +3872,7 @@
                         <tr class="event-item" id="72710" onclick="showEventDetails('72710');" data-target="showEvent_72710" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3895,7 +3895,7 @@
                         <tr class="event-item" id="72711" onclick="showEventDetails('72711');" data-target="showEvent_72711" class="event-details-switch">
                             <td>07:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3919,7 +3919,7 @@
                         <tr class="event-item" id="72713" onclick="showEventDetails('72713');" data-target="showEvent_72713" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3942,7 +3942,7 @@
                         <tr class="event-item" id="72714" onclick="showEventDetails('72714');" data-target="showEvent_72714" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/de.gif" class="event-currency-flag">	DE
+                                <img alt="" src="/images/flags/icon/de.gif" class="event-currency-flag">	DE
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -3965,7 +3965,7 @@
                         <tr class="event-item" id="72715" onclick="showEventDetails('72715');" data-target="showEvent_72715" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -3987,7 +3987,7 @@
                         <tr class="event-item" id="72716" onclick="showEventDetails('72716');" data-target="showEvent_72716" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4009,7 +4009,7 @@
                         <tr class="event-item" id="72712" onclick="showEventDetails('72712');" data-target="showEvent_72712" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4032,7 +4032,7 @@
                         <tr class="event-item" id="73118" onclick="showEventDetails('73118');" data-target="showEvent_73118" class="event-details-switch">
                             <td>11:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4055,7 +4055,7 @@
                         <tr class="event-item" id="73119" onclick="showEventDetails('73119');" data-target="showEvent_73119" class="event-details-switch">
                             <td>13:15</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ca.gif" class="event-currency-flag">	CA
+                                <img alt="" src="/images/flags/icon/ca.gif" class="event-currency-flag">	CA
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4078,7 +4078,7 @@
                         <tr class="event-item" id="72717" onclick="showEventDetails('72717');" data-target="showEvent_72717" class="event-details-switch">
                             <td>13:55</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4101,7 +4101,7 @@
                         <tr class="event-item" id="72718" onclick="showEventDetails('72718');" data-target="showEvent_72718" class="event-details-switch">
                             <td>13:55</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4124,7 +4124,7 @@
                         <tr class="event-item" id="73149" onclick="showEventDetails('73149');" data-target="showEvent_73149" class="event-details-switch">
                             <td>18:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4146,7 +4146,7 @@
                         <tr class="event-item" id="72719" onclick="showEventDetails('72719');" data-target="showEvent_72719" class="event-details-switch">
                             <td>21:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -4171,7 +4171,7 @@
                         <tr class="event-item" id="72720" onclick="showEventDetails('72720');" data-target="showEvent_72720" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4194,7 +4194,7 @@
                         <tr class="event-item" id="73120" onclick="showEventDetails('73120');" data-target="showEvent_73120" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4217,7 +4217,7 @@
                         <tr class="event-item" id="73121" onclick="showEventDetails('73121');" data-target="showEvent_73121" class="event-details-switch">
                             <td>00:50</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/jp.gif" class="event-currency-flag">	JP
+                                <img alt="" src="/images/flags/icon/jp.gif" class="event-currency-flag">	JP
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4240,7 +4240,7 @@
                         <tr class="event-item" id="72723" onclick="showEventDetails('72723');" data-target="showEvent_72723" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/mx.gif" class="event-currency-flag">	MX
+                                <img alt="" src="/images/flags/icon/mx.gif" class="event-currency-flag">	MX
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -4262,7 +4262,7 @@
                         <tr class="event-item" id="72724" onclick="showEventDetails('72724');" data-target="showEvent_72724" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -4284,7 +4284,7 @@
                         <tr class="event-item" id="72722" onclick="showEventDetails('72722');" data-target="showEvent_72722" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/br.gif" class="event-currency-flag">	BR
+                                <img alt="" src="/images/flags/icon/br.gif" class="event-currency-flag">	BR
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -4306,7 +4306,7 @@
                         <tr class="event-item" id="72721" onclick="showEventDetails('72721');" data-target="showEvent_72721" class="event-details-switch">
                             <td>01:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/cl.gif" class="event-currency-flag">	CL
+                                <img alt="" src="/images/flags/icon/cl.gif" class="event-currency-flag">	CL
                             </td>
                             <td>
                                 <div title="无波动预期" class="e-value-0"><span>无波动预期</span></div></td>
@@ -4328,7 +4328,7 @@
                         <tr class="event-item" id="73122" onclick="showEventDetails('73122');" data-target="showEvent_73122" class="event-details-switch">
                             <td>01:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/au.gif" class="event-currency-flag">	AU
+                                <img alt="" src="/images/flags/icon/au.gif" class="event-currency-flag">	AU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4351,7 +4351,7 @@
                         <tr class="event-item" id="73123" onclick="showEventDetails('73123');" data-target="showEvent_73123" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4374,7 +4374,7 @@
                         <tr class="event-item" id="73124" onclick="showEventDetails('73124');" data-target="showEvent_73124" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4397,7 +4397,7 @@
                         <tr class="event-item" id="73125" onclick="showEventDetails('73125');" data-target="showEvent_73125" class="event-details-switch">
                             <td>07:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/fr.gif" class="event-currency-flag">	FR
+                                <img alt="" src="/images/flags/icon/fr.gif" class="event-currency-flag">	FR
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4420,7 +4420,7 @@
                         <tr class="event-item" id="72726" onclick="showEventDetails('72726');" data-target="showEvent_72726" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/es.gif" class="event-currency-flag">	ES
+                                <img alt="" src="/images/flags/icon/es.gif" class="event-currency-flag">	ES
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4442,7 +4442,7 @@
                         <tr class="event-item" id="72725" onclick="showEventDetails('72725');" data-target="showEvent_72725" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/ch.gif" class="event-currency-flag">	CH
+                                <img alt="" src="/images/flags/icon/ch.gif" class="event-currency-flag">	CH
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4465,7 +4465,7 @@
                         <tr class="event-item" id="72727" onclick="showEventDetails('72727');" data-target="showEvent_72727" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4488,7 +4488,7 @@
                         <tr class="event-item" id="72728" onclick="showEventDetails('72728');" data-target="showEvent_72728" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
+                                <img alt="" src="/images/flags/icon/emu.gif" class="event-currency-flag">	EMU
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4511,7 +4511,7 @@
                         <tr class="event-item" id="73126" onclick="showEventDetails('73126');" data-target="showEvent_73126" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/pt.gif" class="event-currency-flag">	PT
+                                <img alt="" src="/images/flags/icon/pt.gif" class="event-currency-flag">	PT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4534,7 +4534,7 @@
                         <tr class="event-item" id="73127" onclick="showEventDetails('73127');" data-target="showEvent_73127" class="event-details-switch">
                             <td>10:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/pt.gif" class="event-currency-flag">	PT
+                                <img alt="" src="/images/flags/icon/pt.gif" class="event-currency-flag">	PT
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4557,7 +4557,7 @@
                         <tr class="event-item" id="72729" onclick="showEventDetails('72729');" data-target="showEvent_72729" class="event-details-switch">
                             <td>12:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4580,7 +4580,7 @@
                         <tr class="event-item" id="72730" onclick="showEventDetails('72730');" data-target="showEvent_72730" class="event-details-switch">
                             <td>15:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4603,7 +4603,7 @@
                         <tr class="event-item" id="72731" onclick="showEventDetails('72731');" data-target="showEvent_72731" class="event-details-switch">
                             <td>15:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4626,7 +4626,7 @@
                         <tr class="event-item" id="72732" onclick="showEventDetails('72732');" data-target="showEvent_72732" class="event-details-switch">
                             <td>16:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4648,7 +4648,7 @@
                         <tr class="event-item" id="72733" onclick="showEventDetails('72733');" data-target="showEvent_72733" class="event-details-switch">
                             <td>16:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4670,7 +4670,7 @@
                         <tr class="event-item" id="72734" onclick="showEventDetails('72734');" data-target="showEvent_72734" class="event-details-switch">
                             <td>18:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4692,7 +4692,7 @@
                         <tr class="event-item" id="72735" onclick="showEventDetails('72735');" data-target="showEvent_72735" class="event-details-switch">
                             <td>19:00</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="高波动预期" class="e-value-3"><span>高波动预期</span></div></td>
@@ -4714,7 +4714,7 @@
                         <tr class="event-item" id="73128" onclick="showEventDetails('73128');" data-target="showEvent_73128" class="event-details-switch">
                             <td>21:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/us.gif" class="event-currency-flag">	US
+                                <img alt="" src="/images/flags/icon/us.gif" class="event-currency-flag">	US
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4736,7 +4736,7 @@
                         <tr class="event-item" id="72736" onclick="showEventDetails('72736');" data-target="showEvent_72736" class="event-details-switch">
                             <td>23:30</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
+                                <img alt="" src="/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
                             </td>
                             <td>
                                 <div title="中等波动预期" class="e-value-2"><span>中等波动预期</span></div></td>
@@ -4759,7 +4759,7 @@
                         <tr class="event-item" id="72737" onclick="showEventDetails('72737');" data-target="showEvent_72737" class="event-details-switch">
                             <td>23:45</td>
                             <td class="e-name">
-                                <img alt="" src="/themes/rbforex/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
+                                <img alt="" src="/images/flags/icon/nz.gif" class="event-currency-flag">	NZ
                             </td>
                             <td>
                                 <div title="低波动预期" class="e-value-1"><span>低波动预期</span></div></td>
@@ -4990,9 +4990,9 @@
         if(document.images)
         {
             var pic1=new Image();
-            pic1.src="/themes/rbforex/images/inner/tc-tl.png";
+            pic1.src="/images/inner/tc-tl.png";
             var pic2=new Image();
-            pic2.src="/themes/rbforex/images/inner/tc-tr.png";
+            pic2.src="/images/inner/tc-tr.png";
         }
 
         $(function()
