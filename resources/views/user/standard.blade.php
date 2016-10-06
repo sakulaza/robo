@@ -60,9 +60,8 @@
     <h1>开设账户</h1>
     <p style="text-align: justify">
         正确选择账户类型并利用其账户条件是交易成功的关键。不论您的交易策略和习惯如何，
-        GoldMany总有一款账户类型能满足您的需求。我们提供的账户类型有：Fix-Cent（固定点差美分账户）、
-        Fix-Standard（固定点差标准账户）、Pro-Cent（浮动点差美分账户）、Pro-Standard（浮动点差标准账户）、
-        以及适合专业交易者的ECN固定点差和ECN浮动点差无柜台交易账户。
+        GoldMany总有一款账户类型能满足您的需求。
+        我们提供的账户类型有：Fix-Cent账户、以及适合专业交易者的ECN和STP浮动点差无柜台交易账户。
     </p>
     <table border="0" cellpadding="7" cellspacing="0" class="table" style="width: 100%">
         <tbody>
@@ -83,7 +82,7 @@
         <tr valign="top">
             <td>
                 <h2 style="font-size: 22px">
-                    <a name="proecn"></a>ECN-FixSpread&nbsp;</h2>
+                    <a name="proecn"></a>标准账户&nbsp;</h2>
                 <p style="font-size: 10px">
                     特点: 固定点差1.6 点起, 小数点后5位, 订单以市场执行模式,执行少于1秒, NDD (无交易柜台).</p>
             </td>
@@ -105,17 +104,13 @@
                        title="Opening form for MetaTrader 4 ECN-FixSpread">
                         <span style="width:100px; text-align:center;">开设 MT4</span>
                     </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/ecn/" target="_blank"
-                       title="Opening form for MetaTrader 5 ECN-FixSpread">
-                        <span style="width:100px; text-align:center;">开设 MT5</span>
-                    </a></p>
+                </p>
             </td>
         </tr>
         <tr bgcolor="#e0eee0" valign="top">
             <td>
                 <h2 style="font-size: 22px; margin-bottom: 0px;">
-                    <a name="proecn"></a>ECN-Pro</h2>
+                    <a name="proecn"></a>ECN账户</h2>
                 <h3 style="margin-top: 0px;">
                     ECN-Pro Affiliate <span class="footnote">*</span></h3>
                 <p style="font-size: 10px">
@@ -140,23 +135,16 @@
                     <a class="likeBigButton rw-tip_holder"
                        href="https://my.cn.roboforex.com/cs/register/ecn-pro/" target="_blank"
                        title="Opening form for MetaTrader 4 Pro ECN"><span style="width:100px;
-                       text-align:center;">开设 MT4</span></a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/ecn/" target="_blank"
-                       title="Opening form for MetaTrader 5 Pro ECN"><span style="width:100px;
-                       text-align:center;">开设 MT5</span></a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/ct/ecn/" target="_blank"
-                       title="Opening form for cTrader Pro ECN"><span style="width:100px;
-                       text-align:center;">开设 cTrader</span></a>
+                       text-align:center;">开设 MT4</span>
+                    </a><br />
+
                     <span style="color: grey; font-size: 10px">&nbsp;</span>
                 </p>
             </td>
         </tr>
         <tr valign="top">
             <td>
-                <h2 style="font-size: 22px; margin-bottom: 0px;">
-                    Fix-Standard</h2>
+                <h2 style="font-size: 22px; margin-bottom: 0px;">STP账户</h2>
                 <h3 style="margin-top: 0px;">
                     Fix-Affiliate <span class="footnote">*</span></h3>
                 <p style="font-size: 10px">
@@ -175,144 +163,11 @@
                        title="Opening form for MetaTrader 4 Fix Standard">
                         <span style="width:100px; text-align:center;">开设 MT4</span>
                     </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/fix-stan/" target="_blank"
-                       title="Opening form for MetaTrader 5 Fix Standard">
-                        <span style="width:100px; text-align:center;">开设 MT5</span>
-                    </a><br />
                     <span style="color: grey; font-size: 10px">
                         MT4 Fix-Standard 账户在 29 9月 2016, 之前开设, 客户来自 Ukraine.
                     </span>
                 </p>
             </td>
-        </tr>
-        <tr bgcolor="#e0eee0" valign="top">
-            <td>
-                <h2 style="font-size: 22px; margin-bottom: 0px;">
-                    Pro-Standard</h2>
-                <h3 style="margin-top: 0px;">
-                    Pro-Affiliate <span class="footnote">*</span></h3>
-                <p style="font-size: 10px">
-                    账户特点: 浮动点差, 5位小数报价, 市价执行模式(forex pro)</p>
-            </td>
-            <td valign="top">
-                <p style="text-align: justify;">
-                    浮动点差标准账户无重新报价，订单成交速度快，其特点是点差浮动、5位小数报价、市场执行模式。</p>
-            </td>
-            <td class="last">
-                <p>
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/pro-standard/" target="_blank"
-                       title="Opening form for MetaTrader 4 Pro Standard">
-                        <span style="width:100px; text-align:center;">开设 MT4</span>
-                    </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/pro-stan/" target="_blank"
-                       title="Opening form for MetaTrader 5 Pro Standard">
-                        <span style="width:100px; text-align:center;">开设 MT5</span>
-                    </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/ct/pro-stan/" target="_blank"
-                       title="Opening form for cTrader Pro Standard">
-                        <span style="width:100px; text-align:center;">开设 cTrader</span>
-                    </a><br />
-                    <span style="color: grey; font-size: 10px">
-                        MT4 Pro-Standard 账户在 today 15 minutes 2 sec. before, 之前开设, 客户来自 Brazil.
-                    </span>
-                </p>
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="130">
-                <h2 style="font-size: 22px">
-                    Fix-Cent&nbsp;</h2>
-                <p style="font-size: 10px">
-                    账户特点: 固定点差, 4位小数报价,即时执行模式 (forex mini)</p>
-            </td>
-            <td>
-                <p style="text-align: justify;">
-                    外汇交易难度高、风险大，因此我们向入门交易客户提供了固定点差美分账户。该账户使用美分为核算单位。
-                    比如10美元或欧元在账户会显示为1000分，投资门槛更低，更适合刚踏入外汇交易的客户，既可操作真实账户，
-                    又可避免大幅亏损风险。
-                </p>
-            </td>
-            <td class="last">
-                <p>
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/fix-cent/" target="_blank"
-                       title="Opening form for MetaTrader 4 Fix Cent">
-                        <span style="width:100px; text-align:center;">开设 MT4</span>
-                    </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/fix-cent/" target="_blank"
-                       title="Opening form for MetaTrader 5 Fix Cent">
-                        <span style="width:100px; text-align:center;">开设 MT5</span>
-                    </a><br />
-                    <span style="color: grey; font-size: 10px">
-                        MT4 Fix-Cent 账户在 today 8 minutes 54 sec. before, 之前开设, 客户来自 Ukraine.
-                    </span>
-                </p>
-            </td>
-        </tr>
-        <tr bgcolor="#e0eee0" valign="top">
-            <td>
-                <h2 style="font-size: 22px">
-                    Pro-Cent</h2>
-                <p style="font-size: 10px">
-                    账户特点: 浮动点差, 5位小数报价 , 市价执行模式 (forex pro)</p>
-            </td>
-            <td>
-                <p style="text-align: justify;">
-                    浮动点差美分账户为有意尝试银行同业市场交易条件的客户而准备。GoldMany作为客户对手方，
-                    客户下单执行如同通过桥接技术传递至一级经纪商执行一样。因此使用这一账户类型，
-                    客户可无需投入大量资金便可在外汇真实交易中小试身手。
-                </p>
-            </td>
-            <td>
-                <p>
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/pro-cent/" target="_blank"
-                       title="Opening form for MetaTrader 4 Pro Cent">
-                        <span style="width:100px; text-align:center;">开设 MT4</span>
-                    </a><br />
-                    <a class="likeBigButton rw-tip_holder"
-                       href="https://my.cn.roboforex.com/cs/register/mt5/pro-cent/" target="_blank"
-                       title="Opening form for MetaTrader 5 Pro Cent">
-                        <span style="width:100px; text-align:center;">开设 MT5</span>
-                    </a><br />
-                    <span style="color: grey; font-size: 10px">
-                        MT4 Pro-Cent 账户在 today 10 minutes 0 sec. before, 之前开设, 客户来自 Egypt.
-                    </span>
-                </p>
-            </td>
-        </tr>
-        <tr class="last" valign="top">
-            <td class="tc-bl ">
-                <h2>
-                    Demo accounts</h2>
-                <p style="FONT-SIZE: 10px">
-                    对应ECN-FixSpread, ECN-Pro, Fix-Standard, Pro-Standard 的模拟账户，类型多样</p>
-            </td>
-            <td valign="top">
-                <p style="TEXT-ALIGN: justify;">
-                    虚拟训练模拟账户对于外汇新手和专业的交易员进行外汇EA的效益和市场策略的盈利能力的测试是最佳选择.
-                    MetaTrader4, MetaTrader5 和 cTrader 和 平台的所有类型的模拟账户订单执行的速度, 交易条件,
-                    和其他功能参数完全和真实账户的交易条件一致.
-                </p>
-            </td>
-            <td class="tc-br last" valign="top">
-                <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/"
-                   target="_blank" title="Opening form for MetaTrader 4 Demo">
-                    <span style="width:100px; text-align:center;">开设 MT4</span>
-                </a><br />
-                <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                   target="_blank" title="Opening form for MetaTrader 5 Demo">
-                    <span style="width:100px; text-align:center;">开设 MT5</span>
-                </a><br />
-                <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/ct/"
-                   target="_blank" title="Opening form for cTrader Demo ECN">
-                    <span style="width:100px; text-align:center;">开设 cTrader</span>
-                </a></td>
         </tr>
         </tbody>
     </table>

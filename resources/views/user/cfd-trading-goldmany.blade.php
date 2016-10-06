@@ -155,27 +155,27 @@
                     <a href="http://cn.roboforex.com/trading-accounts/download-metatrader4-mt4/"
                        target="_blank">MT4</a>浮动点差标准账户及ECN账户皆可交易差价合约。</h3>
                 <div style="text-align: center;margin-bottom: 30px;">
-                    <div class="account-types" style="margin: 0px 20px 0 0;background:
-                     url(http://www.roboforex.ru/files/filemanager/image3/structure/trade-conditions/35fc69fada.png);
-                     background-position-x: -33%;background-position-y: 490%;background-repeat: no-repeat;
-                     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.22);">
-                        <div style="font-size: 20px;margin: 0 15px 20px; padding-bottom: 15px;border-bottom: 1px solid #e3e3e3;text-shadow: 0 2px 3px rgba(0, 0, 0, 0.22); color: #215682;">
-                            Pro-Standard</div>
-                        <div style="text-align: left;height: 130px;">
-                            <ul class="terms">
-                                <li style="margin-bottom: 7px;">
-                                    市场执行模式</li>
-                                <li style="margin-bottom: 7px;">
-                                    浮动点差 0.4 pips 起</li>
-                                <li style="margin-bottom: 7px;">
-                                    最大杠杆 1:500 <!--i class="fa fa-question-circle" style="color: #344964; font-size: 12px" title="The maximum admissible leverage for the clients from Poland can't be more than 1:100.">&nbsp;</i--></li>
-                                <li>
-                                    最大订单量是 100 lots</li>
-                            </ul>
-                        </div>
-                        <div style="text-align: center;z-index: 9;">
-                            <a class="rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/pro-standard/" style="background: #4580a8; border-radius: 5px; padding: 8px 9px; text-decoration: none; color: #fff; margin: 10px;z-index: 9;box-shadow: 0 9px 6px -7px rgba(0, 0, 0, 0.45);" target="_blank" title="Торговля на Форекс несет высокий риск и вы можете потерять весь депозит."><span>开设 Pro-Standard 账户</span></a></div>
-                    </div>
+                    {{--<div class="account-types" style="margin: 0px 20px 0 0;background:--}}
+                     {{--url(http://www.roboforex.ru/files/filemanager/image3/structure/trade-conditions/35fc69fada.png);--}}
+                     {{--background-position-x: -33%;background-position-y: 490%;background-repeat: no-repeat;--}}
+                     {{--box-shadow: 0 3px 8px rgba(0, 0, 0, 0.22);">--}}
+                        {{--<div style="font-size: 20px;margin: 0 15px 20px; padding-bottom: 15px;border-bottom: 1px solid #e3e3e3;text-shadow: 0 2px 3px rgba(0, 0, 0, 0.22); color: #215682;">--}}
+                            {{--Pro-Standard</div>--}}
+                        {{--<div style="text-align: left;height: 130px;">--}}
+                            {{--<ul class="terms">--}}
+                                {{--<li style="margin-bottom: 7px;">--}}
+                                    {{--市场执行模式</li>--}}
+                                {{--<li style="margin-bottom: 7px;">--}}
+                                    {{--浮动点差 0.4 pips 起</li>--}}
+                                {{--<li style="margin-bottom: 7px;">--}}
+                                    {{--最大杠杆 1:500 <!--i class="fa fa-question-circle" style="color: #344964; font-size: 12px" title="The maximum admissible leverage for the clients from Poland can't be more than 1:100.">&nbsp;</i--></li>--}}
+                                {{--<li>--}}
+                                    {{--最大订单量是 100 lots</li>--}}
+                            {{--</ul>--}}
+                        {{--</div>--}}
+                        {{--<div style="text-align: center;z-index: 9;">--}}
+                            {{--<a class="rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/pro-standard/" style="background: #4580a8; border-radius: 5px; padding: 8px 9px; text-decoration: none; color: #fff; margin: 10px;z-index: 9;box-shadow: 0 9px 6px -7px rgba(0, 0, 0, 0.45);" target="_blank" title="Торговля на Форекс несет высокий риск и вы можете потерять весь депозит."><span>开设 Pro-Standard 账户</span></a></div>--}}
+                    {{--</div>--}}
                     <div class="account-types" style="margin: 0 0 0 20px;background: url(http://www.roboforex.ru/files/filemanager/image3/structure/trade-conditions/35fc69fada.png);      background-position-x: 155%; background-position-y: 490%; background-repeat: no-repeat;box-shadow: 0 3px 8px rgba(0, 0, 0, 0.22);">
                         <div style="font-size: 20px;margin: 0 15px 20px;padding-bottom: 15px;border-bottom: 1px solid #e3e3e3;text-shadow: 0 2px 3px rgba(0, 0, 0, 0.22); color: #215682;">
                             ECN-Pro</div>
@@ -311,11 +311,6 @@
             </li>
             <li >
                 <a href="/trade-conditions/metatrader4-mt4/"  >MetaTrader 4 (MT4)</a>
-
-
-            </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
 
 
             </li>

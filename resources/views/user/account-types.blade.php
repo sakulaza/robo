@@ -208,22 +208,8 @@
         GoldMany 交易账户类型和条件</h1>
     <p style="text-align:justify;">
         GoldMany为客户提供最优订单成交条件,多种账户类型以及账户管理的便捷服务。
-        <a href="/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>,
-        <a href="/trade-conditions/metatrader5-mt5/" target="_blank">MT5</a>,
-        <a href="/trade-conditions/ctrader/" target="_blank">cTrader</a>，
-        <a href="http://cn.GoldMany.com/trade-conditions/webtrader/" target="_blank">WebTrader</a>
+        <a href="/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>
         网页交易平台，苹果与安卓移动平台等多类型交易终端,优惠的交易条件让您尽享在线交易的便利。</p>
-    <div class="flexible" style="background-color: #FAFBFC;">
-        <div style="width: 15%;">
-            <img src="http://www.roboforex.com/files/filemanager/image3/structure/operations/bonuses-promotions/road-to-dakar-2016/dakar_pages.png"
-                 style="
-    width: 100px;
-"/></div>
-        <div style="text-align: justify;width: 83%;font-size: 15px;">
-            当您在GoldMany开设新的账户时,您不仅可以享受优惠的交易条件,也有机会亲眼观看2017年达喀尔拉力赛!<br/>
-            在<a href="/operations/bonuses-promotions/road-to-dakar-2017/" target="_blank">活动页面</a>阅读条款. 达喀尔之路正在等您!
-        </div>
-    </div>
     <h2>
         GoldMany致力为客户提供全方位优质服务。</h2>
     <div class="specs">
@@ -232,16 +218,8 @@
                 <span class="ss-switch-sub"><span class="ss-switch-text">标准账户</span> </span>
             </a>
             <a class="ss-fix-stan" href="#fix-stan" rel="ss-fix-stan" style="margin-top: 5px;">
-                <span class="ss-switch-sub"> <span class="ss-switch-text">ECN 账户</span> </span>
+                <span class="ss-switch-sub"> <span class="ss-switch-text">ECN/STP 账户</span> </span>
             </a>
-            {{--<a class="ss-pro-cent" href="#pro-cent" rel="ss-pro-cent" style="margin-top: 5px;"> --}}
-                {{--<span class="ss-switch-sub"> <span class="ss-switch-text">美分账户</span> </span> --}}
-            {{--</a> --}}
-            {{--<a class="ss-pro-stan-ecn" href="#pro-stan-ecn" rel="ss-pro-stan-ecn" style="margin-top: 5px; "> --}}
-                {{--<span class="ss-switch-sub" style="padding: 2px 9px;"> --}}
-                    {{--<span class="ss-switch-text">Affiliate 账户</span> --}}
-                {{--</span> --}}
-            {{--</a> --}}
             <a class="ss-pro-stan" href="#pro-stan" rel="ss-pro-stan" style="margin-top: 5px;margin-right: 0px;">
                 <span class="ss-switch-sub"> <span class="ss-switch-text">模拟账户</span> </span>
             </a>
@@ -255,9 +233,6 @@
                     <th style="text-align:center; vertical-align: middle; font-size: 16px;">
                         Fix-Standard
                     </th>
-                    <th style="text-align:center; vertical-align: middle; font-size: 16px;">
-                        Pro-Standard
-                    </th>
                 </tr>
                 <tr valign="middle">
                     <td>
@@ -267,33 +242,11 @@
                            target="_blank" title="MetaTrader4 交易平台浏览.">MetaTrader4
                         </a>
                         <br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none"
-                           target="_blank" title="MetaTrader5 交易平台浏览.">MetaTrader5
-                        </a><br/>
-                        <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none"
-                           target="_blank" title="WebTrader交易终端概述.">WebTrader</a>
-                        <br/>
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none"
                            target="_blank" title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none"
-                           target="_blank" title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a></td>
-                    <td style="text-align: center;  width: 139px;">
-                        <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <a href="/trade-conditions/ctrader/" style="text-decoration: none" target="_blank"
-                           title="cTrader 交易平台浏览.">cTrader</a><br/>
-                        <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
-                        <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
-                           title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
-                        <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
-                           title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a><br/>
-                        <a href="https://ct.roboforex.com" style="text-decoration: none" target="_blank"
-                           title="cTrader Web 交易平台浏览.">cTrader&nbsp;Web</a></td>
+                           target="_blank" title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a>
+                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -306,35 +259,8 @@
                                  style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
                                 <a class="acc-button rw-tip_holder"
                                    href="https://my.cn.roboforex.com/cs/register/fix-standard/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register/mt5/fix-stan/"
-                                        style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register-copyfx/"
-                                        style="text-decoration: none; background-color: #f0ad0c; border: 1px solid #f0ad0c;"
-                                        target="_blank">开设CopyFX账户</a></div>
-                        </div>
-                    </td>
-                    <td style="text-align: center;">
-                        <a class="acc-button acc-button-link" href="javascript:void(0)" id="acc_link2"
-                           onclick="showFaqText(2);">开设账户</a>
-                        <div style="position: relative; ">
-                            <div class="button_holder" id="acc_place2"
-                                 style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register/pro-standard/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register/mt5/pro-stan/"
-                                        style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register/ct/pro-stan/"
-                                        style="text-decoration: none; color:#fff;">开设cTrader账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register-copyfx/"
-                                        style="text-decoration: none; background-color: #f0ad0c; border: 1px solid #f0ad0c;"
-                                        target="_blank">开设CopyFX账户</a></div>
+                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
+                            </div>
                         </div>
                     </td>
                 </tr>
@@ -344,15 +270,10 @@
                     <td style="text-align: center;">
                         USD, EUR, CNY, GOLD
                     </td>
-                    <td style="text-align: center;">
-                        USD, EUR, CNY, <span class="tooltip" title="МТ4 和 МТ5 平台.">GOLD</span></td>
                 </tr>
                 <tr>
                     <td>
                         <strong>最低存款</strong></td>
-                    <td style="text-align: center;">
-                        无
-                    </td>
                     <td style="text-align: center;">
                         无
                     </td>
@@ -363,16 +284,10 @@
                     <td style="text-align: center;">
                         1
                     </td>
-                    <td style="text-align: center;">
-                        1
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>每百万美元交易手续费</strong></td>
-                    <td style="text-align: center;">
-                        无
-                    </td>
                     <td style="text-align: center;">
                         无
                     </td>
@@ -382,8 +297,6 @@
                         <strong>执行类型</strong></td>
                     <td style="text-align: center;">
                         <span class="tooltip" title="即时执行 - 根据交易条件,订单执行按照客户要求指定的价格.">即时执行</span></td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="市价执行 - 订单在当前的市场价格处理成交.">市场执行</span></td>
                 </tr>
                 <tr>
                     <td>
@@ -391,10 +304,6 @@
                     <td style="text-align: center;">
                         <span class="tooltip" title="点差不会改变.">固定</span><br/>
                         2 点起
-                    </td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="点差变化取决于市场条件.">浮动</span><br/>
-                        0.4 点起
                     </td>
                 </tr>
                 <tr>
@@ -404,26 +313,19 @@
                         基本的<br/>
                         (小数点后4位)
                     </td>
-                    <td style="text-align: center;">
-                        扩展的<br/>
-                        (小数点后5位)
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip"
-                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型. 根据我们的客户协议, 公司有权更改客户账户的杠杆.">最大杠杆</strong></td>
+                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型.
+                                根据我们的客户协议, 公司有权更改客户账户的杠杆.">最大杠杆</strong>
+                    </td>
                     <td style="text-align: center;">
-                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:1000</span></td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="MT4,MT5和cTrader平台杠杆是1:500.">1:1000</span></td>
+                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:100</span></td>
                 </tr>
                 <tr>
                     <td>
                         <strong>最小交易量（手数）</strong></td>
-                    <td style="text-align: center;">
-                        0.01
-                    </td>
                     <td style="text-align: center;">
                         0.01
                     </td>
@@ -434,16 +336,10 @@
                     <td style="text-align: center;">
                         100
                     </td>
-                    <td style="text-align: center;">
-                        100
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip" title="只考虑打开头寸和挂单.">最大头寸数量</strong></td>
-                    <td style="text-align: center;">
-                        没有限制
-                    </td>
                     <td style="text-align: center;">
                         没有限制
                     </td>
@@ -454,16 +350,10 @@
                     <td style="text-align: center;">
                         0.01
                     </td>
-                    <td style="text-align: center;">
-                        0.01
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>保证金补充通知</strong></td>
-                    <td style="text-align: center;">
-                        50%
-                    </td>
                     <td style="text-align: center;">
                         50%
                     </td>
@@ -472,18 +362,12 @@
                     <td>
                         <strong class="tooltip" title="当保证金水平达到预先指定的最小数量,账户的交易进入强制关闭过程.">强制平仓</strong></td>
                     <td style="text-align: center;">
-                        20%
-                    </td>
-                    <td style="text-align: center;">
-                        20%
+                        30%
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <strong><a href="/operations/rebate/" target="_blank">&quot;返点&quot; 服务</a></strong></td>
-                    <td style="text-align: center;">
-                        高达 15%点差的
-                    </td>
                     <td style="text-align: center;">
                         高达 15%点差的
                     </td>
@@ -494,14 +378,10 @@
                                    target="_blank">可交易的存款奖励</a></strong></td>
                     <td style="text-align: center;">
                         高达 <a href="/operations/bonuses-promotions/tradable-bonus/" target="_blank">50%</a></td>
-                    <td style="text-align: center;">
-                        高达 <a href="/operations/bonuses-promotions/tradable-bonus/" target="_blank">50%</a></td>
                 </tr>
                 <tr>
                     <td>
                         <strong><a href="/operations/forex-bonus-deposit/" target="_blank">经典的存款奖励</a></strong></td>
-                    <td style="text-align: center;">
-                        高达 <a href="/operations/bonuses-promotions/115-deposit-bonus/" target="_blank">115%</a></td>
                     <td style="text-align: center;">
                         高达 <a href="/operations/bonuses-promotions/115-deposit-bonus/" target="_blank">115%</a></td>
                 </tr>
@@ -509,9 +389,6 @@
                     <td>
                         <strong><a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
                                    target="_blank">最高至账户结余的10%</a></strong></td>
-                    <td style="text-align: center;">
-                        高达 <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
-                              target="_blank">10%</a></td>
                     <td style="text-align: center;">
                         高达 <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
                               target="_blank">10%</a></td>
@@ -523,9 +400,6 @@
                     <td style="text-align: center;">
                         有
                     </td>
-                    <td style="text-align: center;">
-                        有
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -533,15 +407,10 @@
                     <td style="text-align: center;">
                         有
                     </td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="Swap-Free 账户不可用于cTrader平台.">有</span></td>
                 </tr>
                 <tr>
                     <td>
                         <strong><a href="/operations/one-click-trading-service/" target="_blank">一键交易</a></strong></td>
-                    <td style="text-align: center;">
-                        有
-                    </td>
                     <td style="text-align: center;">
                         有
                     </td>
@@ -551,8 +420,6 @@
                         <strong>交易工具</strong></td>
                     <td style="text-align: center;">
                         <a href="/trade-conditions/specifications/#fix-stan" target="_blank">31 种货币对, 贵金属</a></td>
-                    <td style="text-align: center;">
-                        <a href="/trade-conditions/specifications/#pro-stan" target="_blank">34 种货币对, 贵金属, CFD</a></td>
                 </tr>
                 <tr>
                     <td>
@@ -560,14 +427,10 @@
                     <td style="text-align: center;">
                         11 种货币对, 贵金属
                     </td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="只对MT4 和 MT5账户.">11 种货币对, 贵金属</span></td>
                 </tr>
                 <tr>
                     <td>
                         <strong>账户历史被保存</strong></td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="这个限制只对MT4账户有效.">1年</span></td>
                     <td style="text-align: center;">
                         <span class="tooltip" title="这个限制只对MT4账户有效.">1年</span></td>
                 </tr>
@@ -592,27 +455,6 @@
                                         target="_blank">开设CopyFX账户</a></div>
                         </div>
                     </td>
-                    <td style="text-align: center;">
-                        <a class="acc-button acc-button-link" href="javascript:void(0)" id="acc_link4"
-                           onclick="showFaqText(4);">开设账户</a>
-                        <div style="position: relative; ">
-                            <div class="button_holder" id="acc_place4"
-                                 style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register/pro-standard/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register/mt5/pro-stan/"
-                                        style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register/ct/pro-stan/"
-                                        style="text-decoration: none; color:#fff;">开设cTrader账户</a><a
-                                        class="acc-button rw-tip_holder"
-                                        href="https://my.cn.roboforex.com/cs/register-copyfx/"
-                                        style="text-decoration: none; background-color: #f0ad0c; border: 1px solid ##f0ad0c;"
-                                        target="_blank">开设CopyFX账户</a></div>
-                        </div>
-                    </td>
                 </tr>
                 </tbody>
             </table>
@@ -624,10 +466,10 @@
                     <th class="tc-tl" style="width: 226px;">
                         &nbsp;</th>
                     <th style="text-align:center; vertical-align: middle;  font-size: 16px;">
-                        ECN-Pro NDD
+                        ECN 账户
                     </th>
                     <th class="tc-tr" style="text-align:center; vertical-align: middle;  font-size: 16px;">
-                        ECN-FixSpread NDD
+                        STP 账户
                     </th>
                 </tr>
                 <tr valign="middle">
@@ -636,31 +478,22 @@
                     <td style="text-align: center;  width: 240px;">
                         <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
                            title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <a href="/trade-conditions/ctrader/" style="text-decoration: none" target="_blank"
-                           title="cTrader 交易平台浏览.">cTrader</a><br/>
-                        <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
+
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
                            title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
                            title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a><br/>
-                        <a href="https://ct.roboforex.com" style="text-decoration: none" target="_blank"
-                           title="cTrader Web 交易平台浏览.">cTrader&nbsp;Web</a></td>
+                    </td>
                     <td style="text-align: center;  width: 209px;">
                         <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
                            title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
+
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
                            title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
+
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
-                           title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a></td>
+                           title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a>
+                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -674,15 +507,17 @@
                                 <a class="acc-button rw-tip_holder"
                                    href="https://my.cn.roboforex.com/cs/register/ecn-pro/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register/mt5/ecn-pro/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>
-                                <a class="acc-button rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/ct/"
-                                   style="text-decoration: none; color:#fff;">开设cTrader账户</a>
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register-copyfx/"
-                                   style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"
-                                   target="_blank">开设CopyFX账户</a></div>
+                                {{--<a class="acc-button rw-tip_holder"--}}
+                                   {{--href="https://my.cn.roboforex.com/cs/register/mt5/ecn-pro/"--}}
+                                   {{--style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>--}}
+                                {{--<a class="acc-button rw-tip_holder"--}}
+                                   {{--href="https://my.cn.roboforex.com/cs/register/ct/"--}}
+                                   {{--style="text-decoration: none; color:#fff;">开设cTrader账户</a>--}}
+                                {{--<a class="acc-button rw-tip_holder"--}}
+                                   {{--href="https://my.cn.roboforex.com/cs/register-copyfx/"--}}
+                                   {{--style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"--}}
+                                   {{--target="_blank">开设CopyFX账户</a>--}}
+                            </div>
                         </div>
                     </td>
                     <td style="text-align: center;">
@@ -694,13 +529,14 @@
                                 <a class="acc-button rw-tip_holder"
                                    href="https://my.cn.roboforex.com/cs/register/ecn-fix/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register/mt5/ecn-fix/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>
-                                <a class="acc-button rw-tip_holder"
-                                   href="https://my.cn.roboforex.com/cs/register-copyfx/"
-                                   style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"
-                                   target="_blank">开设CopyFX账户</a></div>
+                                {{--<a class="acc-button rw-tip_holder"--}}
+                                   {{--href="https://my.cn.roboforex.com/cs/register/mt5/ecn-fix/"--}}
+                                   {{--style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>--}}
+                                {{--<a class="acc-button rw-tip_holder"--}}
+                                   {{--href="https://my.cn.roboforex.com/cs/register-copyfx/"--}}
+                                   {{--style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"--}}
+                                   {{--target="_blank">开设CopyFX账户</a>--}}
+                            </div>
                         </div>
                     </td>
                 </tr>
@@ -779,12 +615,15 @@
                 <tr>
                     <td>
                         <strong class="tooltip"
-                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型. 根据我们的客户协议, 公司有权更改客户账户的杠杆.">最大杠杆</strong></td>
-                    <td style="text-align: center;">
-                        1:300
+                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型. 根据我们的客户协议,
+                                公司有权更改客户账户的杠杆.">
+                            最大杠杆</strong>
                     </td>
                     <td style="text-align: center;">
-                        1:300
+                        1:100
+                    </td>
+                    <td style="text-align: center;">
+                        1:100
                     </td>
                 </tr>
                 <tr>
@@ -831,20 +670,20 @@
                     <td>
                         <strong>保证金补充通知</strong></td>
                     <td style="text-align: center;">
-                        60%
+                        50%
                     </td>
                     <td style="text-align: center;">
-                        60%
+                        50%
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip" title="当保证金水平达到预先指定的最小数量,账户的交易进入强制关闭过程.">强制平仓</strong></td>
                     <td style="text-align: center;">
-                        40%
+                        30%
                     </td>
                     <td style="text-align: center;">
-                        40%
+                        30%
                     </td>
                 </tr>
                 <tr>
@@ -1005,13 +844,10 @@
                         Demo Fix
                     </th>
                     <th style="text-align:center; vertical-align: middle;  font-size: 16px;">
-                        Demo Pro
+                        Demo ECN
                     </th>
                     <th style="text-align:center; vertical-align: middle;  font-size: 16px;">
-                        Demo ECN-Pro NDD
-                    </th>
-                    <th class="tc-tr" style="text-align:center; vertical-align: middle;  font-size: 16px;">
-                        Demo ECN-FixSpread NDD
+                        Demo STP
                     </th>
                 </tr>
                 <tr valign="middle">
@@ -1020,11 +856,7 @@
                     <td style="text-align: center;">
                         <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
                            title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
                         <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
                            title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
@@ -1032,13 +864,9 @@
                     <td style="text-align: center;">
                         <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
                            title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <a href="/trade-conditions/ctrader/" style="text-decoration: none" target="_blank"
-                           title="cTrader 交易平台浏览.">cTrader</a><br/>
+
                         <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
+
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
                            title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
@@ -1046,31 +874,14 @@
                     <td style="text-align: center;">
                         <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
                            title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <a href="/trade-conditions/ctrader/" style="text-decoration: none" target="_blank"
-                           title="cTrader 交易平台浏览.">cTrader</a><br/>
                         <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
+
                         <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
                            title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
                         <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
                            title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a><br/>
-                        <a href="https://ct.roboforex.com" style="text-decoration: none" target="_blank"
-                           title="cTrader Web 交易平台浏览.">cTrader&nbsp;Web</a></td>
-                    <td style="text-align: center;">
-                        <a href="/trade-conditions/metatrader4-mt4/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader4 交易平台浏览.">MetaTrader4</a><br/>
-                        <a href="/trade-conditions/metatrader5-mt5/" style="text-decoration: none" target="_blank"
-                           title="MetaTrader5 交易平台浏览.">MetaTrader5</a><br/>
-                        <br/>
-                        <a href="/trade-conditions/webtrader/" style="text-decoration: none" target="_blank"
-                           title="WebTrader交易终端概述.">WebTrader</a><br/>
-                        <a href="/operations/mobile-forex/iphonetrader/" style="text-decoration: none" target="_blank"
-                           title="iPhoneTrader mobile 交易平台浏览.">iPhoneTrader</a><br/>
-                        <a href="/operations/mobile-forex/androidtrader/" style="text-decoration: none" target="_blank"
-                           title="AndroidTrader mobile 交易平台浏览.">Android&nbsp;Trader</a></td>
+                    </td>
+
                 </tr>
                 <tr>
                     <td>
@@ -1083,8 +894,7 @@
                                  style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
                                 <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a></div>
+                            </div>
                         </div>
                     </td>
                     <td style="text-align: center;">
@@ -1095,8 +905,7 @@
                                  style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
                                 <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a></div>
+                            </div>
                         </div>
                     </td>
                     <td style="text-align: center;">
@@ -1107,31 +916,13 @@
                                  style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
                                 <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/ct/"
-                                   style="text-decoration: none; color:#fff;">开设cTrader账户</a></div>
-                        </div>
-                    </td>
-                    <td style="text-align: center;">
-                        <a class="acc-button acc-button-link" href="javascript:void(0)" id="acc_link16"
-                           onclick="showFaqText(16);">开设账户</a>
-                        <div style="position: relative; ">
-                            <div class="button_holder" id="acc_place16"
-                                 style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a></div>
+                               </div>
                         </div>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>存款货币</strong></td>
-                    <td style="text-align: center;">
-                        USD
-                    </td>
                     <td style="text-align: center;">
                         USD
                     </td>
@@ -1154,9 +945,6 @@
                     <td style="text-align: center;">
                         3.33
                     </td>
-                    <td style="text-align: center;">
-                        3.33
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -1169,9 +957,6 @@
                     </td>
                     <td style="text-align: center;">
                         <span class="tooltip" title="在ECN账户完成一个交易 (打开 / 关闭) 的佣金是双倍比率计算.">20 USD</span></td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -1181,8 +966,6 @@
                     <td style="text-align: center;">
                         <span class="tooltip" title="市价执行 - 订单在当前的市场价格处理成交.">市场执行</span></td>
                     <td style="text-align: center;">
-                        <span class="tooltip" title="市价执行 - 订单在当前的市场价格处理成交.">市场执行</span></td>
-                    <td class="last" style="text-align: center;">
                         <span class="tooltip" title="市价执行 - 订单在当前的市场价格处理成交.">市场执行</span></td>
                 </tr>
                 <tr>
@@ -1200,10 +983,6 @@
                         <span class="tooltip" title="点差变化取决于市场条件.">浮动</span><br/>
                         0 点起
                     </td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="点差不会改变.">固定</span><br/>
-                        1.6 点起
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -1220,32 +999,24 @@
                         扩展的<br/>
                         (小数点后5位)
                     </td>
-                    <td style="text-align: center;">
-                        扩展的<br/>
-                        (小数点后5位)
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip"
-                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型. 根据我们的客户协议, 公司有权更改客户账户的杠杆.">最大杠杆</strong></td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:1000</span></td>
-                    <td style="text-align: center;">
-                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:1000</span></td>
-                    <td style="text-align: center;">
-                        1:300
+                                title="最大容许杠杆值取决于您的账户类型以及交易平台类型. 根据我们的客户协议,
+                                公司有权更改客户账户的杠杆.">最大杠杆</strong>
                     </td>
                     <td style="text-align: center;">
-                        1:300
+                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:100</span></td>
+                    <td style="text-align: center;">
+                        <span class="tooltip" title="MT4和MT5平台杠杆是1:500.">1:100</span></td>
+                    <td style="text-align: center;">
+                        1:100
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>最小交易量（手数）</strong></td>
-                    <td style="text-align: center;">
-                        0.01
-                    </td>
                     <td style="text-align: center;">
                         0.01
                     </td>
@@ -1268,16 +1039,10 @@
                     <td style="text-align: center;">
                         50
                     </td>
-                    <td style="text-align: center;">
-                        50
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip" title="只考虑打开头寸和挂单.">最大头寸数量</strong></td>
-                    <td style="text-align: center;">
-                        200
-                    </td>
                     <td style="text-align: center;">
                         200
                     </td>
@@ -1300,9 +1065,6 @@
                     <td style="text-align: center;">
                         0.01
                     </td>
-                    <td style="text-align: center;">
-                        0.01
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -1314,26 +1076,20 @@
                         50%
                     </td>
                     <td style="text-align: center;">
-                        60%
-                    </td>
-                    <td style="text-align: center;">
-                        60%
+                        50%
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <strong class="tooltip" title="当保证金水平达到预先指定的最小数量,账户的交易进入强制关闭过程.">强制平仓</strong></td>
                     <td style="text-align: center;">
-                        20%
+                        30%
                     </td>
                     <td style="text-align: center;">
-                        20%
+                        30%
                     </td>
                     <td style="text-align: center;">
-                        40%
-                    </td>
-                    <td style="text-align: center;">
-                        40%
+                        3GoldMany0%
                     </td>
                 </tr>
                 <tr>
@@ -1347,9 +1103,6 @@
                     </td>
                     <td style="text-align: center;">
                         高达 15%手续费的
-                    </td>
-                    <td class="last" style="text-align: center;">
-                        高达 15%点差的
                     </td>
                 </tr>
                 <tr>
@@ -1365,16 +1118,10 @@
                     <td style="text-align: center;">
                         否
                     </td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong><a href="/operations/forex-bonus-deposit/" target="_blank">经典的存款奖励</a></strong></td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                     <td style="text-align: center;">
                         否
                     </td>
@@ -1398,16 +1145,10 @@
                     <td style="text-align: center;">
                         否
                     </td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>无隔夜利息账户</strong></td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                     <td style="text-align: center;">
                         否
                     </td>
@@ -1430,9 +1171,6 @@
                     <td style="text-align: center;">
                         有
                     </td>
-                    <td style="text-align: center;">
-                        有
-                    </td>
                 </tr>
                 <tr>
                     <td>
@@ -1444,8 +1182,6 @@
                     <td style="text-align: center;">
                         <a href="/trade-conditions/specifications/#pro-stan-ecn" target="_blank">34 种货币对, 贵金属, CFD</a>
                     </td>
-                    <td style="text-align: center;">
-                        <a href="/trade-conditions/specifications/#fix-stan-ecn" target="_blank">13 种货币对, 贵金属</a></td>
                 </tr>
                 <tr>
                     <td>
@@ -1459,16 +1195,10 @@
                     <td style="text-align: center;">
                         否
                     </td>
-                    <td style="text-align: center;">
-                        否
-                    </td>
                 </tr>
                 <tr>
                     <td>
                         <strong>账户历史被保存</strong></td>
-                    <td style="text-align: center;">
-                        1个月
-                    </td>
                     <td style="text-align: center;">
                         1个月
                     </td>
@@ -1520,18 +1250,6 @@
                                    style="text-decoration: none; color:#fff;">开设cTrader账户</a></div>
                         </div>
                     </td>
-                    <td style="text-align: center;">
-                        <a class="acc-button acc-button-link" href="javascript:void(0)" id="acc_link20"
-                           onclick="showFaqText(20);">开设账户</a>
-                        <div style="position: relative; ">
-                            <div class="button_holder" id="acc_place20"
-                                 style="position: absolute; width: 100%; height: 0px; overflow: hidden;">
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                <a class="acc-button" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                                   style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a></div>
-                        </div>
-                    </td>
                 </tr>
                 </tbody>
             </table>
@@ -1540,9 +1258,9 @@
     <p>
         每个账户类型的更多信息可以在 <a href="/trading-accounts/standard/">开设外汇账户</a> 部分查看.</p>
     <div id="cond-time">
-        <strong>交易时间</strong>: 每天24小时,从星期一上午12:00:01 (服务器时间) 到星期五下午 11:58:59 (服务器时间).<br/>
+        <strong>交易时间</strong>: 从星期日下午22:00:00（服务器时间）到星期五下午22:00:00（服务器时间）.<br/>
         <div>
-            <strong>注意</strong>: 欧洲东部时间 (EET) 标准 = GMT+2 (夏令时 = GMT+3).
+            <strong>注意</strong>: 欧洲英国伦敦时间（GMT+0）.
         </div>
     </div>
     <script type="text/javascript">
@@ -1643,94 +1361,5 @@
 
 <script type="text/javascript" src="/js/ajax.js?v=1"></script>
 <script type="text/javascript" src="/js/referral.js?v=1"></script>
-<script type="text/javascript">
-
-    $(function () {
-        (new RBFX.ReferralsReferral({
-            referrer_info_url: '/referrals/getReferrerInfo/',
-            set_referrer_agent_id_cookie_url: '/referrals/setAgentIdCookieByReferrer/',
-            remove_referrer_agent_id_cookie_url: '/referrals/removeAgentIdCookieByReferrer/'
-        })).getReferrerInfo();
-    });
-
-</script>
-<div id="external-link-notification" class="external-link-notification__container">
-    <div class="external-link-notification__popup">
-        <div class="external-link-notification__message">
-            <div class="external-link-notification__info-intro">
-                <h2>请注意！</h2>
-                <p>您将访问GoldMany(CY) Ltd (由CySEC监管, 执照编号. 191/13)的网站.</p>
-            </div>
-            <div class="external-link-notification__checkbox">
-                <input id="external-link-state" type="checkbox"/>
-                <label for="external-link-state">无需任何确认即可随时访问此网站</label>
-            </div>
-        </div>
-        <div class="clear"></div>
-        <div class="external-link-notification__buttons">
-            <a id="external-link-accept-button" class="external-link-notification__accept" href="#"
-               data-disable-notification>前往</a>
-            <a id="external-link-cancel-button" class="external-link-notification__cancel" href="#"
-               data-disable-notification>取消</a>
-        </div>
-        <div class="clear"></div>
-    </div>
-</div>
-
-<script src="/js/notification.js"></script>
-<script>
-
-    $(document).ready(function () {
-        var link_tracker = new RBFX.MainLinkTracker();
-        (new RBFX.ExternalLinkNotification({
-            popup_selector: '#external-link-notification',
-            notification_state_selector: '#external-link-state',
-            cancel_button_selector: '#external-link-cancel-button',
-            accept_button_selector: '#external-link-accept-button',
-            accept_callback_map: {
-                'a[data-banner-info]': link_tracker.handleBannerLinkClick
-            },
-            notification_domain_list: ["robofx.com", "robofx.ru", "robooption.com", "GoldMany.pl", "GoldMany.pt", "it.GoldMany.com", "rbfx.es"],
-            trigger_selector: 'a:not([data-disable-notification])',
-            cookie_name: 'disable_external_link_notification'
-        })).initEventHandlers();
-    });
-
-</script>
-<script>
-
-    $(function () {
-        (new RBFX.MainLinkTracker()).initEventHandlers();
-    });
-
-</script>
-<script type="text/javascript">(function (d, w, c) {
-        (w[c] = w[c] || []).push(function () {
-            try {
-                w.yaCounter = new Ya.Metrika({
-                    id: 23465704,
-                    webvisor: true,
-                    clickmap: true,
-                    trackLinks: true,
-                    accurateTrackBounce: true
-                });
-            } catch (e) {
-            }
-        });
-        var n = d.getElementsByTagName('script')[0], s = d.createElement('script'), f = function () {
-            n.parentNode.insertBefore(s, n);
-        };
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//mc.yandex.ru/metrika/watch.js';
-        if (w.opera == '[object Opera]') {
-            d.addEventListener('DOMContentLoaded', f, false);
-        } else {
-            f();
-        }
-    })(document, window, 'yandex_metrika_callbacks');</script>
-<noscript>
-    <div><img src="//mc.yandex.ru/watch/23465704" style="position:absolute; left:-9999px;" alt=""/></div>
-</noscript>
 </body>
 </html>

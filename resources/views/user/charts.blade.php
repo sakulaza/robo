@@ -227,7 +227,7 @@
 
             </li>
             <li >
-                <a href="https://my.cn.roboforex.com/cs/analytics"  target="_blank"  >RoboForex分析中心</a>
+                <a href="https://my.cn.roboforex.com/cs/analytics"  target="_blank"  >GoldMany分析中心</a>
 
 
             </li>

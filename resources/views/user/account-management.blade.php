@@ -253,7 +253,7 @@
             height: 52px;
             top: 67px;
             left: 240px;
-            background: url(http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-line.png) 0 0 no-repeat;
+            background: url(/images/education-line.png) 0 0 no-repeat;
         }
 
         .education .education__content .education__content-item {
@@ -363,19 +363,7 @@
 
     <h1> 会员中心</h1>
     <div class="page-wrapper">
-        <div class="banner">
-            <img alt="会员中心"
-                 src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/account-management-banner.png">
-            <div class="register">
-                <p>
-                    <span>“会员中心&quot;</span>-方便且安全的账号管理 它包含了所有在外汇市场舒适交易的必须特性以及
-                    很多额外的素材.
-                </p>
-                <a class="results-btn rw-tip_holder"
-                   href="https://my.cn.roboforex.com/cs/register/" target="_blank">注册
-                </a>
-            </div>
-        </div>
+        
         <div class="features">
             <h2 class="features-title"> GoldMany会员中心特性:</h2>
             <div class="features__content">
@@ -419,7 +407,9 @@
                     <img alt="" src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/features-6.png">
                     <h3> 教学材料</h3>
                     <p> 教学视频可在&quot;您的外汇教学&quot;版块找到,除此之外,还有&quot;在线研讨会&quot;版块,您可以注册且参与公司所举办的这些在线研讨会.</p>
-                    <a href="https://my.cn.roboforex.com/cs/profile/forex-education/" target="_blank">阅读更多</a>
+                    <a
+                            {{--href="https://my.cn.roboforex.com/cs/profile/forex-education/" --}}
+                       target="_blank">阅读更多</a>
                 </div>
             </div>
         </div>
@@ -430,10 +420,13 @@
             </div>
             <div class="for-trade__right">
                 <h3 class="section-title"> 交易须知</h3>
-                <p> 在&quot;<a href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank">下载中心</a>&quot;版块,您可以选择下载所有进行交易所需的交易终端(PC和移动设备版本).
+                <p> 在&quot;<a
+                            {{--href="https://my.cn.roboforex.com/cs/help/download-center/" --}}
+                              target="_blank">下载中心</a>&quot;版块,您可以选择下载所有进行交易所需的交易终端(PC和移动设备版本).
                 </p>
                 <p> 您可以使用GoldMany提供的&quot;VPS-服务器&quot;服务来获得您远程交易终端24/7的使用. 您需在您会员中心&quot;<a
-                            href="https://my.cn.roboforex.com/cs/profile/vps2/" target="_blank">您的VPS 2.0服务器</a>&quot;版块发送一个请求来申请此服务.
+                            {{--href="https://my.cn.roboforex.com/cs/profile/vps2/" --}}
+                            target="_blank">您的VPS 2.0服务器</a>&quot;版块发送一个请求来申请此服务.
                 </p>
             </div>
         </div>
@@ -444,18 +437,25 @@
                 <div class="education__content-item">
                     <img alt=""
                          src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-1.png">
-                    <p> 技术分析<br><a href="https://my.cn.roboforex.com/cs/profile/tradingcentral/"
+                    <p> 技术分析<br>
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/tradingcentral/"--}}
                                    target="_blank">交易中心</a></p>
                 </div>
                 <div class="education__content-item">
                     <img alt=""
                          src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-2.png">
-                    <p> 财经新闻<br><a href="https://my.cn.roboforex.com/cs/profile/forex-news/" target="_blank">道琼斯</a></p>
+                    <p> 财经新闻<br>
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/forex-news/" --}}
+                                target="_blank">道琼斯</a></p>
                 </div>
                 <div class="education__content-item">
                     <img alt=""
                          src="http://www.roboforex.com/files/filemanager/image3/structure/account-management/education-3.png">
-                    <p> 特有服务<br>&quot;<a href="https://my.cn.roboforex.com/cs/profile/analytics-center/"
+                    <p> 特有服务<br>&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/analytics-center/"--}}
                                          target="_blank">GoldMany分析中心</a>&quot;.</p>
                 </div>
             </div>
@@ -466,21 +466,30 @@
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 01</div>
                     <h4> 我如果更改会员中心密码?</h4>
-                    <p> 您可以在会员中心&quot;<a href="https://my.cn.roboforex.com/cs/profile/change-password/" target="_blank">更改密码</a>&quot;或&quot;<a
-                                href="https://my.cn.roboforex.com/cs/remind/" target="_blank">重置密码</a>&quot;版块进行更改.</p>
+                    <p> 您可以在会员中心&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/change-password/" --}}
+                                target="_blank">更改密码</a>&quot;或&quot;<a
+                                {{--href="https://my.cn.roboforex.com/cs/remind/" --}}
+                                target="_blank">重置密码</a>&quot;版块进行更改.</p>
                 </div>
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 02</div>
                     <h4> 我在哪更改我的个人信息?</h4>
-                    <p> 您可以在&quot;<a href="https://my.cn.roboforex.com/cs/profile/personal-information/"
+                    <p> 您可以在&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/personal-information/"--}}
                                      target="_blank">个人信息</a>&quot;版块更改您的邮箱. 您需要联系我们的&quot;<a
-                                href="https://my.cn.roboforex.com/cs/help/add-a-ticket/" target="_blank">在线技术支持</a>&quot;来更改其它的个人信息.
+                                {{--href="https://my.cn.roboforex.com/cs/help/add-a-ticket/" --}}
+                                target="_blank">在线技术支持</a>&quot;来更改其它的个人信息.
                     </p>
                 </div>
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 03</div>
                     <h4> 我如何添加提问?</h4>
-                    <p> 您需在会员中心&quot;<a href="https://my.cn.roboforex.com/cs/help/add-a-ticket/"
+                    <p> 您需在会员中心&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/help/add-a-ticket/"--}}
                                         target="_blank">在线技术支持</a>&quot;版块填写一张特别的表格来添加提问给我们的在线技术支持.</p>
                 </div>
             </div>
@@ -489,23 +498,29 @@
                     <div class="features-bottom__item-number"> 04</div>
                     <h4> 我如何验证我的银行卡？</h4>
                     <p> 验证您的银行卡,您需前往会员中心&quot;
-                        <a href="https://my.cn.roboforex.com/cs/operations/bank-cards/" target="_blank">银行卡</a>
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/operations/bank-cards/" --}}
+                                target="_blank">银行卡</a>
                         “版块上传您卡的每一面的照片或扫描图片.
                     </p>
                 </div>
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 05</div>
                     <h4> 在哪里可以看见代理佣金?</h4>
-                    <p> 代理佣金率可在&quot;<a href="https://my.cn.roboforex.com/cs/partner-account/comission/"
+                    <p> 代理佣金率可在&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/partner-account/comission/"--}}
                                         target="_blank">代理佣金率</a>&quot;版块查看. 您所获得佣金的信息可以在&quot;<a
-                                href="https://my.cn.roboforex.com/cs/partner-account/commission-archive/"
+                                {{--href="https://my.cn.roboforex.com/cs/partner-account/commission-archive/"--}}
                                 target="_blank">佣金明细</a>&quot;版块找到.</p>
                 </div>
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 06</div>
                     <h4> 我可以更改杠杆吗？</h4>
                     <p> 是的,您可以. 您可以在&quot;
-                        <a href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/" target="_blank">更改杠杆</a>
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/" --}}
+                                target="_blank">更改杠杆</a>
                         &quot;版块开进行修改. 但是只有在账户内没有持仓的情况下才能够更改.
                     </p>
                 </div>
@@ -514,16 +529,24 @@
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 07</div>
                     <h4> 我如果能找回会员中心密码？</h4>
-                    <p> 如果您忘记了会员中心密码,使用&quot;<a href="https://my.cn.roboforex.com/cs/remind/" target="_blank">密码恢复</a>&quot;服务(您需要能够进入您的邮箱).
+                    <p> 如果您忘记了会员中心密码,使用&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/remind/" --}}
+                                target="_blank">密码恢复</a>&quot;服务(您需要能够进入您的邮箱).
                         如果您的邮箱不可用,请联系&quot;在<a href="javascript:void(0)" id="hc-support"
-                                               onclick="window.open('https://my.cn.roboforex.com/cs/livesupport/','support','toolbar=no,resizable=yes,status=no,menubar=no,location=no,width=600,height=500');">线技术支持</a>.
+                                               onclick="window.open('https://my.cn.roboforex.com/cs/livesupport/',
+                                               'support','toolbar=no,resizable=yes,status=no,menubar=no,location=no,' +
+                                                'width=600,height=500');">线技术支持</a>.
                     </p>
                 </div>
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 08</div>
                     <h4> 我如何更改账号密码?</h4>
-                    <p> 如果您忘记了您的账号密码, 前往&quot;<a href="https://my.cn.roboforex.com/cs/trading-account/change-password/"
-                                                 target="_blank">更改密码</a>&quot;版块(您需要能够进入您的邮箱). 如果您的邮箱不可用,请联系&quot;在<a
+                    <p> 如果您忘记了您的账号密码, 前往&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/trading-account/change-password/"--}}
+                                                 target="_blank">更改密码</a>&quot;版块(您需要能够进入您的邮箱).
+                        如果您的邮箱不可用,请联系&quot;在<a
                                 href="javascript:void(0)" id="hc-support"
                                 onclick="window.open('https://my.cn.roboforex.com/cs/livesupport/','support','toolbar=no,resizable=yes,status=no,menubar=no,location=no,width=600,height=500');">线技术支持</a>.
                     </p>
@@ -531,7 +554,9 @@
                 <div class="features-bottom__item">
                     <div class="features-bottom__item-number"> 09</div>
                     <h4> 如何更改我的手机号码？</h4>
-                    <p> 如果您的手机号码还没有被验证,请在&quot;<a href="https://my.cn.roboforex.com/cs/profile/sms-verification/"
+                    <p> 如果您的手机号码还没有被验证,请在&quot;
+                        <a
+                                {{--href="https://my.cn.roboforex.com/cs/profile/sms-verification/"--}}
                                                   target="_blank">SMS短信验证</a>&quot;版块通过验证.
                         如果您的手机号码已经验证了并且现在可以使用,您可以在相同的地方进行更改. 如果有需要,请联系我们的&quot;<a href="javascript:void(0)"
                                                                                   id="hc-support"
@@ -542,7 +567,9 @@
         </div>
     </div>
     <div class="footer-register">
-        <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/" target="_blank">
+        <a class="results-btn rw-tip_holder"
+           {{--href="https://my.cn.roboforex.com/cs/register/" --}}
+           target="_blank">
             注册
         </a>
     </div>

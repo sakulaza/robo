@@ -99,8 +99,10 @@
             </ul>
 
             <div class="taf-banner rw-tip_holder">
-                <a href="https://my.cn.roboforex.com/cs/register/">
-                    <div class="more">为RoboForex客户准备的更多分析</div>
+                <a
+                        {{--href="https://my.cn.roboforex.com/cs/register/"--}}
+                >
+                    <div class="more">为GoldMany客户准备的更多分析</div>
                     <div class="button-title">注册</div>
                     <img src="/images/analytics/banner-analytics.png"/>
                 </a>
@@ -213,7 +215,10 @@
 
             </li>
             <li >
-                <a href="https://my.cn.roboforex.com/cs/analytics"  target="_blank"  >GoldMany分析中心</a>
+                <a
+                        {{--href="https://my.cn.roboforex.com/cs/analytics"  --}}
+                        target="_blank"  >GoldMany分析中心
+                </a>
 
 
             </li>

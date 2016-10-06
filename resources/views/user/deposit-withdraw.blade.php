@@ -614,7 +614,7 @@
             <div class="terminal-link" style="border: none;">
                 <img src="/images/operations/e2512aec44.png"/>
                 <a href="/operations/deposit-withdraw/payoneer/"
-                   style="text-decoration: none;" target="_blank">RoboForex Payoneer万事达卡</a>
+                   style="text-decoration: none;" target="_blank">GoldMany Payoneer万事达卡</a>
             </div>
         </div>
     </div>
@@ -667,9 +667,9 @@
                 <span>对比</span></a></p>
         <p class="button_holder" style="position: absolute; margin-top: 18px; left: 15px;">
             <a class="view-btn show-systems show-bz-systems view-btn_selected"
-               style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>RoboForex Ltd</span></a> <a
+               style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>GoldMany Ltd</span></a> <a
                     class="view-btn show-systems show-cy-systems"
-                    style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>RoboForex (CY)</span></a></p>
+                    style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>GoldMany (CY)</span></a></p>
         <div class="ct-changer show" id="payment-ct-holder1" style="margin-top: 80px; display: block">
             <div class="buttons" style="display: block; z-index: 9999;">
                 <a class="payment-view grid view-btn_selected"

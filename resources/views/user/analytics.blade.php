@@ -212,7 +212,7 @@
                                     <h2>注册研讨会</h2>
                                 </div>
                                 <div class="modal-body">
-                                    <p>您需要登录您的会员中心来进入RoboForex在线研讨会. 您如果还没有会员中心, 请马上注册一个.</p>
+                                    <p>您需要登录您的会员中心来进入GoldMany在线研讨会. 您如果还没有会员中心, 请马上注册一个.</p>
                                     <form id="webinar_form" class="modal-form"
                                           action="https://my.cn.roboforex.com/cs/login/" method="post" target="_blank">
                                         <div class="form-input-error">
@@ -307,7 +307,7 @@
                             <a href="https://my.cn.roboforex.com/cs/profile/dow-jones-news/" target="_blank">在您个人用户中心的&quot;道琼斯财经新闻&quot;的版块</a>
                         </li>
                         <li>
-                            <a href="http://cn.roboforex.com/trade-conditions/metatrader4-mt4/" target="_blank">在您的MT4交易平台</a>
+                            <a href="/trade-conditions/metatrader4-mt4/" target="_blank">在您的MT4交易平台</a>
                         </li>
                     </ul>
 
@@ -363,10 +363,10 @@
                         <strong>交易中心的分析以下形态存在:</strong></p>
                     <ul class="listed">
                         <li>
-                            <a href="http://cn.roboforex.com/analytics/tradingcentral/" target="_blank">cTrader里的小部件</a>
+                            <a href="/analytics/tradingcentral/" target="_blank">cTrader里的小部件</a>
                         </li>
                         <li>
-                            <a href="http://cn.roboforex.com/files/docs/TC_indicator_MetaTrader-User_Guide.pdf"
+                            <a href="/files/docs/TC_indicator_MetaTrader-User_Guide.pdf"
                                target="_blank">MT4里的指标</a></li>
                         <li>
                             <a href="https://my.cn.roboforex.com/cs/profile/tradingcentral/"

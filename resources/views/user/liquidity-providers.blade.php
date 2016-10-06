@@ -66,10 +66,6 @@
                 流动性提供商为主要的银行, 有执照的投资公司和经济商, STP的交易技术(直通式)表明所有的订单都是在没有任何经纪商干预的情况下自动发送至流动性提供商的. 这能帮助交易者以及公司避免利益的冲突. 这种方式中, 客户盈利不会导致经纪商有任何亏损.</p>
             <p>
                 感谢于与顶尖流动性提供商的合作, 我们可以为我们的客户提供高流动性, 即使在交易量非常巨大的情况下也可快速安全执行所有的订单.</p>
-            <div class="note_block" style="text-align: center; border:none; border-radius:0px;">
-                <h2 style="text-align: center;">
-                    GoldMany 流动性</h2>
-                <iframe frameborder="0" height="250" src="http://www.GoldMany.com/main/ctraderwidget/?wmode=transparent&amp;wmode=transparent" width="250" wmode="Opaque"></iframe></div>
         </div>
     </div>
 
@@ -84,8 +80,8 @@
             <li >
                 <a href="/about/business-model/"  >商业模式</a>
             </li>
-            <li >
-                <a href="/about/liquidity-providers/"  >流动性</a>
+            <li class="selected">
+                <a >流动性</a>
             </li>
             <li >
                 <a href="/about/regulation/"  >公司监管</a>
@@ -98,21 +94,6 @@
             </li>
             <li >
                 <a href="/about/faq/"  >常见问题</a>
-            </li>
-            <li >
-                <a href="/about/sponsorship/"  >锦标赛</a>
-            </li>
-            <li >
-                <a href="/about/results-2014/"  >2014 年成绩</a>
-            </li>
-            <li >
-                <a href="/about/exhibition/"  >GoldMany 展览会</a>
-            </li>
-            <li >
-                <a href="/about/awards/"  >授予奖项</a>
-            </li>
-            <li >
-                <a href="/about/media/"  >GoldMany 媒体</a>
             </li>
             <li >
                 <a href="/about/contacts/"  >联系我们</a>

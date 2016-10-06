@@ -4,11 +4,5 @@
     <li>
         <a href="https://my.cn.roboforex.com/cs/help/download-center/" class="modal-trigger" data-terminal="mt4" id="fdi3r">下载<br />METATRADER4</a>
     </li>
-    <li class="last">
-        <a href="https://my.cn.roboforex.com/cs/help/download-center/" id="fdi4" class="modal-trigger"
-           data-terminal="mt4" onclick="gaqPush('Downloads Multiterminal','EXE');
-                   ga('send', 'event', 'Download','click','Multiterminal');" target="_blank">下载MultiTerminal
-        </a>
-    </li>
 </ul>
 <div class="risk-warning">风险警示: 外汇交易意味着您是自愿承担失去资金的可能风险.</div>

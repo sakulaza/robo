@@ -445,8 +445,8 @@
                             &nbsp;</div>
                     </li>
                 </ul>
-                <p>
-                    阅读更多在&quot;<a href="/about/regulation/" target="_blank">合法</a>&quot;部分.</p>
+                {{--<p>--}}
+                    {{--阅读更多在&quot;<a href="/about/regulation/" target="_blank">合法</a>&quot;部分.</p>--}}
                 <div class="left">
                     <h3 class="styled-h first">
                         <span class="styled-h-text">公司的企业使命</span></h3>
@@ -537,90 +537,18 @@
                 </div>
                 <p>
                     阅读更多在&quot;<a href="/about/awards/" target="_blank">奖项</a>&quot; 部分.</p>
-                <div class="left">
-                    <h3 class="styled-h first">
-                        <span class="styled-h-text">公司在媒体上</span></h3>
-                    <p>
-                        信息的透明度和为我们客户提供尽可能好的交易条件一直是我们从事GoldMany最主要的原则之一. 我们非常高兴我们的业绩得到媒体的注意, 因为这表示公司正在朝着正确的方向前进.</p>
-                    <ul class="gallery">
-                        <li>
-                            <img alt="" src="/images/about/world_finance_media.png" style="height: 174px; width: 129px;" /></li>
-                        <li>
-                            <img alt="" src="/images/about/world_finance_2.jpg" /></li>
-                    </ul>
-                    <div class="clearfix">
-                        &nbsp;</div>
-                    <p style="margin-top:10px;">
-                        阅读更多在&quot;<a href="/about/media/" target="_blank">GoldMany媒体</a>&quot; 部分.</p>
-                </div>
-                <div class="right">
-                    <h3 class="styled-h first">
-                        <span class="styled-h-text">展览会</span></h3>
-                    <p>
-                        参与国际和俄罗斯外汇展览会是一个极好的机会来介绍公司最新的方案和面对面从客户那里接收反馈, 这对于任何现代化和发展中公司是非常重要的.</p>
-                    <ul class="gallery">
-                        <li>
-                            <img alt="" src="/images/about/logo_money_fair.jpg" /></li>
-                        <li>
-                            <img alt="" src="/images/about/barcelona.png" style="width: 128px; height: 128px;" /></li>
-                    </ul>
-                    <div class="clearfix">
-                        &nbsp;</div>
-                    <p style="margin-top:28px;">
-                        阅读更多在&quot;<a href="/about/exhibition/" target="_blank">GoldMany 展览会</a>&quot; 部分.</p>
-                </div>
+
                 <div class="clearfix">
                     &nbsp;</div>
-                <h3 class="styled-h first">
-                    <span class="styled-h-text">赞助</span></h3>
-                <p>
-                    除了经纪服务的自身发展, GoldMany公司还积极参与许多创新项目, 这并不总是跟外汇市场有密切关系. 我们公司正努力定期地成为不同活动的赞助者, 在未来我们致力于追随这个方向.</p>
-                <!--ul class="sponsors">
-                <li>
-                  <a class="adress-title" href="/about/sponsorship/" target="_blank">2012第6届年度自动交易锦标赛银质赞助商</a>
-                  <div class="logo">
-                    <img alt="" src="/files/filemanager/image/logo_certificate.jpg" /></div>
-                  <div class="description">
-                    在经历3个月时间, 最佳交易机器人争夺80,000美元大型奖项. GoldMany是这个锦标赛的赞助商之一, 提供比赛的铜牌获得者15,000美元的奖项.</div>
-                </li>
-              </ul-->
-                <ul class="sponsors">
-                    <li>
-                        <a class="adress-title" href="/about/sponsorship/starikovich-heskes-dakar-2017/" style="width: 100%;" target="_blank">2017年达喀尔拉力赛&quot;Starikovich-Heskes队伍&quot;赞助</a>
-                        <div class="logo" style="margin-top: -10px;">
-                            <img alt="" src="http://www.GoldMany.ru/files/filemanager/image3/structure/about/sponsorship/dakar_logo.PNG" style="width:80px;" /></div>
-                        <div class="description">
-                            GoldMany集团成为2017年达喀尔拉力竞标赛塞浦路斯&quot;Starikovich-Heskes队伍&quot;的官方赞助商. 队伍的驾驶员,Roman Starikovich,是一位在欧洲,非洲,以及澳洲有超过60,000公里越野里程经验丰富的越野选手.</div>
-                    </li>
-                    <li>
-                        <a class="adress-title" href="/about/sponsorship/ipa-limassol-football-team-2016/" style="width: 100%;" target="_blank">利马索尔足球队赞助商</a>
-                        <div class="logo" style="margin-top: -5px;">
-                            <img src="http://www.GoldMany.ru/files/filemanager/image3/structure/about/sponsorship/football.png" style="width: 90px;margin-top: -10px;" /></div>
-                        <div class="description">
-                            GoldMany金融集团是利马索尔警察局足球队的官方赞助商. 与警察局的合作是公司活动透明度的又一体现,GoldMany致力于在现代社会的各个领域中都合法诚实的进行运作.</div>
-                    </li>
-                </ul>
-                <p>
-                    阅读更多在&quot;<a href="/about/sponsorship/" target="_blank">赞助</a>&quot; 部分.</p>
+
                 <h3 class="styled-h first">
                     <span class="styled-h-text">联系我们</span></h3>
                 <p style="font-size:16px;">
-                    GoldMany (CY) Ltd, Limassol, Cyprus</p>
+                    Gold Many Global Ltd</p>
                 <p>
-                    <strong>商业地址</strong>: Soboh House 377, 28th October Street, office #1, CY-3107 Limassol, Cyprus<br />
-                    <strong>电话</strong>: +357 25 262660<br />
-                    <strong>邮箱</strong>:&nbsp;<a href="mailto:info@robofx.com">info@robofx.com</a></p>
-                <p style="text-align: center;">
-                    <a href="/images/about/cy_office_1.JPG" rel="image_group" style="margin-right: 20px;">
-                        <img src="/images/about/cy_office_1_s.jpg"
-                             style="height: 100px;box-shadow: 0 0 10px #344964;" /></a>
-                    <a href="/images/about/cy_office_2.JPG" rel="image_group"
-                       style="margin-right: 20px;">
-                        <img src="/images/about/cy_office_2_s.jpg"
-                             style="height: 100px;box-shadow: 0 0 10px #344964;" /></a>
-                    <a href="/images/about/cy_office_3.JPG" rel="image_group">
-                        <img src="/images/about/cy_office_3_s.jpg"
-                             style="height: 100px;box-shadow: 0 0 10px #344964;" /></a></p>
+                    <strong>商业地址</strong>: 9 Pantygraigwen Road  Pontypridd Mid   Glamorgan  United 	Kingdom CF37 2RR<br />
+                    <strong>电话</strong>: 400-800-0654<br />
+                    <strong>邮箱</strong>:&nbsp;<a href="mailto:support@goldmanyfx.com">support@goldmanyfx.com</a></p>
             </div>
             <p>
                 阅读更多在&quot;<a href="/about/contacts/" target="_blank">联系我们</a>&quot; 部分.</p>

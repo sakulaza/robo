@@ -6,15 +6,15 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="来自RoboForex公司详尽的外汇财经日历. 全球金融市场最重要的和预期事件实时更新." />
+    <meta name="description" content="来自GoldMany公司详尽的外汇财经日历. 全球金融市场最重要的和预期事件实时更新." />
     <meta name="keywords" content="财经日历,财经事件,财经事件日历" />
     <meta name="w1-verification" content="117844634768" />
 
 
     <title>外汇财经日历</title>
     <meta property="og:title" content="外汇财经日历" />
-    <meta property="og:description" content="来自RoboForex公司详尽的外汇财经日历. 全球金融市场最重要的和预期事件实时更新." />
-    <meta property="og:url" content="http://cn.roboforex.com/analytics/economic-calendar/" />
+    <meta property="og:description" content="来自GoldMany公司详尽的外汇财经日历. 全球金融市场最重要的和预期事件实时更新." />
+    <meta property="og:url" content="/analytics/economic-calendar/" />
     <meta property="og:image" content="/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -60,61 +60,6 @@
 
     <div id="left">
         <h1>外汇财经日历</h1>
-        <table class="soc-2 share">
-            <tr>
-                <td class="soc-3">
-                    <div class="fb-like" data-href="http://cn.roboforex.com/analytics/economic-calendar/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
-                    <div id="fb-root"></div>
-                    <script>
-
-                        (function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (d.getElementById(id))
-                                return;
-                            js = d.createElement(s);
-                            js.id = id;
-                            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
-                            fjs.parentNode.insertBefore(js, fjs);
-                        }(document, 'script', 'facebook-jssdk'));
-
-                    </script>
-                </td>
-                <td class="soc-3 linkedin">
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-                    <script type="IN/Share" data-counter="right"></script>
-                </td>
-                <td>
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cn.roboforex.com/analytics/economic-calendar/"></a>
-                    <script>!function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (!d.getElementById(id)) {
-                                js = d.createElement(s);
-                                js.id = id;
-                                js.src = "//platform.twitter.com/widgets.js";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }
-                        }(document, "script", "twitter-wjs");</script>
-                </td>
-                <td>
-                    <!-- Place this tag where you want the +1 button to render. -->
-                    <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300" data-href="http://cn.roboforex.com/analytics/economic-calendar/"></div>
-
-                    <!-- Place this tag after the last +1 button tag. -->
-                    <script type="text/javascript">
-
-                        (function() {
-                            var po = document.createElement('script');
-                            po.type = 'text/javascript';
-                            po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0];
-                            s.parentNode.insertBefore(po, s);
-                        })();
-
-                    </script>
-                </td>
-            </tr>
-        </table>
         <div style="display:table;table-layout: fixed;width:100%">
             <div id="description" style="display:table-footer-group;">
 
@@ -5023,7 +4968,9 @@
 
             </li>
             <li >
-                <a href="https://my.cn.roboforex.com/cs/analytics"  target="_blank"  >RoboForex分析中心</a>
+                <a
+                        {{--href="https://my.cn.roboforex.com/cs/analytics"  --}}
+                        target="_blank"  >GoldMany分析中心</a>
 
 
             </li>

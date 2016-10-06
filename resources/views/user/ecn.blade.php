@@ -11,10 +11,10 @@
     <meta name="w1-verification" content="117844634768" />
 
 
-    <title>专业Currenex提供的ECN账户 | RoboForex ECN 经纪商</title>
-    <meta property="og:title" content="专业Currenex提供的ECN账户 | RoboForex ECN 经纪商" />
+    <title>专业Currenex提供的ECN账户 | GoldMany ECN 经纪商</title>
+    <meta property="og:title" content="专业Currenex提供的ECN账户 | GoldMany ECN 经纪商" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="http://cn.roboforex.com/trade-conditions/ecn/" />
+    <meta property="og:url" content="/trade-conditions/ecn/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -137,7 +137,7 @@
             <p>
                 ECN账户的特点是客户和汇商之间无任何利益冲突，这是因为由于ECN技术的使用，公司只是将客户交易指令转送给市场，自身仅以手续费和部分点差为盈利，因此汇商只追求客户账户交易量的增加。</p>
             <h2 style="margin-top: 40px; margin-bottom: 40px; text-align: center;">
-                RoboForex专业ECN账户:</h2>
+                GoldMany专业ECN账户:</h2>
             <div style="margin-bottom: 60px;">
                 <div class="ecn-features">
                     <img alt="来自领先的ECN系统的流动性" src="/images/2.png" />
@@ -147,18 +147,18 @@
                         直接进入世界上最好提供者的银行同业流动性, 以最佳有效的价格执行, 深度市场.</p>
                 </div>
                 <div class="ecn-features">
-                    <img alt="Мгновенное исполнение ордеров, NDD, STP" src="/images/3.png" style="margin-bottom: 15px;" />
+                    <img alt=" NDD, STP" src="/images/3.png" style="margin-bottom: 15px;" />
                     <h3>
                         通过NDD和STP 技术即时订单执行</h3>
                     <p>
                         NDD (无交易员平台) 和STP (直通式处理) 技术有利于在任何市场条件下提供最可能好的速度和订单执行的质量.</p>
                 </div>
                 <div class="ecn-features">
-                    <img alt="Международная защита прав клиентов" src="/images/4.png" style="margin-bottom: 5px;" />
+                    <img alt="" src="/images/4.png" style="margin-bottom: 5px;" />
                     <h3>
                         保障客户权益</h3>
                     <p>
-                        RoboForex持有多张经营经纪业务的国际许可，且为多家非盈利性独立监管机构成员，确保客户权益和资金安全有保障。</p>
+                        GoldMany持有多张经营经纪业务的国际许可，且为多家非盈利性独立监管机构成员，确保客户权益和资金安全有保障。</p>
                 </div>
             </div>
             <div style="text-align: center; margin-bottom: 40px">
@@ -194,15 +194,12 @@
                         <td style="width: 210px;">
                             &nbsp;</td>
                         <td style="width: 224px;">
-                            <span style="/* text-transform: uppercase; */ font-size: 18px; text-shadow: 0 5px 7px rgba(0, 0, 0, 0.33);color: #215682;">ECN-Pro NDD</span></td>
-                        <td style="width: 224px;">
-                            <span style="/* text-transform: uppercase; */ font-size: 18px; text-shadow: 0 5px 7px rgba(0, 0, 0, 0.33);color: #215682;">ECN-FixSpread NDD</span></td>
+                            <span style="/* text-transform: uppercase; */ font-size: 18px; text-shadow: 0 5px 7px rgba(0, 0, 0, 0.33);color: #215682;">ECN账户</span>
+                        </td>
                     </tr>
                     <tr class="tr-grey">
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             订单执行模式</td>
-                        <td>
-                            市场执行</td>
                         <td>
                             市场执行</td>
                     </tr>
@@ -211,67 +208,63 @@
                             点差</td>
                         <td>
                             浮动点差0 pips 起</td>
-                        <td>
-                            固定点差1.6 pips起</td>
+
                     </tr>
                     <tr class="tr-grey">
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             可用的工具</td>
                         <td>
                             34 货币对, 贵金属, CFD</td>
-                        <td>
-                            13货币对, 贵金属</td>
+
                     </tr>
                     <tr>
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             交易平台</td>
                         <td>
                             MetaTrader4, MetaTrader5, cTrader</td>
-                        <td>
-                            MetaTrader4, MetaTrader5</td>
+
                     </tr>
                     <tr class="tr-grey">
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             经纪佣金</td>
                         <td>
                             20 USD</td>
-                        <td>
-                            没有手续费</td>
+
                     </tr>
                     <tr>
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             返点</td>
                         <td>
                             多至手续费的15%</td>
-                        <td>
-                            多至点差的15%</td>
+
                     </tr>
                     <tr class="tr-grey">
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             代理佣金</td>
                         <td>
                             多至手续费的40%</td>
-                        <td>
-                            多至点差的40%</td>
+
                     </tr>
                     </tbody>
                 </table>
                 <p style="text-align: center;">
-                    <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/ecn-pro/"
+                    <a class="results-btn rw-tip_holder"
+                       {{--href="https://my.cn.roboforex.com/cs/register/ecn-pro/"--}}
                        style="text-decoration: none; color: #fff; margin: 0 40px;" target="_blank">开设ECN-Pro NDD账户</a>
-                    <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/ecn-fix/"
-                       style="text-decoration: none; color: #fff; margin: 0 40px;" target="_blank">开设ECN-FixSpread NDD 账户</a></p>
+                </p>
             </div>
             <h2 style="text-align: center;">
                 GoldMany 模拟ECN账户: 不用投资</h2>
             <p>
                 GoldMany基于桥接技术特别为您提供ECN模拟账户，让您无须任何投资更可体验真实ECN账户交易条件。</p>
             <p>
-                公司保证同类型及同交易平台（MT4，MT5，或cTrader）的ECN模拟账户与真实账户将享有同样的订单执行模式。</p>
+                公司保证同类型及同交易平台（MT4）的ECN模拟账户与真实账户将享有同样的订单执行模式。</p>
             <p style="text-align: center;">
-                <a class="results-btn" href="https://my.cn.roboforex.com/cs/register-demo"
+                <a class="results-btn"
+                   {{--href="https://my.cn.roboforex.com/cs/register-demo"--}}
                    style="text-decoration: none; color: #fff;background: #215682; border: 1px solid #215682;margin: 0 40px;" target="_blank">开设模拟ECN-Pro NDD</a>
-                <a class="results-btn" href="https://my.cn.roboforex.com/cs/register-demo"
+                <a class="results-btn"
+                   {{--href="https://my.cn.GoldMany.com/cs/register-demo"--}}
                    style="text-decoration: none; color: #fff;background: #215682; border: 1px solid #215682;margin: 0 40px;" target="_blank">开设模拟ECN-FixSpread NDD</a></p>
         </div>
     </div>
@@ -294,7 +287,7 @@
 
             </li>
             <li >
-                <a href="/trade-conditions/cfd-trading-roboforex/"  >CFD(差价合约）</a>
+                <a href="/trade-conditions/cfd-trading-goldmany/"  >CFD(差价合约）</a>
 
 
             </li>
@@ -310,11 +303,6 @@
             </li>
             <li >
                 <a href="/trade-conditions/metatrader4-mt4/"  >MetaTrader 4 (MT4)</a>
-
-
-            </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
 
 
             </li>

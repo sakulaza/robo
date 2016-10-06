@@ -377,8 +377,8 @@
             <li >
                 <a href="/about/why-GoldMany/"  >为什么选择GoldMany</a>
             </li>
-            <li >
-                <a href="/about/mission/"  >公司宗旨</a>
+            <li class="selected" >
+                <a  >公司宗旨</a>
             </li>
             <li >
                 <a href="/about/business-model/"  >商业模式</a>
@@ -397,21 +397,6 @@
             </li>
             <li >
                 <a href="/about/faq/"  >常见问题</a>
-            </li>
-            <li >
-                <a href="/about/sponsorship/"  >锦标赛</a>
-            </li>
-            <li >
-                <a href="/about/results-2014/"  >2014 年成绩</a>
-            </li>
-            <li >
-                <a href="/about/exhibition/"  >GoldMany 展览会</a>
-            </li>
-            <li >
-                <a href="/about/awards/"  >授予奖项</a>
-            </li>
-            <li >
-                <a href="/about/media/"  >GoldMany 媒体</a>
             </li>
             <li >
                 <a href="/about/contacts/"  >联系我们</a>

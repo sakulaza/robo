@@ -90,7 +90,10 @@
             <p>
                 <img alt="" src="http://cn.roboforex.com/files/filemanager/image/scheme_1_6_cn.jpg" style="width: 648px; height: 225px;" /></p>
             <p style="margin: 20px 0px 20px; text-align:center;">
-                <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register-partner/" style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a></p>
+                <a class="results-btn rw-tip_holder"
+                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
+                   style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a>
+            </p>
             <p style="text-align: justify">
                 &quot;Agent&quot;代理计划对个人和公司均适用, 无需任何初始投入或对外汇市场的深度认识. 您的工作就是通过社交媒体, 论坛, 博客等各种方式为公司引荐潜在客户, 由此获取客户交易的代理返佣.</p>
             <div id="accordion_partner">
@@ -115,7 +118,10 @@
                                     <li style="margin-bottom: 10px;">
                                         存款赠金交易同样产生返佣</li>
                                     <li style="margin-bottom: 10px;">
-                                        可参与&quot;<a href="http://cn.roboforex.com/forex-affiliate/loyalty-program/" target="_blank">忠诚计划</a>&quot;</li>
+                                        可参与&quot;
+                                        <a href="/forex-affiliate/loyalty-program/" target="_blank">
+                                            忠诚计划</a>&quot;
+                                    </li>
                                 </ul>
                             </td>
                             <td style="vertical-align: top;">
@@ -147,11 +153,14 @@
                         <tbody>
                         <tr>
                             <td>
-                                要想成为公司代理, 请先在会员中心开设代理账户或在网站<a class="rw-tip_holder" href="https://my.cn.roboforex.com/cs/register-partner/" target="_blank">注册成为代理</a>.<br />
+                                要想成为公司代理, 请先在会员中心开设代理账户或在网站
+                                <a class="rw-tip_holder"
+                                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
+                                   target="_blank">注册成为代理</a>.<br />
                                 <br />
                                 注册成功之后, 您将获得两个代理账号（固定点差和浮动点差美分账户）以收取代理佣金.<br />
                                 <br />
-                                代理的主要职责是向潜在客户介绍在RoboForex交易的优势以发展新客户. 您可以通过个人或者社交媒体, 论坛, 或博客等方式发展客户. 您可在官网&ldquo;如何向客户推荐RoboForex公司中查阅更多关于发展客户方式的相关信息.<br />
+                                代理的主要职责是向潜在客户介绍在GoldMany交易的优势以发展新客户. 您可以通过个人或者社交媒体, 论坛, 或博客等方式发展客户. 您可在官网&ldquo;如何向客户推荐GoldMany公司中查阅更多关于发展客户方式的相关信息.<br />
                                 <br />
                                 代理可用以下方式发展客户：<br />
                                 <br />
@@ -205,9 +214,15 @@
                                 <p>
                                     系统将根据客户交易账户类型计算代理返佣, 并将佣金转入您的代理账户中.</p>
                                 <p>
-                                    有关账户类型和交易工具的平均点差, 请参阅官网 &quot;<a href="http://cn.roboforex.com/trade-conditions/specifications/" target="_blanl">合约细则</a>&quot;.</p>
+                                    有关账户类型和交易工具的平均点差, 请参阅官网 &quot;
+                                    <a href="/trade-conditions/specifications/" target="_blanl">
+                                        合约细则</a>&quot;.
+                                </p>
                                 <p>
-                                    您还可使用会员中心&quot;<a href="https://my.cn.roboforex.com/cs/partner-account/calculator/" target="_blank">代理计算器</a>&quot;计算具体代理佣金.</p>
+                                    您还可使用会员中心&quot;
+                                    <a
+                                            {{--href="https://my.cn.roboforex.com/cs/partner-account/calculator/" --}}
+                                            target="_blank">代理计算器</a>&quot;计算具体代理佣金.</p>
                             </td>
                         </tr>
                         </tbody>
@@ -221,30 +236,45 @@
                         <tr>
                             <td>
                                 <p>
-                                    RoboForex (CY) Ltd 的代理需在完成个人信息的验证后才能开始吸引新的客户: 验证信息包括个人身份证件以及永久居住地址. RoboForex Ltd的代理需要先通过完整的验证才能支取转存代理账户内的资金. 通过完整验证, 每间公司的代理都需要<a href="https://my.cn.roboforex.com/cs/profile/verification-of-the-documents/" target="_blank">上传</a>文件复印件或者扫描件证明其个人身份信息以及其个人用户中心的实际居住地址.</p>
+                                    GoldMany (CY) Ltd 的代理需在完成个人信息的验证后才能开始吸引新的客户: 验证信息包括个人身份证件以及永久居住地址. GoldMany Ltd的代理需要先通过完整的验证才能支取转存代理账户内的资金. 通过完整验证, 每间公司的代理都需要
+                                    <a
+                                            {{--href="https://my.cn.roboforex.com/cs/profile/verification-of-the-documents/" --}}
+                                            target="_blank">上传</a>文件复印件或者扫描件证明其个人身份信息以及其个人用户中心
+                                    的实际居住地址.
+                                </p>
                                 <p>
-                                    RoboForex (CY) Ltd 代理只能够吸引来自同一间公司的客户.</p>
+                                    GoldMany (CY) Ltd 代理只能够吸引来自同一间公司的客户.</p>
                                 <p>
                                     Agent 必须遵守以下规则和条件:</p>
                                 <ul>
                                     <li>
                                         代理及其客户不能使用同一IP或电脑进入会员中心或登陆交易平台. 而且,合作伙伴和客户的个人信息,比如护照信息,电话,邮箱,支付信息,不允许一致.</li>
                                     <li>
-                                        合作伙伴没有权利使用&ldquo;RoboForex&rdquo; 和不同的拼法在SEA (搜索引擎广告) 系统.</li>
+                                        合作伙伴没有权利使用&ldquo;GoldMany&rdquo; 和不同的拼法在SEA (搜索引擎广告) 系统.</li>
                                     <li>
                                         合作伙伴没有权利使用垃圾邮件吸引新客户.</li>
                                     <li>
                                         合作伙伴不允许故意伪造提供服务信息, 以及对客户隐瞒公司的服务和风险披露.</li>
                                     <li>
-                                        合作伙伴没有权利使用任何类型的毁坏RoboForex公司的积极品牌形象的广告.</li>
+                                        合作伙伴没有权利使用任何类型的毁坏GoldMany公司的积极品牌形象的广告.</li>
                                 </ul>
                                 <p>
                                     在称为代理前, 请认真阅读所选公司的代理合作协议:</p>
                                 <ul class="terms" style="margin: 10px;">
                                     <li>
-                                        RoboForex (CY) Ltd <a href="https://my.robofx.com/files/document/introducing_broker_agreement.pdf" target="_blank">代理合作协议</a></li>
+                                        Gold Many Global Ltd
+                                        <a
+                                                {{--href="https://my.robofx.com/files/document/introducing_broker_agreement.pdf" --}}
+                                                target="_blank">
+                                            代理合作协议</a>
+                                    </li>
                                     <li>
-                                        RoboForex Ltd <a href="https://my.roboforex.com/files/document/partner_agreement.pdf" target="_blank">代理合作协议</a></li>
+                                        Gold Many Global Ltd
+                                        <a
+                                                {{--href="https://my.roboforex.com/files/document/partner_agreement.pdf" --}}
+                                                target="_blank">代理合作协议
+                                        </a>
+                                    </li>
                                 </ul>
                             </td>
                         </tr>
@@ -271,7 +301,11 @@
                                 <p>
                                     这便是您吸纳客户从事交易的每日附属佣金. 每月交易可用的平均天数是 22 天, 因此您的每月附属佣金将是 1,848 美元.</p>
                                 <p>
-                                    您可以使用会员中心的&quot;<a href="https://my.cn.roboforex.com/cs/partner-account/calculator/" target="_blank">代理计算器</a>&quot;来计算出您代理佣金的准确金额.</p>
+                                    您可以使用会员中心的&quot;
+                                    <a
+                                            {{--href="https://my.cn.roboforex.com/cs/partner-account/calculator/" --}}
+                                            target="_blank">代理计算器</a>&quot;来计算出您代理佣金的准确金额.
+                                </p>
                             </td>
                         </tr>
                         </tbody>
@@ -311,7 +345,10 @@
                 </div>
             </div>
             <p style="margin: 20px 0px 20px; text-align:center;">
-                <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register-partner/" style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a></p>
+                <a class="results-btn rw-tip_holder"
+                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
+                   style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a>
+            </p>
             <p>
                 如果您有任何问题, 给我们打电话或者写邮件, 号码和邮箱地址在 &quot;<a href="/about/contacts/" target="_blank">联系我们</a>&quot; 部分说明.</p>
             <script>

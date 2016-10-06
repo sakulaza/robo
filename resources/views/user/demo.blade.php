@@ -15,7 +15,7 @@
     <title>Forex Demo Account</title>
     <meta property="og:title" content="Forex Demo Account" />
     <meta property="og:description" content="Open free forex demo account in GoldMany" />
-    <meta property="og:url" content="http://cn.roboforex.com/trading-accounts/demo/" />
+    <meta property="og:url" content="/trading-accounts/demo/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -94,12 +94,9 @@
                 交易工具买卖、技术分析指标使用、创建趋势线等等。<br />
                 <br />
                 <p style="text-align:center;">
-                    <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/"
+                    <a class="likeBigButton"
+                       {{--href="https://my.cn.roboforex.com/cs/register-demo/"--}}
                        style="margin-right:20px;" target="_blank"><span>开设 MT4 模拟账户</span></a>
-                    <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/mt5/"
-                       style="margin-right:20px;" target="_blank"><span>开设 MT5 模拟账户</span></a>
-                    <a class="likeBigButton" href="https://my.cn.roboforex.com/cs/register-demo/ct/"
-                       target="_blank"><span>开设 cTrader 模拟账户</span></a>
                 </p>
                 <h2>
                     模拟账户类型有哪些？</h2>
@@ -113,28 +110,15 @@
                     <tr>
                         <th class="tc-tl" style="text-align: center">
                             &nbsp;<a href="/trade-conditions/metatrader4-mt4/" target="_blank">MetaTrader4</a> 平台</th>
-                        <th class="tc-tr" style="text-align: center">
-                            &nbsp;<a href="/trade-conditions/metatrader5-mt5/" target="_blank">MetaTrader5</a> 平台</th>
+
                     </tr>
                     <tr class="last" valign="top">
                         <td class="tc-bl" style="text-align: center">
                             MT4 Demo Fix<br />
-                            MT4 Demo Pro<br />
-                            &nbsp; MT4 Demo ECN-Fix<br />
-                            MT4 Demo ECN-Pro</td>
-                        <td class="tc-br last" style="text-align: center">
-                            MT5 Demo Fix<br />
-                            MT5 Demo Pro<br />
-                            MT5 Demo ECN</td>
+                            MT4 Demo ECN<br />
+                            MT4 Demo STP</td>
                     </tr>
-                    <tr>
-                        <th class="tc-tr" colspan="2" style="text-align: center;">
-                            &nbsp;<a href="http://cn.roboforex.com/trade-conditions/ctrader/" target="_blank">cTrader</a> 平台</th>
-                    </tr>
-                    <tr class="last" valign="top">
-                        <td class="tc-br last" colspan="2" style="text-align: center;">
-                            cTrader Demo ECN</td>
-                    </tr>
+
                     </tbody>
                 </table>
                 更多的真实账户的所有类型, 请访问:&nbsp; &quot;<a href="/trading-accounts/standard/" target="_blank">
@@ -144,7 +128,7 @@
                     <div class="il-tr">
                         <div class="il-bl">
                             <div class="il-br">
-                                <strong>敬请注意：</strong>MT4, MT5平台的各类型模拟账户, 其订单执行速度,
+                                <strong>敬请注意：</strong>MT4平台的各类型模拟账户, 其订单执行速度,
                                 交易条件和其他功能参数与同类型真实账户完全等同，客户可从模拟账户自然过渡到真实账户交易。
                                 <br />
                                 <br />

@@ -67,22 +67,22 @@
                 </style>
                 <div class="trading">
                     <p>
-                        加入RoboForex，交易者可尽享最优交易条件，从而在外汇市场尽情驰骋。RoboForex订单执行速度快、账户类型多、
+                        加入GoldMany，交易者可尽享最优交易条件，从而在外汇市场尽情驰骋。GoldMany订单执行速度快、账户类型多、
                         账户管理便捷、多种交易终端可选、交易条件优惠，客户可充分享受在线交易的优势和乐趣。
                     </p>
                     <ul class="buttons">
                         <li>
                             <a class="likeBigButton rw-tip_holder"
-                               href="http://my.cn.roboforex.com/cs/register/"
+                               {{--href="http://my.cn.roboforex.com/cs/register/"--}}
                                target="_blank" title="外汇交易涉及高风险, 可能导致失去您的整个投资.">
                                 <span>注册 </span>
                             </a>
                         </li>
                     </ul>
                     <h3 class="styled-h first">
-                        <i class="icon">&nbsp;</i><span class="styled-h-text">RoboForex 交易平台</span></h3>
+                        <i class="icon">&nbsp;</i><span class="styled-h-text">GoldMany 交易平台</span></h3>
                     <p>
-                        RoboForex提供给您几个交易平台, 能帮助您在外汇市场交易. 您可以从列表选择交易平台,
+                        GoldMany提供给您几个交易平台, 能帮助您在外汇市场交易. 您可以从列表选择交易平台,
                         包括最流行的交易终端和当您在室外或办公室可用于交易的手机版本.
                     </p>
                     <ul class="trading-platforms">
@@ -113,7 +113,7 @@
                             <ul class="trading-platforms-links">
                                 <li>
                                     <a class="link-item" href="/trade-conditions/webtrader/"
-                                       target="_blank">RoboForex<br/>
+                                       target="_blank">GoldMany<br/>
                                         WebTrader</a></li>
                             </ul>
                             <div class="clearfix">
@@ -150,7 +150,7 @@
                         <span class="styled-h-text">交易账户类型</span>
                     </h3>
                     <p>
-                        RoboForex 建立广泛的外汇账户能够满足任何交易者的需求和要求.
+                        GoldMany 建立广泛的外汇账户能够满足任何交易者的需求和要求.
                     </p>
                     <table class="table">
                         <thead>
@@ -246,36 +246,41 @@
                     </ul>
                     <p>
                         <a class="rw-tip_holder"
-                           href="https://my.cn.roboforex.com/cs/trading-account/open-trading-account/"
+                           {{--href="https://my.cn.GoldMany.com/cs/trading-account/open-trading-account/"--}}
                            target="_blank">更多交易账户类型
                         </a>
                     </p>
                     <div class="left">
                         <h3 class="styled-h" style="margin-top:0;">
                             <i class="icon">&nbsp;</i>
-                            <span class="styled-h-text">RoboForex 分析服务</span>
+                            <span class="styled-h-text">GoldMany 分析服务</span>
                         </h3>
                         <ul class="services">
                             <li style="line-height: 34px;">
                                 <i class="icon icon-youtube" style="width:18px;">&nbsp;</i>
-                                <a href="https://www.youtube.com/user/RoboForexLP" target="_blank">视频分析</a>
+                                <a href="https://www.youtube.com/user/GoldManyLP"
+                                   target="_blank">视频分析
+                                </a>
                             </li>
                             <li style="line-height: 34px;">
                                 <i class="icon icon-tv" style="width:18px;">&nbsp;</i>
-                                <a href="http://cn.roboforex.com/beginner/webinars/" target="_blank">
+                                <a href="/beginner/webinars/" target="_blank">
                                     来自专业交易者的研讨会
                                 </a>
                             </li>
                             <li style="line-height: 34px;">
                                 <i class="icon icon-pie" style="width:18px;">&nbsp;</i>
-                                <a href="/analytics/forex-forecast/" target="_blank">外汇预测和分析</a>
+                                <a href="/analytics/forex-forecast/" target="_blank">
+                                    外汇预测和分析</a>
                             </li>
 
 
                             <li style="line-height: 34px;">
                                 <i class="fa fa-tasks" style="width: 31px;color: #455A77;font-size: 16px;">&nbsp;</i>
-                                <a href="https://my.cn.roboforex.com/cs/analytics" target="_blank">
-                                    <span class="bonus-title">RoboForex分析中心</span>
+                                <a
+                                        {{--href="https://my.cn.GoldMany.com/cs/analytics"--}}
+                                        target="_blank">
+                                    <span class="bonus-title">GoldMany分析中心</span>
                                 </a>
                             </li>
                             <li style="line-height: 34px;">
@@ -288,7 +293,9 @@
                             </li>
                             <li style="line-height: 34px;">
                                 <i class="icon icon-news" style="width:18px;">&nbsp;</i>
-                                <a href="https://my.cn.roboforex.com/cs/profile/forex-news/" target="_blank">
+                                <a
+                                        {{--href="https://my.cn.roboforex.com/cs/profile/forex-news/" --}}
+                                        target="_blank">
                                     外汇新闻
                                 </a>
                             </li>
@@ -304,7 +311,7 @@
                     <div class="right">
                         <h3 class="styled-h" i="" style="margin-top:0;">
                             &nbsp;
-                            <span class="styled-h-text">RoboForex当前奖励和提供</span>
+                            <span class="styled-h-text">GoldMany当前奖励和提供</span>
                         </h3>
                         <ul class="bonuses">
                             <li style="line-height: 34px;">
@@ -366,10 +373,10 @@
                     <div class="clearfix">&nbsp;</div>
                     <h3 class="styled-h" style="margin-top:0;">
                         <i class="icon">&nbsp;</i>
-                        <span class="styled-h-text">RoboForex交易者比赛</span>
+                        <span class="styled-h-text">GoldMany交易者比赛</span>
                     </h3>
                     <p>
-                        RoboForex公司任何客户可以参与4个交易者比赛之一并赢得真实奖金.
+                        GoldMany公司任何客户可以参与4个交易者比赛之一并赢得真实奖金.
                     </p>
                     <ul class="contests">
                         <li>
@@ -395,7 +402,7 @@
                     <p>
                         <a class="contests-more" href="http://www.contestfx.com/cs/" target="_blank">更多比赛 </a></p>
                     <h3 class="styled-h" style="margin-top:0;">
-                        <i class="icon">&nbsp;</i><span class="styled-h-text">RoboForex附加服务</span></h3>
+                        <i class="icon">&nbsp;</i><span class="styled-h-text">GoldMany附加服务</span></h3>
                     <div class="note_block gray">
                         <p>
                             <strong>VPS-server</strong></p>
@@ -417,7 +424,7 @@
                     <h3 class="styled-h" style="margin-top:0;">
                         <i class="icon">&nbsp;</i><span class="styled-h-text">国际认可</span></h3>
                     <p>
-                        成为公司的客户之后, 您将被提供国际公认的经纪服务, RoboForex已经获得一些著名的奖项.</p>
+                        成为公司的客户之后, 您将被提供国际公认的经纪服务, GoldMany已经获得一些著名的奖项.</p>
                     <div class="note_block gray">
                         <ul class="awards">
                             <li>

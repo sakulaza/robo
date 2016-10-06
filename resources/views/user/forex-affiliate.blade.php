@@ -290,7 +290,12 @@
                 </div>
                 <hr />
                 <p style=" text-align:center;">
-                    <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register-partner/" style="text-decoration: none;color: #fff;" target="_blank" title="Trading on Forex involves high risks and you can lose your entire deposit."><span>开通附属账户</span></a></p>
+                    <a class="results-btn rw-tip_holder"
+                       {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
+                       style="text-decoration: none;color: #fff;" target="_blank" title="Trading on Forex involves
+                       high risks and you can lose your entire deposit.">
+                        <span>开通附属账户</span></a>
+                </p>
                 <hr />
                 <h2 style="text-align:center; margin-bottom: 20px;">
                     GoldMany合作伙伴的优势:</h2>
@@ -321,16 +326,13 @@
                     合作伙伴部门联系方式</h2>
                 <div class="contacts">
                     <div style="margin-right: 20px;">
-                        <img src="http://www.roboforex.ru/files/filemanager/image/phone.png" style="margin-top: -1px;" />+65 3158 8389</div>
+                        <img src="http://www.roboforex.ru/files/filemanager/image/phone.png"
+                             style="margin-top: -1px;" />+400-800-0654</div>
                     <div style="margin-right: 20px;">
                         <img src="http://www.roboforex.ru/files/filemanager/image/email.png" />
-                        <a href="mailto:sales@roboforex.com">sales@roboforex.com</a><br />
+                        <a href="mailto:support@goldmanyfx.com">support@goldmanyfx.com</a><br />
                         <a href="mailto:support@goldmanyfx.com">support@goldmanyfx.com</a></div>
-                    <div>
-                        <img src="http://www.roboforex.ru/files/filemanager/image/skype.png" style="margin-top: -1px;" />
-                        <a href="skype:roboforex.affiliate?call">roboforex.affiliate
-                        </a>
-                    </div>
+
                 </div>
             </div>
             <br />

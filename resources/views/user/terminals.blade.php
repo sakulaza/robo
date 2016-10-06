@@ -14,7 +14,7 @@
     <title>交易终端</title>
     <meta property="og:title" content="交易终端" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="http://cn.roboforex.com/trade-conditions/terminals/" />
+    <meta property="og:url" content="/trade-conditions/terminals/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -59,7 +59,7 @@
     <h1>
         <strong>交易终端</strong></h1>
     <p>
-        RoboForex为您提供多种交易平台，助您在外汇市场驰骋。您可从列表中选取最钟意的交易终端以及对应移动终端，
+        GoldMany为您提供多种交易平台，助您在外汇市场驰骋。您可从列表中选取最钟意的交易终端以及对应移动终端，
         从而出门在外一样自由交易。请根据个人使用喜好选择最适合您的交易终端。</p>
     <ul class="terminal-list terminal-list-ch">
         <li style="height:420px;">
@@ -73,129 +73,11 @@
                 <a class="t-button lighter" href="/trade-conditions/metatrader4-mt4/" target="_blank">
                     <span>阅读</span></a>
                 <a class="t-button modal-trigger" data-terminal="mt4"
-                   href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank">
+                   {{--href="https://my.cn.roboforex.com/cs/help/download-center/" --}}
+                   target="_blank">
                     <span>更多</span></a></div>
         </li>
-        <li style="height:420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/platform-item-2.jpg" /></div>
-            <div class="t-name">
-                MetaTrader5</div>
-            <div class="t-desc">
-                MetaTrader5是金融市场交易终端更新版本：可交易外汇、股票、期货和差价合同。</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trade-conditions/metatrader5-mt5/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button modal-trigger" data-terminal="mt5"
-                   href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank"><span>更多</span>
-                </a></div>
-        </li>
-        <li style="height:420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/platform-item.png"
-                     style="width: 292px; height: 240px;" /></div>
-            <div class="t-name">
-                WebTrader RoboForex</div>
-            <div class="t-desc" style="margin-bottom: 0px;">
-                WebTrader网页交易终端，功能全，无需另外安装，只需点击几下鼠标更可进入MT4账户操作。</div>
-            <div class="t-buttons" style="padding-top: 0;">
-                <a class="t-button lighter" href="/trade-conditions/webtrader/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button" href="https://webtrader.roboforex.com" target="_blank">
-                    <span>运行</span></a></div>
-        </li>
-        <li style="height:420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/platform-item-7.jpg" /></div>
-            <div class="t-name">
-                MultiTerminal</div>
-            <div class="t-desc">
-                RoboForex 多账户终端适用于同时管理多个投资者账户的账户经理或者同时操作多个账户的交易者。</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/operations/mam-multiterminal/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button modal-trigger" data-terminal="mt4"
-                   href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank">
-                    <span>更多</span></a></div>
-        </li>
-        <li style="height:420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/g_ctrader.png" style="width: 292px; height: 240px;" /></div>
-            <div class="t-name">
-                cTrader</div>
-            <div class="t-desc">
-                cTrader是基于无处理平台技术（NDD）的交易终端，无做庄、无重新报价、订单执行无延迟，确保订单执行的STP直通模式。</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trade-conditions/ctrader/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button modal-trigger" data-terminal="ctrader"
-                   href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank">
-                    <span>更多</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <!-- Not divide! -->
-            <div class="img">
-                <img alt="" src="/images/terminals/ctrader_mobile_05.jpg" style="width: 292px; height: 240px;" />
-            </div>
-            <div class="t-name">
-                cTrader Mobile Web</div>
-            <div class="t-desc">
-                cTrader网页移动平台-基于NDD(无柜台交易)技术的交易平台. 无须任何特别的设置就能让交易者通过IOS或安卓系统的移动设备使用浏览器进行交易.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trade-conditions/ctrader/ctrader-web/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button" href="http://ct.roboforex.com/" target="_blank"><span>运行</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <!-- Not divide! -->
-            <div class="img">
-                <img alt="" src="/images/terminals/ctrader_app.png" style="width: 292px; height: 240px;" /></div>
-            <div class="t-name">
-                cTrader iOS/Android</div>
-            <div class="t-desc">
-                偏好手机应用的客户可安装使用为iOS和安卓开发的移动交易平台，包含ECN平台的所有强大功能。</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="https://play.google.com/store/apps/details?id=com.roboforex.ct"
-                   target="_blank"><span>Android</span>
-                </a>
-                <a class="t-button" href="https://itunes.apple.com/app/roboforex-ctrader/id955758232?mt=8"
-                   style="width: 95px;" target="_blank"><span>iOS</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <!-- Not divide! -->
-            <div class="img">
-                <img alt="" src="/images/terminals/ctrader_web_05.jpg" style="width: 292px; height: 240px;" />
-            </div>
-            <div class="t-name">
-                cTtrader Web</div>
-            <div class="t-desc">
-                cTrader Web 是全功能版本的cTrader 终端, 旨在通过NDD技术使用任何互联网浏览器进入国际货币市场. 该终端
-                <span>运行</span>在Windows, Linux, 和 Mac OS 操作系统.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trade-conditions/ctrader/ctrader-web/" target="_blank">
-                    <span>阅读</span></a>
-                <a class="t-button" href="https://ct.roboforex.com/" target="_blank"><span>运行</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <!-- Not divide! -->
-            <div class="img">
-                <img alt="" src="/images/terminals/mobile%20trader_app.png" style="width: 292px; height: 240px;" />
-            </div>
-            <div class="t-name">
-                RoboForex MobileTrader</div>
-            <div class="t-desc">
-                RoboForex移动交易平台能让您使用任何安卓或IOS的移动设备进行交易. 程序支持所有类型的MT4账号.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader"
-                   target="_blank"><span>Android</span></a>
-                <a class="t-button" href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8"
-                   style="width: 95px;" target="_blank"><span>iOS</span></a>
-            </div>
-        </li>
+
         <li style="height:420px;">
             <div class="img">
                 <img alt="" src="/images/terminals/platform-item-4.jpg" /></div>
@@ -222,54 +104,6 @@
                     <span>阅读</span></a>
                 <a class="t-button" href="http://itunes.apple.com/us/app/metatrader-4/id496212596"
                    target="_blank"><span>更多</span></a>
-            </div>
-        </li>
-        <li style="height:420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/g_mt5_linux.png"
-                     style="width: 292px; height: 240px;" />
-            </div>
-            <div class="t-name">
-                MetaTrader4 Linux</div>
-            <div class="t-desc">
-                MetaTrader4 Terminal (MT4) Linux 是一个交易终端允许交易者使用Linux操作系统在外汇市场进行操作.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trading-accounts/download-metatrader4-mt4/metatrader4-mt4-for-linux/"
-                   target="_blank"><span>阅读</span></a>
-                <a class="t-button modal-trigger" data-terminal="mt4"
-                   href="https://my.cn.roboforex.com/cs/help/download-center/" target="_blank"><span>更多</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <!-- Not divide! -->
-            <div class="img">
-                <img alt="" src="/images/terminals/mt5_mac_240.png" style="width: 292px; height: 240px;" />
-            </div>
-            <div class="t-name">
-                MetaTrader5 Mac OS</div>
-            <div class="t-desc">
-                Mac OS系统的MetaTrader5 交易平台是最新的交易终端,在苹果操作系统下运行特别开发的.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="/trade-conditions/metatrader5-mt5/metatrader5-mt5-for-macintosh/" target="_blank">
-                    <span>阅读</span>
-                </a>
-                <a class="t-button modal-trigger" data-terminal="mt5"
-                   href="http://repository.playonmac.com/PlayOnMac/PlayOnMac_4.1.8.dmg" target="_blank">
-                    <span>更多</span></a>
-            </div>
-        </li>
-        <li style="height: 420px;">
-            <div class="img">
-                <img alt="" src="/images/terminals/stock-terminal.png"
-                     style="width: 292px; height: 240px;">
-            </div>
-            <div class="t-name"> Umstel</div>
-            <div class="t-desc"> RoboForex为您带来一个可交易美股的方便且现代化的网页平台. 交易投资从100美金起并且交易超过8,000只的股票和交易所基金.</div>
-            <div class="t-buttons">
-                <a class="t-button lighter" href="https://stock.roboforex.com/" target="_blank">
-                    <span>更多</span></a>
-                <a class="t-button" href="https://roboforex.tradingidea.com/terminal" target="_blank">
-                    <span>启动</span></a>
             </div>
         </li>
     </ul>

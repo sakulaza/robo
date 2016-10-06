@@ -11,7 +11,7 @@
     <meta name="w1-verification" content="117844634768" />
 
 
-    <title>WebTrader RoboForex</title>
+    <title>WebTrader GoldMany</title>
     <meta property="og:title" content="WebTrader GoldMany" />
     <meta property="og:description" content="" />
     <meta property="og:url" content="/trade-conditions/webtrader/" />
@@ -328,9 +328,13 @@
                     <img src="http://www.roboforex.ru/files/filemanager/image3/ears/d2499527d5-lt.png" /></div>
                 <p class="info_title">
                     使用GoldMany移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
-                    <a href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8" target="_blank">IOS</a>
+                    <a
+                            {{--href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8" --}}
+                            target="_blank">IOS</a>
                     和
-                    <a href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader" target="_blank">安卓</a>的移动设备上进行交易.
+                    <a
+                            {{--href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader" --}}
+                       target="_blank">安卓</a>的移动设备上进行交易.
                 </p>
             </div>
             <div class="note_block">
@@ -349,10 +353,12 @@
                 您现在即可通过网页交易终端进行外汇交易。请输入您的MT4账号和密码。如果您没有MT4交易账户，请在会员中心处开设。
             </p>
             <p style="text-align: center;">
-                <a class="likeBigButton" href="https://webtrader.roboforex.com/?lang=cn" target="_blank">
+                <a class="likeBigButton"
+                   {{--href="https://webtrader.roboforex.com/?lang=cn" --}}
+                   target="_blank">
                     <span>开始交易</span></a>&nbsp;
                 <a class="likeBigButton rw-tip_holder"
-                   href="https://my.cn.roboforex.com/cs/trading-account/open-trading-account/"
+                   {{--href="https://my.cn.roboforex.com/cs/trading-account/open-trading-account/"--}}
                    style="margin-right:10px;" target="_blank"><span>开设MT4交易账户</span>
                 </a>
             </p>
@@ -448,11 +454,6 @@
             </li>
             <li >
                 <a href="/trade-conditions/metatrader4-mt4/"  >MetaTrader 4 (MT4)</a>
-            </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
-
-
             </li>
         </ul>
 

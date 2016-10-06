@@ -222,7 +222,7 @@
                     margin-left: 45px;
                     margin-top: 0;
                 }</style>
-            <img alt="" src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/mt4-head.png"
+            <img alt="" src="/images/trade-conditions/mt4/phone.png"
                  style="height: 203px; width: 648px;vertical-align: bottom;" />
             <div>
                 <ul class="tabs">
@@ -233,13 +233,10 @@
                     <li class="last tab_last" rel="tab3">
                         更多</li>
                 </ul>
-                <div class="tab_container" style="
-    background: url(http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4-logo-opacity.png) 96% 89% no-repeat;
-">
+                <div class="tab_container" >
                     <h3 class="tab_drawer_heading d_active" rel="tab1">
                         重要功能</h3>
-                    <div class="tab_content" id="tab1" style="display: block;
-                    background: url(http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/mt4-logo-opacity.png;) 96% 89% no-repeat;">
+                    <div class="tab_content" id="tab1" style="display: block;">
                         <p>
                             MT4为交易者中最受欢迎最流行的交易平台. 这主要是由于平台界面友好, 拥有很多不同的交易市场分析工具, 并且允许客户创立新的自动交易软件或使用现有的自动交易软件.</p>
                         <p>
@@ -282,24 +279,24 @@
                                 直接从平台里的MetaTrader市场添加交易程式和指标</li>
                         </ul>
                         <div style="text-align: center;margin-bottom: 20px;">
-                            <a href="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/001.png"
+                            <a href="/images/trade-conditions/mt4/001.png"
                                rel="image_group" style="    margin-right: 3px;">
-                                <img src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/001.png"
+                                <img src="/images/trade-conditions/mt4/001.png"
                                      style="width: 135px; border: 1px solid rgb(169, 169, 169);" />
                             </a>
-                            <a href="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/002.png"
+                            <a href="/images/trade-conditions/mt4/002.png"
                                rel="image_group" style="    margin-right: 3px;">
-                                <img src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/002.png"
+                                <img src="/images/trade-conditions/mt4/002.png"
                                      style="width: 135px; border: 1px solid rgb(169, 169, 169);" />
                             </a>
-                            <a href="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/003.png"
+                            <a href="/images/trade-conditions/mt4/003.png"
                                rel="image_group" style="    margin-right: 3px;">
-                                <img src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/003.png"
+                                <img src="/images/trade-conditions/mt4/003.png"
                                      style="width: 135px; border: 1px solid rgb(169, 169, 169);" />
                             </a>
-                            <a href="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/004.png"
+                            <a href="/images/trade-conditions/mt4/004.png"
                                rel="image_group">
-                                <img src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/004.png"
+                                <img src="/images/trade-conditions/mt4/004.png"
                                      style="width: 135px; border: 1px solid rgb(169, 169, 169);" />
                             </a>
                         </div>
@@ -312,72 +309,54 @@
                             使用MT4的更多资源:</p>
                         <ul>
                             <li>
-                                <a href="http://cn.roboforex.com/trading-accounts/download-metatrader4-mt4/metatrader4-mt4-for-mac-os/" target="_blank">Mac OS操作系统MT4安装说明</a></li>
+                                <a href="/trading-accounts/download-metatrader4-mt4/metatrader4-mt4-for-mac-os/"
+                                   target="_blank">Mac OS操作系统MT4安装说明</a>
+                            </li>
                             <li>
-                                <a href="http://cn.roboforex.com/trading-accounts/download-metatrader4-mt4/metatrader4-mt4-for-linux/" target="_blank">Linux系统MT4安装说明</a></li>
+                                <a href="/trading-accounts/download-metatrader4-mt4/metatrader4-mt4-for-linux/"
+                                   target="_blank">Linux系统MT4安装说明</a>
+                            </li>
                             <li>
-                                <a href="http://cn.roboforex.com/trading-accounts/download-metatrader4-mt4/advisors-mt4/" target="_blank">MT4 EA安装说明</a></li>
+                                <a href="/trading-accounts/download-metatrader4-mt4/advisors-mt4/"
+                                   target="_blank">MT4 EA安装说明</a>
+                            </li>
                             <li>
-                                <a href="http://cn.roboforex.com/trade-conditions/mobile-forex/push-notifications/" target="_blank">开启手机平台推送消息提醒功能</a></li>
+                                <a href="/trade-conditions/mobile-forex/push-notifications/"
+                                   target="_blank">开启手机平台推送消息提醒功能</a></li>
                         </ul>
                     </div>
                 </div>
                 <!-- #tab3 --></div>
             <img src="http://my.roboforex.com/files/filemanager/image3/letters/sh-sep.png" style="width: 100%; height: 20px !important;margin-bottom: 10px;opacity: 0.4;" />
-            <div style="
-    -webkit-border-radius: 0 0 5px 5px;
-    -moz-border-radius: 0 0 5px 5px;
-    -o-border-radius: 0 0 5px 5px;
-    border-radius: 0 0 5px 5px;
-    border: 1px solid #e3e3e3;
-    height: 60px;
-">
-                <div class="webtrader_block" style="
-    width: 115px;
-    padding: 20px 10px 20px 20px;
-    display: inline-block;
-    vertical-align: top;
-    background: rgba(227, 227, 227, 0.25);
-    height: 20px;
-    position: relative;
-">
-                    <img src="https://webtrader.roboforex.com/img/logo/logo.png" style="
-" /></div>
-                <p style="
-    display: inline-block;
-    vertical-align: top;
-    width: 446px;
-    padding: 14px;
-    margin-bottom: 0;
-    margin-left: 20px;
-    margin-top: 0;
-    height: 32px;
-">
-                    在浏览器或移动设备上使用功能齐全的在线交易平台.
-                    <a href="http://cn.roboforex.com/trade-conditions/webtrader/" target="_blank">阅读更多...</a>
-                </p>
-            </div>
+
             <div class="info_holder">
                 <div class="info_block">
                     <img src="http://www.roboforex.ru/files/filemanager/image3/ears/d2499527d5-lt.png" /></div>
                 <p class="info_title">
-                    使用RoboForex移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
-                    <a href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8" target="_blank">IOS</a>
+                    使用GoldMany移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
+                    <a
+                            href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8"
+                            target="_blank">IOS
+                    </a>
                     和
-                    <a href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader" target="_blank">安卓</a>
+                    <a
+                            href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader"
+                            target="_blank">安卓</a>
                     的移动设备上进行交易.
                 </p>
             </div>
             <p style="text-align: center;">
                 <a class="results-btn modal-trigger" data-terminal="mt4"
-                   href="http://my.roboforex.com/en/help/download-center/" style="text-decoration: none;
-                   color: #fff;" target="_blank"><span>下载MT4</span></a>
+                   {{--href="http://my.roboforex.com/en/help/download-center/" --}}
+                   style="text-decoration: none;
+                   color: #fff;" target="_blank"><span>下载MT4</span>
+                </a>
             </p>
             <div style="
     text-align: center;
 ">
-                <img src="http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt5/cd27352c89.png"
-                     style="width: 190px; height: 31px;" title="MetaTrader4 доступен на всех популярных платформах" />
+                <img src="/images/trade-conditions/mt4/cd27352c89.png"
+                     style="width: 190px; height: 31px;" title="MetaTrader4" />
             </div>
             <h2 style="text-align: center;margin: 40px 0 20px;">
                 MT4账户类型</h2>
@@ -385,7 +364,7 @@
                 GoldMany提供的所有账户类型都可以在MT4平台里使用. 确定您的经验等级现在就开户:</p>
             <div style="text-align: center;margin-bottom: 30px;">
                 <div class="account-types" style="
-    background: url(http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/f8dc31ff1c.png);
+    background: url(/images/trade-conditions/mt4/f8dc31ff1c.png);
     background-position-x: 0%;
     background-position-y: 119%;
     background-repeat: no-repeat;
@@ -410,7 +389,7 @@
                     </div>
                 </div>
                 <div class="account-types" style="margin: 0 10px;
-                background: url(http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/f8dc31ff1c.png);
+                background: url(/images/trade-conditions/mt4/f8dc31ff1c.png);
                 background-position-x: 51%;background-position-y: 119%;
                 background-repeat: no-repeat;">
                     <div style="font-size: 17px;margin: 0 5px 5px;padding-bottom: 4px;border-bottom: 1px solid #e3e3e3;color: #005799;/* text-shadow: 0 1px 3px rgba(0, 0, 0, 0.22); */">
@@ -433,7 +412,7 @@
                     </div>
                 </div>
                 <div class="account-types" style="
-    background: url(http://www.roboforex.com/files/filemanager/image3/structure/trade-conditions/mt4/f8dc31ff1c.png);
+    background: url(/images/trade-conditions/mt4/f8dc31ff1c.png);
     background-position-x: 102%;
     background-position-y: 119%;
     background-repeat: no-repeat;
@@ -459,14 +438,17 @@
                 </div>
             </div>
             <p style="text-align: center; margin-bottom: 30px;">
-                <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/"
+                <a class="results-btn rw-tip_holder"
+                   {{--href="https://my.cn.roboforex.com/cs/register/"--}}
                    style="text-decoration: none;color: #fff;" target="_blank"
                    title="">
                     <span>开户</span></a>
             </p>
             <p>
-                交易条件细则可以在&quot;<a href="http://cn.roboforex.com/trade-conditions/account-types/"
-                                  target="_blank">GoldMany交易账户类型和条件</a>&quot;页面找到.
+                交易条件细则可以在&quot;
+                <a href="/trade-conditions/account-types/"
+                                  target="_blank">
+                    GoldMany交易账户类型和条件</a>&quot;页面找到.
             </p>
             <script type="text/javascript">
                 $(".tab_content").hide();
@@ -530,11 +512,6 @@
             </li>
             <li  class="selected" >
                 <a>MetaTrader 4 (MT4)</a>
-            </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
-
-
             </li>
         </ul>
 

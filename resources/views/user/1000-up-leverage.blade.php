@@ -9,13 +9,13 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="w1-verification" content="117844634768" />
-    <link rel="canonical" href="http://cn.roboforex.com/operations/bonuses-promotions/" />
+    <link rel="canonical" href="/operations/bonuses-promotions/" />
 
 
     <title>杠杆1:700, 1:888, 1:1000</title>
     <meta property="og:title" content="杠杆1:700, 1:888, 1:1000" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="http://cn.roboforex.com/operations/1000-up-leverage/" />
+    <meta property="og:url" content="/operations/1000-up-leverage/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -194,13 +194,19 @@
                     <div style="display: inline-block; vertical-align: top; width: 322px;">
                         <p>
                             无需停止交易操作即可在您会员中心更改您的杠杆</p>
-                        <a class="btn_link" href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/" style="text-decoration: none;background: #D8452A;margin-bottom: 30px;width: 150px;" target="_blank"><span>更改杠杆</span>
+                        <a class="btn_link"
+                           {{--href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/"--}}
+                           style="text-decoration: none;background: #D8452A;margin-bottom: 30px;width: 150px;" target="_blank"><span>更改杠杆</span>
                             <img alt="" src="/images/operations/2_min_white.png" /></a></div>
                     <div style="display: inline-block; vertical-align: top; width: 322px;">
                         <p>
                             当注册一个新账户时,选择增加的杠杆</p>
-                        <a class="btn_link rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/" style="text-decoration: none;background: #D8452A;width: 150px;margin-bottom: 30px;" target="_blank"><span>开设账户</span>
-                            <img alt="" src="/images/operations/2_min_white.png" /></a></div>
+                        <a class="btn_link rw-tip_holder"
+                           {{--href="https://my.cn.roboforex.com/cs/register/" --}}
+                           style="text-decoration: none;background: #D8452A;width: 150px;margin-bottom: 30px;" target="_blank"><span>开设账户</span>
+                            <img alt="" src="/images/operations/2_min_white.png" />
+                        </a>
+                    </div>
                 </div>
                 <p style="
     font-size: 14px;
@@ -258,7 +264,10 @@
                     <p>
                         您可以在交易终端的&quot;交易&quot;标签检查当前净值.</p>
                     <p>
-                        如果交易账户净值超过上面标注的金额并且杠杆自动减少至1:500, 那么您需要减少您的净值至上面要求的金额并且在您会员中心的&quot;<a href="http://my.cn.roboforex.com/cs/trading-account/change-leverage/" target="_blank">更改杠杆</a>&quot;版块发送第二个申请来恢复您的杠杆值.</p>
+                        如果交易账户净值超过上面标注的金额并且杠杆自动减少至1:500, 那么您需要减少您的净值至上面要求的金额并且在您会员中心的&quot;
+                        <a
+                                {{--href="http://my.cn.roboforex.com/cs/trading-account/change-leverage/" --}}
+                                target="_blank">更改杠杆</a>&quot;版块发送第二个申请来恢复您的杠杆值.</p>
                 </div>
                 <div class="note_block" style="
     padding: 20px;
@@ -276,7 +285,7 @@
                 <div class="fl-answer" id="faq_text1" style="display: none;">
                     <ol>
                         <li style="margin-bottom: 10px;">
-                            任何开设有RoboForex真实交易账户的客户均可参加此活动。</li>
+                            任何开设有GoldMany真实交易账户的客户均可参加此活动。</li>
                         <li style="margin-bottom: 10px;">
                             杠杆上调<span class="footnote">*</span>只对MT4账户的美分和标准账户以及CopyFX账户有效。</li>
                         <li style="margin-bottom: 10px;">
@@ -298,10 +307,10 @@
                             </ul>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            此计划最重要的条款是RoboForex有权不提供任何理由或事先提醒即可拒绝客户增加杠杆的申请.</li>
+                            此计划最重要的条款是GoldMany有权不提供任何理由或事先提醒即可拒绝客户增加杠杆的申请.</li>
                     </ol>
                     <p>
-                        <span class="footnote">*</span> - 根据此计划的规则, 杠杆可以增加至1:700, 1:888或者1:1000. 此计划不作用于RoboForex(CY)的波兰客户. 波兰客户可用最大杠杆为1:100, 不包括模拟比赛账户.</p>
+                        <span class="footnote">*</span> - 根据此计划的规则, 杠杆可以增加至1:700, 1:888或者1:1000. 此计划不作用于GoldMany(CY)的波兰客户. 波兰客户可用最大杠杆为1:100, 不包括模拟比赛账户.</p>
                 </div>
             </div>
             <br />

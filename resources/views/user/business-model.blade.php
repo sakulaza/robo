@@ -80,12 +80,12 @@
                     <h2>
                         GoldMany集团使用的模式:</h2>
                     <h4 style="color: rgb(32, 93, 131);">
-                        GoldMany (CY) Ltd 有限公司的STP模式</h4>
-                    GoldMany (CY) 有限公司运用STP桥接技术，使客户直接对接流动性提供商。<br />
+                        Gold Many Global Ltd 有限公司的STP模式</h4>
+                    Gold Many Global Ltd 有限公司运用STP桥接技术，使客户直接对接流动性提供商。<br />
                     <h4 style="color: #205d83;">
-                        GoldMany Ltd&nbsp;混合商业模式</h4>
+                        Gold Many Global Ltd&nbsp;混合商业模式</h4>
                     <p style="text-align: justify">
-                        GoldMany Ltd在美分账户中扮演做市商角色，即为客户交易的对手方。这是因为，流动性提供商对每笔交易有最低数量要求。</p>
+                        Gold Many Global Ltd在美分账户中扮演做市商角色，即为客户交易的对手方。这是因为，流动性提供商对每笔交易有最低数量要求。</p>
                     <p style="text-align: justify">
                         对于所有标准和ECN账户，GoldMany通过STP桥接技术接入流动性提供商。所有超过0.01手（即1000个单位）的交易下单将发送至中间桥然后传送到流动性提供商。每笔交易GoldMany从中收取部分点差。</p>
                 </div>
@@ -102,8 +102,8 @@
             <li >
                 <a href="/about/mission/"  >公司宗旨</a>
             </li>
-            <li >
-                <a href="/about/business-model/"  >商业模式</a>
+            <li class="selected">
+                <a  >商业模式</a>
             </li>
             <li >
                 <a href="/about/liquidity-providers/"  >流动性</a>
@@ -119,21 +119,6 @@
             </li>
             <li >
                 <a href="/about/faq/"  >常见问题</a>
-            </li>
-            <li >
-                <a href="/about/sponsorship/"  >锦标赛</a>
-            </li>
-            <li >
-                <a href="/about/results-2014/"  >2014 年成绩</a>
-            </li>
-            <li >
-                <a href="/about/exhibition/"  >GoldMany 展览会</a>
-            </li>
-            <li >
-                <a href="/about/awards/"  >授予奖项</a>
-            </li>
-            <li >
-                <a href="/about/media/"  >GoldMany 媒体</a>
             </li>
             <li >
                 <a href="/about/contacts/"  >联系我们</a>

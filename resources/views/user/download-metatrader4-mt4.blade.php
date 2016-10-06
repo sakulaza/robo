@@ -15,7 +15,7 @@
     <title>免费下载MetaTrader 4(MT4)</title>
     <meta property="og:title" content="免费下载MetaTrader 4(MT4)" />
     <meta property="og:description" content="免费下载MetaTrader 4(MT4)" />
-    <meta property="og:url" content="http://cn.roboforex.com/trading-accounts/download-metatrader4-mt4/" />
+    <meta property="og:url" content="/trading-accounts/download-metatrader4-mt4/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 
     @include('user.partials.script')
@@ -102,18 +102,12 @@
                     margin-top: 0;
                 }</style>
             <p style="text-align: justify;">
-                RoboForex向客户提供外汇市场最为主流的交易平台&mdash;&mdash;MT4平台。该平台功能全面：交易账户管理、
+                GoldMany向客户提供外汇市场最为主流的交易平台&mdash;&mdash;MT4平台。该平台功能全面：交易账户管理、
                 开仓和平仓、挂单、图形分析工具、技术分析指标、以及允许使用智能软件交易等等。</p>
             <p style="text-align: justify;">
                 <strong>MT4交易终端界面简单易操作。客户可以在此查询所开仓位、账户余额，追踪世界金融市场新闻
-                    （RoboForex为客户提供道琼斯新闻推送服务）、接收货币报价、发出交易指令、以及分析不同交易工具行情走势。
+                    （GoldMany为客户提供道琼斯新闻推送服务）、接收货币报价、发出交易指令、以及分析不同交易工具行情走势。
                 </strong>
-            </p>
-            <p>
-                WebTrader RoboForex是在网络浏览器在线交易的非常好的解决方案.
-                这个终端兼容于MetaTrader4平台,在Windows, Linux, Mac OS 操作系统以及移动设备下运行.
-                您可以在我们网站的&quot;<a href="/trade-conditions/webtrader/" target="_blank">
-                    WebTrader RoboForex</a>&quot;部分阅读更多关于这个网络终端.
             </p>
             <table border="0" cellpadding="1" cellspacing="1" style="width: 100.51%; height: 23px;">
                 <tbody>
@@ -123,11 +117,6 @@
                            href="https://my.cn.roboforex.com/cs/help/download-center/">
                             <span>下载 MetaTrader 4</span>
                         </a></td>
-                    <td style="text-align: center">
-                        <a class="likeBigButton" href="https://webtrader.roboforex.com/" target="blank">
-                            <span>WebTrader</span>
-                        </a>
-                    </td>
                 </tr>
                 </tbody>
             </table>
@@ -135,7 +124,7 @@
                 <div class="info_block">
                     <img src="http://www.roboforex.ru/files/filemanager/image3/ears/d2499527d5-lt.png" /></div>
                 <p class="info_title">
-                    使用RoboForex移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
+                    使用GoldMany移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
                     <a href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8"
                        target="_blank">IOS</a>和
                     <a href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader"

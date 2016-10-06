@@ -126,11 +126,6 @@
 
 
             </li>
-            <li >
-                <a href="/trade-conditions/mobile-forex/"  >«移动外汇» 服务</a>
-
-
-            </li>
         </ul>
 
         @include('user.partials.right_bar')

@@ -78,13 +78,13 @@
                         <th><label class="required">问题 <span>*</span></label></th>
                         <td><textarea warp=soft rows=7 cols=50 name=send[title]></textarea></td>
                     </tr>
-                    <tr id="faq-code">
-                        <th><img src="/kcaptcha.php?temp=572" style="cursor:pointer;" onclick="var time = new Date(); this.src = '/kcaptcha.php?temp='+time.getMilliseconds();" /></th>
-                        <td>
-                            <input id="ff-code" class="fText" name="send[captcha]" value="" />
-                            <label for="ff-code">键入字符<br/>您看到下面的图片</label>
-                        </td>
-                    </tr>
+                    {{--<tr id="faq-code">--}}
+                        {{--<th><img src="/kcaptcha.php?temp=572" style="cursor:pointer;" onclick="var time = new Date(); this.src = '/kcaptcha.php?temp='+time.getMilliseconds();" /></th>--}}
+                        {{--<td>--}}
+                            {{--<input id="ff-code" class="fText" name="send[captcha]" value="" />--}}
+                            {{--<label for="ff-code">键入字符<br/>您看到下面的图片</label>--}}
+                        {{--</td>--}}
+                    {{--</tr>--}}
 
                     <tr>
                         <th>&nbsp;</th>
@@ -147,8 +147,8 @@
             <li >
                 <a href="/about/news/"  >公司新闻</a>
             </li>
-            <li >
-                <a href="/about/feedback/"  >反馈建议</a>
+            <li class="selected">
+                <a   >反馈建议</a>
             </li>
             <li >
                 <a href="/about/faq/"  >常见问题</a>
