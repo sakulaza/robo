@@ -89,8 +89,7 @@
             <td>
                 <p style="font-size: 12px; text-align: justify;">
                     适合专业交易者的ECN 固定点差无柜台交易账户，其特点为点差固定、少于1秒的市场执行模式、无柜台交易、
-                    无止损止盈点数限制、从汇市主要ECN系统获取
-                    <a href="http://cn.roboforex.com/about/liquidity-providers/" target="_blank">流动性</a>。
+                    无止损止盈点数限制、从汇市主要ECN系统获取。
                     无手续费，返点要求与标准账户相同。
                 </p>
                 <h2>
@@ -120,11 +119,8 @@
                 <p style="font-size: 12px; text-align: justify;">
                     专业的ECN浮动点差无柜台交易账户，客户下单通过最大金融市场电子通讯系统撮合成交，具有低点差、执行快、
                     无止损止盈和挂单点数限制，
-                    <a href="http://cn.roboforex.com/about/liquidity-providers/" target="_blank">流动性</a>
                     有保障。当前，可以支持ECN-Pro的交易平台有
-                    <a href="http://cn.roboforex.com/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>,
-                    <a href="http://cn.roboforex.com/trade-conditions/metatrader5-mt5/" target="_blank">MT5</a>,
-                    和<a href="http://cn.roboforex.com/trade-conditions/ctrader/" target="_blank">cTrader</a>。
+                    <a href="/trade-conditions/metatrader4-mt4/" target="_blank">MT4</a>。
                 </p>
 
                 <h2>

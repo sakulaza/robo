@@ -329,11 +329,11 @@
                 <p class="info_title">
                     使用GoldMany移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
                     <a
-                            href="https://download.mql5.com/cdn/mobile/mt4/ios?server"
+                            href="https://download.mql5.com/cdn/mobile/mt4/ios?server="
                             target="_blank">IOS</a>
                     和
                     <a
-                            href="https://download.mql5.com/cdn/mobile/mt4/android?server"
+                            href="https://download.mql5.com/cdn/mobile/mt4/android?server="
                        target="_blank">安卓</a>的移动设备上进行交易.
                 </p>
             </div>

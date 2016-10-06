@@ -433,7 +433,7 @@
                 </p>
                 <h3 class="styled-h first">
                     <i class="icon">&nbsp;</i><span class="styled-h-text">监管</span>
-                </h3><br/>
+                </h3><br/><br/><br/><br/>
                 <ul class="regulation" style="list-style: none;padding-left: 0px;">
                     <li>
                         <img alt="" src="/images/about/belize.png" style="float: left; width: 80px;
@@ -535,8 +535,7 @@
                             &nbsp;</div>
                     </div>
                 </div>
-                <p>
-                    阅读更多在&quot;<a href="/about/awards/" target="_blank">奖项</a>&quot; 部分.</p>
+
 
                 <div class="clearfix">
                     &nbsp;</div>
@@ -595,21 +594,6 @@
             </li>
             <li >
                 <a href="/about/faq/"  >常见问题</a>
-            </li>
-            <li >
-                <a href="/about/sponsorship/"  >锦标赛</a>
-            </li>
-            <li >
-                <a href="/about/results-2014/"  >2014 年成绩</a>
-            </li>
-            <li >
-                <a href="/about/exhibition/"  >GoldMany 展览会</a>
-            </li>
-            <li >
-                <a href="/about/awards/"  >授予奖项</a>
-            </li>
-            <li >
-                <a href="/about/media/"  >GoldMany 媒体</a>
             </li>
             <li >
                 <a href="/about/contacts/"  >联系我们</a>

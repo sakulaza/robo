@@ -126,9 +126,9 @@
                     <img src="http://www.roboforex.ru/files/filemanager/image3/ears/d2499527d5-lt.png" /></div>
                 <p class="info_title">
                     使用GoldMany移动设备交易平台应用, 能让您使用所有类型的MT4账号在任意基于
-                    <a href="https://itunes.apple.com/us/app/mobiletrader-roboforex/id1137639247?mt=8"
+                    <a href="https://download.mql5.com/cdn/mobile/mt4/ios?server="
                        target="_blank">IOS</a>和
-                    <a href="https://play.google.com/store/apps/details?id=com.roboforex.webtrader"
+                    <a href="https://download.mql5.com/cdn/mobile/mt4/android?server="
                        target="_blank">安卓</a>的移动设备上进行交易.
                 </p>
             </div>
