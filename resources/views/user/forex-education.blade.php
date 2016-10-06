@@ -74,7 +74,9 @@
                     </div>
                     <ul class="reasons">
                         <li>
-                            MetaTrader4, MetaTrader5, WebTrader GoldMany 和 cTrader <a href="/trade-conditions/terminals/" target="_blank">交易终端</a></li>
+                            MetaTrader4
+                            <a href="/trade-conditions/terminals/" target="_blank">交易终端</a>
+                        </li>
                         <li>
                             即时订单执行</li>
                         <li>

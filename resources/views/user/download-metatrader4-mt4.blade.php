@@ -114,7 +114,8 @@
                 <tr>
                     <td style="text-align: center;">
                         <a class="likeBigButton modal-trigger" data-terminal="mt4"
-                           href="https://my.cn.roboforex.com/cs/help/download-center/">
+                           href="https://download.mql5.com/cdn/web/8248/mt4/goldmanyglobal4setup.exe"
+                        >
                             <span>下载 MetaTrader 4</span>
                         </a></td>
                 </tr>

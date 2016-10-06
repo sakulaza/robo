@@ -154,7 +154,10 @@
 
         var terminal_settings = {
             labels: {
-                link_template: '您可以从 <a href=\"https://my.cn.roboforex.com/cs/\">会员中心</a><a href=\"https://my.cn.roboforex.com/cs/help/download-center/\" target=\"_blank\">的下载中心</a> 下载交易平台.'
+                link_template: '您可以从 ' +
+                '<a href=\"https://my.cn.roboforex.com/cs/\">会员中心</a>' +
+                '<a href=\"https://my.cn.roboforex.com/cs/help/download-center/\" ' +
+                'target=\"_blank\">的下载中心</a> 下载交易平台.'
             },
             terminal: {
                 mt4: {
@@ -493,7 +496,7 @@
                     我们的优势</h1>
                 <ul class="features">
                     <li>
-                        MetaTrader4,cTrader交易平台
+                        MetaTrader4交易平台
                     </li>
                     <li>
                         NDD和STP处理技术

@@ -548,7 +548,7 @@
                         <h2 style="text-align: center; font-weight: bold; font-size: 16px;">
                             外汇返点 (Cashback)服务</h2>
                         <p>
-                            外汇&quot;返点 (Cashback)服务&quot;为MetaTrader4，MetaTrader5,
+                            外汇&quot;返点 (Cashback)服务&quot;为MetaTrader4
                             cTrader类型账户的客户降低交易成本提供了最为直接的机会!
                             &quot;返点&quot;服务所得到的奖励资金,客户可以任意使用,没有任何限制.
                         </p>

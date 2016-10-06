@@ -363,7 +363,7 @@
 
     <h1> 会员中心</h1>
     <div class="page-wrapper">
-        
+
         <div class="features">
             <h2 class="features-title"> GoldMany会员中心特性:</h2>
             <div class="features__content">

@@ -221,7 +221,8 @@
                         <td style="text-align: left; font-weight: bold;text-transform: uppercase;font-size: 12px;color: #215682;">
                             交易平台</td>
                         <td>
-                            MetaTrader4, MetaTrader5, cTrader</td>
+                            MetaTrader4
+                        </td>
 
                     </tr>
                     <tr class="tr-grey">

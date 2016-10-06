@@ -73,7 +73,7 @@
                 <a class="t-button lighter" href="/trade-conditions/metatrader4-mt4/" target="_blank">
                     <span>阅读</span></a>
                 <a class="t-button modal-trigger" data-terminal="mt4"
-                   {{--href="https://my.cn.roboforex.com/cs/help/download-center/" --}}
+                   href="https://download.mql5.com/cdn/web/8248/mt4/goldmanyglobal4setup.exe"
                    target="_blank">
                     <span>更多</span></a></div>
         </li>
