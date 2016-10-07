@@ -30,61 +30,6 @@
                 02.09.2016
 
             </div>
-            <table class="soc-2 share">
-                <tr>
-                    <td class="soc-3">
-                        <div class="fb-like" data-href="http://cn.roboforex.com/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="true"></div>
-                        <div id="fb-root"></div>
-                        <script>
-
-                            (function(d, s, id) {
-                                var js, fjs = d.getElementsByTagName(s)[0];
-                                if (d.getElementById(id))
-                                    return;
-                                js = d.createElement(s);
-                                js.id = id;
-                                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }(document, 'script', 'facebook-jssdk'));
-
-                        </script>
-                    </td>
-                    <td class="soc-3 linkedin">
-                        <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-                        <script type="IN/Share" data-counter="right"></script>
-                    </td>
-                    <td>
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cn.roboforex.com/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/"></a>
-                        <script>!function(d, s, id) {
-                                var js, fjs = d.getElementsByTagName(s)[0];
-                                if (!d.getElementById(id)) {
-                                    js = d.createElement(s);
-                                    js.id = id;
-                                    js.src = "//platform.twitter.com/widgets.js";
-                                    fjs.parentNode.insertBefore(js, fjs);
-                                }
-                            }(document, "script", "twitter-wjs");</script>
-                    </td>
-                    <td>
-                        <!-- Place this tag where you want the +1 button to render. -->
-                        <div class="g-plusone" data-size="medium" data-annotation="bubble" data-width="300" data-href="http://cn.roboforex.com/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/"></div>
-
-                        <!-- Place this tag after the last +1 button tag. -->
-                        <script type="text/javascript">
-
-                            (function() {
-                                var po = document.createElement('script');
-                                po.type = 'text/javascript';
-                                po.async = true;
-                                po.src = 'https://apis.google.com/js/plusone.js';
-                                var s = document.getElementsByTagName('script')[0];
-                                s.parentNode.insertBefore(po, s);
-                            })();
-
-                        </script>
-                    </td>
-                </tr>
-            </table>
             <div class="unregistered-for-analytics unregistered">
                 <h2>
                     分析 September 2<sup>nd</sup>, 2016<br />
@@ -114,70 +59,24 @@
                     <p>
                         没有授权,您一天能查看不超过2条评论和每月不超过10条.注册或登录您的会员中心来继续阅读分析评测.
                     </p>
-                    <ul class="buttons">
-                        <li>
-                            <a href="https://my.cn.roboforex.com/cs/register/" class="likeBigButton register">
-                                <span>注册</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://my.cn.roboforex.com/cs/" class="likeBigButton">
-                                <span>登录会员中心</span>
-                            </a>
-                        </li>
-                    </ul>
+                    {{--<ul class="buttons">--}}
+                        {{--<li>--}}
+                            {{--<a href="https://my.cn.roboforex.com/cs/register/" class="likeBigButton register">--}}
+                                {{--<span>注册</span>--}}
+                            {{--</a>--}}
+                        {{--</li>--}}
+                        {{--<li>--}}
+                            {{--<a href="https://my.cn.roboforex.com/cs/" class="likeBigButton">--}}
+                                {{--<span>登录会员中心</span>--}}
+                            {{--</a>--}}
+                        {{--</li>--}}
+                    {{--</ul>--}}
                 </div>
             </div>
 
 
             <div id="news-back" class="forecast_back">
                 <a href="/analytics/forex-forecast/" class="likeButton"><span><< 返回列表</span></a>
-                <div id="news-subscribe">
-                    <form method="post" id="subscribe" enctype="multipart/form-data" action="" target="_self" onsubmit="return false;">
-                        <p>
-                            <input id="s-email" name="email[email]" placeholder="输入您的电子邮件" class="fText" value="" onkeydown="if (key_enter(event)) form_validate_email();" />
-                            <button type="button" id="s-submit" class="fSubmit button likeBigButtonLoader" onclick="form_validate_email();" >订阅</button>
-                            <a href="/forecasts/rss/ichimoku-analysis/" id="s-rss" class="rss-button">
-                                <i class="fa fa-rss-square"></i>
-                            </a>
-                        </p>
-                    </form>
-
-                    <script type="text/javascript">
-                        var err_request = '数据上传时发生一个错误';
-                        var form_state = 1;
-
-                        function form_validate_email()
-                        {
-                            if (form_state == 0) return;
-                            form_state = 0;
-
-                            var selector = '#subscribe';
-                            var form = $(selector);
-                            var validate_path = '/subscription/validateMain/';
-
-                            JsHttpRequest.query(validate_path, form.serialize(),
-                                    function(result, errors)
-                                    {
-                                        form_state = 1;
-                                        if (result && result.res == 0)
-                                        {
-                                            $.dqValidate(selector, result);
-                                        } else if (result && result.res == 1 && result.link)
-                                        {
-                                            //alert(result.link);
-                                            window.location.assign(result.link);
-                                            return;
-                                        } else
-                                        {
-                                            console.log(errors);
-                                        }
-                                    }, true
-                            );
-                        }
-
-                    </script>
-                </div>
             </div>
 
             <div class="analitic-warning">

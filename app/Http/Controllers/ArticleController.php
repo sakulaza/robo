@@ -47,4 +47,13 @@ class ArticleController extends Controller
         return view("info.$cat.$id");
     }
 
+    public function news(Request $request,$cat = '',$id=''){
+        return view("news.$cat.$id");
+    }
+
+    public function operations_info(Request $request,$cat = '',$id=''){
+        return view("operations.$cat.$id");
+    }
+
+
 }
