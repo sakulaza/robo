@@ -26,6 +26,7 @@ Route::get('/operations/{type?}','ArticleController@operations');
 Route::get('/forex-affiliate/{type?}','ArticleController@forex_affiliate');
 Route::get('/beginner/{type?}','ArticleController@beginner');
 Route::get('/analytics/{type?}','ArticleController@analytics');
+Route::get('/analytics/forex-forecast/{cat}/{id}','ArticleController@forex_forecast');
 
 Route::group(['prefix'=>'admin', 'middleware' => 'web'], function(){
     Route::get('/', 'AdminController@index');

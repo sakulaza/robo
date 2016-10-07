@@ -42,8 +42,9 @@ class ArticleController extends Controller
         return view("user.$type");
     }
 
-    public function info(Request $request,$type = 'analytics'){
-        return view("user.$type");
+    //外汇分析内容页
+    public function forex_forecast(Request $request,$cat = '',$id=''){
+        return view("info.$cat.$id");
     }
 
 }
