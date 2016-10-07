@@ -320,11 +320,6 @@
     <div id="right">
         <ul id="r-menu">
             <li >
-                <a href="/operations/bonuses-promotions/"  >赠金,计划和活动</a>
-
-
-            </li>
-            <li >
                 <a href="/operations/security/"  >资金安全</a>
 
 

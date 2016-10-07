@@ -520,7 +520,6 @@
                     <li>
                         可以使用微小账户
                     </li>
-                    
                     <li>
                         最高至账户结余的
                         <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/"
@@ -1251,7 +1250,9 @@
             </div>
 
             <div id="rc-content">
-                <a href="/analytics/charts/"><img src="http://www.roboforex.com/images/charts/eurusd60_230x140x4.gif" alt=""></a>
+                <a href="/analytics/charts/">
+                    <img src="http://www.roboforex.com/images/charts/eurusd60_230x140x4.gif" alt="">
+                </a>
             </div>
 
             <div class="risk-warning">风险警示: 以前交易操作的结果不能保证未来也是同样的结果.</div>
@@ -1259,7 +1260,7 @@
 
         <script type="text/javascript">
             var menu_path = '/analytics/charts/';
-            var folder = 'http://www.GoldMany.com/images/charts/';
+            var folder = 'http://www.roboforex.com/images/charts/';
             var ext = '_230x140x4.gif';
             var mlink = '/analytics/charts/';
 
@@ -1276,7 +1277,10 @@
         </script>
 
 
-        <iframe src="https://staticmy.roboforex.com/cs/tradewall/widget/vertical/?wmode=transparent" style="width: 250px; height: 580px; border:0" frameborder="0" wmode="Opaque"></iframe>
+        <iframe src="https://staticmy.roboforex.com/cs/tradewall/widget/vertical/?wmode=transparent"
+                style="width: 250px; height: 580px; border:0" frameborder="0" wmode="Opaque">
+            
+        </iframe>
 
     </div>
 

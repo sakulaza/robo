@@ -578,12 +578,12 @@
     <div class="terminals_head">
         <img class="terminals_banner" src="/images/operations/deposit-withdraw-main.jpg"/>
         <div class="link-holder">
-            <div class="terminal-link">
-                <img src="/images/operations//e2512aec44.png"/>
-                <a href="/operations/bonuses-promotions/"
-                   style="text-decoration: none;" target="_blank">奖金和推广
-                </a>
-            </div>
+            {{--<div class="terminal-link">--}}
+                {{--<img src="/images/operations//e2512aec44.png"/>--}}
+                {{--<a href="/operations/bonuses-promotions/"--}}
+                   {{--style="text-decoration: none;" target="_blank">奖金和推广--}}
+                {{--</a>--}}
+            {{--</div>--}}
             <div class="terminal-link">
                 <img src="/images/operations/e2512aec44.png"/>
                 <a href="/operations/bonuses-promotions/commission-free/"
@@ -656,8 +656,10 @@
                             style="color: #344964; font-size: 25px; border-bottom: 1px solid #e3e3e3; margin-bottom: 8px; display: block;">115%</span>从500
                     USD</a></p>
             <p style="font-weight: bold;text-align: center;margin-top: 20px;border: 1px solid #e3e3e3;padding: 5px;color: #344964;">
-                每月两次无手续费出金! <a href="/operations/bonuses-promotions/free-withdrawal/" style="text-decoration:none;"
-                               target="_blank">阅读更多...</a></p>
+                每月两次无手续费出金!
+                {{--<a href="/operations/bonuses-promotions/free-withdrawal/" style="text-decoration:none;"--}}
+                               {{--target="_blank">阅读更多...</a>--}}
+            </p>
         </div>
     </div>
     <div class="tab_container" id="payment-content">
@@ -666,24 +668,32 @@
                style="margin: 0 5px;padding: 2px 4px;min-width: 90px;box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.4);">
                 <span>对比</span></a></p>
         <p class="button_holder" style="position: absolute; margin-top: 18px; left: 15px;">
-            <a class="view-btn show-systems show-bz-systems view-btn_selected"
-               style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>GoldMany Ltd</span></a> <a
-                    class="view-btn show-systems show-cy-systems"
-                    style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> <span>GoldMany (CY)</span></a></p>
+            {{--<a class="view-btn show-systems show-bz-systems view-btn_selected" style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> --}}
+                {{--<span>GoldMany Ltd</span>--}}
+            {{--</a> --}}
+            <a class="view-btn show-systems show-cy-systems view-btn_selected" style="margin: 0 5px;padding: 2px 8px;min-width: 100px;">
+                <span>GoldMany (CY)</span>
+            </a>
+        </p>
         <div class="ct-changer show" id="payment-ct-holder1" style="margin-top: 80px; display: block">
             <div class="buttons" style="display: block; z-index: 9999;">
                 <a class="payment-view grid view-btn_selected"
-                   style="margin-right: 4px; width: 18px; height: 18px; padding: 3px;"> <span class="grid-icon"> <span
-                                class="grid-icon-block">1</span> <span class="grid-icon-block">2</span> <span
+                   style="margin-right: 4px; width: 18px; height: 18px; padding: 3px;">
+                    <span class="grid-icon">
+                        <span class="grid-icon-block">1</span> <span class="grid-icon-block">2</span> <span
                                 class="grid-icon-block">3</span> <span class="grid-icon-block">4</span> <span
                                 class="grid-icon-block">5</span> <span class="grid-icon-block">6</span> <span
                                 class="grid-icon-block">7</span> <span class="grid-icon-block">8</span> <span
-                                class="grid-icon-block">9</span> </span> </a> <a class="payment-view list view-btn"
-                                                                                 style="width: 18px; height: 18px; padding: 3px;">
-                    <span class="list-icon"> <span class="list-icon-block_min">1</span> <span
+                                class="grid-icon-block">9</span> </span>
+                </a>
+                <a class="payment-view list view-btn" style="width: 18px; height: 18px; padding: 3px;">
+                    <span class="list-icon">
+                        <span class="list-icon-block_min">1</span> <span
                                 class="list-icon-block_mid">2</span> <span class="list-icon-block_min">3</span> <span
                                 class="list-icon-block_mid">4</span> <span class="list-icon-block_min">5</span> <span
-                                class="list-icon-block_mid">6</span> </span> </a></div>
+                                class="list-icon-block_mid">6</span>
+                    </span>
+                </a></div>
             <div style="position: absolute; margin-left: 10px; width: 600px;">
                 <input id="show-withdraw-cards" style="float: left; margin-top: 1px; margin-right: 10px;"
                        type="checkbox"/>
@@ -798,11 +808,11 @@
                     </li>
                     <li class="payment-item bz-systems cy-systems system-on" style="display: inline-block;">
                         <h3>
-                            Skrill (Moneybookers)</h3>
+                            宝付</h3>
                         <img alt="" src="/images/operations/21.png"/>
                         <ul class="item-title payment-grid">
                             <li>
-                                <strong>货币:</strong> USD / EUR
+                                <strong>货币:</strong> CNY
                             </li>
                             <li>
                                 <strong>存款费用:</strong> 0%
@@ -811,13 +821,13 @@
                                 <strong>取款费用:</strong> 1%
                             </li>
                             <li>
-                                <strong>存款金额:</strong> 从10 USD &nbsp;
+                                <strong>存款金额:</strong> 从100 USD &nbsp;
                                 <i class="fa fa-question-circle" style="color: #344964; font-size: 12px"
                                    title="支付系统限制是可能的, 如果您的电子钱包未经授权.">&nbsp;
                                 </i>
                             </li>
                             <li>
-                                <strong>取款金额:</strong> 从0,1 USD
+                                <strong>取款金额:</strong> 从100USD
                             </li>
                         </ul>
                         <p class="more-link_holder">
@@ -835,30 +845,6 @@
                     </li>
 
 
-                    <li class="payment-item bz-systems cy-systems deposit-system-card" style="display: inline-block;">
-                        <h3>
-                            比特币</h3>
-                        <img alt=""
-                             src="/images/operations/bitcoin-m.png"/>
-                        <ul class="item-title payment-grid">
-                            <li>
-                                <strong>货币:</strong> USD / EUR / GBP
-                            </li>
-                            <li>
-                                <strong>存款费用:</strong> 0%
-                            </li>
-                            <li>
-                                <strong>存款金额:</strong> 从 10 USD
-                            </li>
-                        </ul>
-                        <p class="more-link_holder">
-                            <a class="more-link" href="/operations/deposit-withdraw/bitcoin/"
-                               target="_blank"><span>了解更多</span></a></p>
-                        <p class="button_holder">
-                            <a class="view-btn_link dark-blue"
-                               href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"
-                               style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>
-                    </li>
 
                 </ul>
                 <p style="font-size: 11px;color: #a9a9a9; text-align: center; margin-top: 30px;">

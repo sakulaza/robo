@@ -94,27 +94,6 @@
                                        target="_blank">MetaTrader4
                                     </a>
                                 </li>
-                                <li>
-                                    <a class="link-item" href="/trade-conditions/metatrader5-mt5/"
-                                       target="_blank">MetaTrader5
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="link-item" href="/trade-conditions/ctrader/"
-                                       target="_blank">cTrader
-                                    </a>
-                                </li>
-                            </ul>
-                            <div class="clearfix">
-                                &nbsp;</div>
-                        </li>
-                        <li style="width: 32%;">
-                            <img class="icon" src="/images/trading/wt_client.png"/>
-                            <ul class="trading-platforms-links">
-                                <li>
-                                    <a class="link-item" href="/trade-conditions/webtrader/"
-                                       target="_blank">GoldMany<br/>
-                                        WebTrader</a></li>
                             </ul>
                             <div class="clearfix">
                                 &nbsp;</div>
@@ -158,19 +137,10 @@
                             <th class="tc-tl">
                                 Fix-Cent&nbsp;</th>
                             <th>
-                                Fix-Standard
-                            </th>
-                            <th>
-                                Pro-Cent
-                            </th>
-                            <th>
-                                Pro-Standard
-                            </th>
-                            <th>
-                                ECN-Pro NDD
+                                ECN账户
                             </th>
                             <th class="tc-tr">
-                                ECN-FixSpread NDD
+                                STP账户
                             </th>
                         </tr>
                         </thead>
@@ -182,17 +152,8 @@
                             <td>
                                 固定点差
                             </td>
-                            <td>
-                                浮动点差
-                            </td>
-                            <td>
-                                浮动点差
-                            </td>
-                            <td>
-                                浮动点差
-                            </td>
                             <td class="last">
-                                固定点差
+                                浮动点差
                             </td>
                         </tr>
                         <tr>
@@ -201,15 +162,6 @@
                             </td>
                             <td>
                                 小数点后4位
-                            </td>
-                            <td>
-                                小数点后5位
-                            </td>
-                            <td>
-                                小数点后5位
-                            </td>
-                            <td>
-                                小数点后5位
                             </td>
                             <td class="last">
                                 小数点后5位
@@ -222,16 +174,7 @@
                             <td>
                                 即时执行模式
                             </td>
-                            <td>
-                                市场执行模式
-                            </td>
-                            <td>
-                                市场执行模式
-                            </td>
-                            <td>
-                                市场执行模式
-                            </td>
-                            <td class="tc-br last">
+                            <td  class="tc-br last">
                                 市场执行模式
                             </td>
                         </tr>
@@ -256,18 +199,6 @@
                             <span class="styled-h-text">GoldMany 分析服务</span>
                         </h3>
                         <ul class="services">
-                            <li style="line-height: 34px;">
-                                <i class="icon icon-youtube" style="width:18px;">&nbsp;</i>
-                                <a href="https://www.youtube.com/user/GoldManyLP"
-                                   target="_blank">视频分析
-                                </a>
-                            </li>
-                            <li style="line-height: 34px;">
-                                <i class="icon icon-tv" style="width:18px;">&nbsp;</i>
-                                <a href="/beginner/webinars/" target="_blank">
-                                    来自专业交易者的研讨会
-                                </a>
-                            </li>
                             <li style="line-height: 34px;">
                                 <i class="icon icon-pie" style="width:18px;">&nbsp;</i>
                                 <a href="/analytics/forex-forecast/" target="_blank">
@@ -335,7 +266,7 @@
                                      style="width:18px"/>
                                 <a href="/operations/bonuses-promotions/1000-up-leverage/"
                                                             target="_blank">
-                                    <span class="bonus-title">杠杆高达 1:1000
+                                    <span class="bonus-title">杠杆高达 1:100
                                         <i class="fa fa-question-circle" style="color: #344964; font-size: 12px"
                                                 title="波兰客户可用最大杠杆为1:100.">&nbsp;
                                         </i>
@@ -347,14 +278,6 @@
                                 font-size: 16px;">&nbsp;</i>
                                 <a href="/operations/bonuses-promotions/up-to-10-percents-on-account-balance/" target="_blank">
                                     最高至账户结余的10%
-                                </a>
-                            </li>
-                            <li style="line-height: 34px;">
-                                <i class="fa fa-arrow-circle-up" style="width:18px;width: 31px;color: #455A77;
-                                      font-size: 16px;">&nbsp;
-                                </i>
-                                <a href="/operations/rebate/" target="_blank">&quot;返点
-                                    (Cashback)&quot;服务
                                 </a>
                             </li>
                             <li style="line-height: 34px;">
@@ -370,55 +293,7 @@
                             更多当前提供
                         </a>
                     </div>
-                    <div class="clearfix">&nbsp;</div>
-                    <h3 class="styled-h" style="margin-top:0;">
-                        <i class="icon">&nbsp;</i>
-                        <span class="styled-h-text">GoldMany交易者比赛</span>
-                    </h3>
-                    <p>
-                        GoldMany公司任何客户可以参与4个交易者比赛之一并赢得真实奖金.
-                    </p>
-                    <ul class="contests">
-                        <li>
-                            &quot;<a class="contest-link" href="http://contestfx.com/cs/contest-item/Trade-Day/"
-                                     target="_blank">Trade Day</a>&quot; - 奖金池是 1,000 USD.
-                        </li>
-                        <li>
-                            &quot;<a class="contest-link" href="http://contestfx.com/cs/contest-item/KingSize/"
-                                     target="_blank">KingSize</a>&quot; &ndash; 奖金池是 1,000 USD.
-                        </li>
-                        <li>
-                            &quot;<a class="contest-link"
-                                     href="http://www.contestfx.com/cs/contest-item/rule/Week-with-CFD/"
-                                     target="_blank">Week with CFD</a>&quot; &ndash; 奖金池是 1,500 USD.
-                        </li>
-                        <li>
-                            &quot;<a class="contest-link" href="http://contestfx.com/cs/contest-item/demo-forex/"
-                                     target="_blank">Demo Forex</a>&quot; &ndash; 奖金池是3,000 USD.
-                        </li>
-                    </ul>
-                    <div class="clearfix">
-                        &nbsp;</div>
-                    <p>
-                        <a class="contests-more" href="http://www.contestfx.com/cs/" target="_blank">更多比赛 </a></p>
-                    <h3 class="styled-h" style="margin-top:0;">
-                        <i class="icon">&nbsp;</i><span class="styled-h-text">GoldMany附加服务</span></h3>
-                    <div class="note_block gray">
-                        <p>
-                            <strong>VPS-server</strong></p>
-                        <p>
-                            外汇交易者VPS-server是24/7 和免费进入远程交易终端. 连接到我们主要的MetaTrader4 交易服务器速度是非常快的; ping 速度少于3 毫秒!</p>
-                        <p>
-                            <a href="/operations/forex-vps/" target="_blank">更多关于VPS-server</a></p>
-                        <p>
-                            <strong>CopyFX - 跟单交易投资平台</strong></p>
-                        <p>
-                            CopyFX给投资者提供无需亲自操盘便可驰骋外汇市场的良机。在跟单交易平台框架下，投资者可与交易员合作，将其下单拷贝到自身的账户里。</p>
-                        <p>
-                            得益于CopyFX，经验丰富的交易员可通过跟单交易投资者佣金获取额外利润。</p>
-                        <p style="margin-bottom:0;">
-                            <a href="/investment/copyfx-service/" target="_blank">了解更多CopyFX</a></p>
-                    </div>
+
                     <div class="clearfix">
                         &nbsp;</div>
                     <h3 class="styled-h" style="margin-top:0;">
@@ -472,11 +347,6 @@
     <div id="right">
         <ul id="r-menu">
             <li>
-                <a href="/operations/bonuses-promotions/">赠金,计划和活动</a>
-
-
-            </li>
-            <li>
                 <a href="/operations/security/">资金安全</a>
 
 
@@ -486,21 +356,21 @@
 
 
             </li>
-            <li>
-                <a href="/operations/1000-up-leverage/">杠杆最大值1:1000</a>
+            {{--<li>--}}
+                {{--<a href="/operations/1000-up-leverage/">杠杆最大值1:1000</a>--}}
 
 
-            </li>
-            <li>
-                <a href="/operations/forex-contest/">外汇模拟账户比赛</a>
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="/operations/forex-contest/">外汇模拟账户比赛</a>--}}
 
 
-            </li>
-            <li>
-                <a href="/operations/forex-vps/">VPS外汇服务器</a>
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="/operations/forex-vps/">VPS外汇服务器</a>--}}
 
 
-            </li>
+            {{--</li>--}}
         </ul>
 
         @include('user.partials.right_bar')

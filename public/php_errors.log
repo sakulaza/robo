@@ -17,3 +17,5 @@
 [25-Sep-2016 08:19:28 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14
 [28-Sep-2016 06:32:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in K:\object\robo\app\Http\Controllers\ArticleController.php on line 18
 [28-Sep-2016 06:32:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Post' not found in K:\object\robo\app\Http\Controllers\ArticleController.php on line 17
+[07-Oct-2016 10:08:10 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14
+[07-Oct-2016 10:09:52 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14

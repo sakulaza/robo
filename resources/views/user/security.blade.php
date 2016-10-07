@@ -180,31 +180,7 @@
         <div style="position: relative; margin-bottom: 30px;">
             <img src="http://www.roboforex.com/files/filemanager/image3/structure/operations/security/security-banner.png"
                  style="width: 930px;"/>
-            <div style="text-align: justify;position: absolute;width: 330px;bottom: 10px;
-            left: 20px;padding: 20px;background: rgb(255, 255, 255);border: 1px solid #e3e3e3;
-            box-shadow: 0px 15px 60px -20px rgba(0, 0, 0, 0.43);">
-                <p>
-                    <span style="color: #005799; font-weight: bold;">GoldMany (CY) Ltd</span>,
-                    为GoldMany集团一员, 注册于塞浦路斯.
-                    公司收到塞浦路斯证券交易委员会的监管
-                    (<strong style="border-bottom: 1px dotted;cursor: help;" target="_blank"
-                                                title="CySEC为塞浦路斯的金融监管机构,
-                                                根据欧盟金融工具法规其为欧洲监管的一部分.
-                                                塞浦路斯证券交易委员会有权向公司颁发在欧盟进行金融活动的执照,.">
-                        CySEC</strong>),
-                    执照号191/13, 并且同时注册于
-                    <strong style="border-bottom: 1px dotted;cursor: help;" target="_blank"
-                                               title="英国FCA是英国金融服务领域的独立监管机构, 其
-                                               致力于稳定金融市场保护客户权益.">
-                        英国FCA</strong>,
-                    编号608962.</p>
-                <p style="text-align: center;margin-bottom: 10px;margin-top: 30px;">
-                    <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/eu/"
-                       style="text-decoration: none;color: #fff;margin-top: 0;width: 200px;
-                       height: 26px;line-height: 26px;"
-                       target="_blank" title="外汇交易涉及高风险, 可能导致失去您的整个投资"><span>注册</span></a>
-                </p>
-            </div>
+
         </div>
         <h3 style="text-align: center;color: #005799;">
             GoldMany如何保证您的资金安全？</h3>
@@ -263,7 +239,7 @@
                         <span>投资者赔偿基金会员</span></p>
                     <div>
                         <p style="margin-bottom: 0;">
-                            GoldMany (CY) Ltd为塞浦路斯投资者赔偿基金的一名会员.
+                            GoldMany Global Ltd为投资者赔偿基金的一名会员.
                             此基金在公司无法自行支付赔偿时能为客户提供了资金赔偿. 每位客户最高可获得2万欧元的赔偿.
                         </p>
                     </div>
@@ -277,7 +253,7 @@
                         <span>监管</span></p>
                     <div>
                         <p style="margin-bottom: 0;">
-                            GoldMany(CY)Ltd是一家欧洲外汇经纪商, 受到CySEC的监管, 执照号.191/13.
+                            Gold Many Global Ltd受到Vanuatu监管, 执照号14668.
                             此执照使得GoldMany需遵循高标准的服务并且保持透明度以及公司所有活动的公开化.
                         </p>
                     </div>
@@ -292,105 +268,34 @@
                     <div>
                         <p>
                             受益于GoldMany的赔偿机制，客户在账户出现负值时公司将会对账户进行清零处理，多一层保障.</p>
-                        <a href="http://cn.roboforex.com/operations/negative-balance-protection/"
-                           target="_blank">阅读更多...
-                        </a>
                     </div>
                 </div>
             </div>
         </div>
         <p style="text-align: center;margin-bottom: 60px;margin-top: 40px;">
-            <a class="results-btn rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/eu/"
+            <a class="results-btn rw-tip_holder"
+               {{--href="https://my.cn.roboforex.com/cs/register/eu/"--}}
                style="text-decoration: none;color: #fff;margin-top: 0;" target="_blank"
                title="">
                 <span>注册</span></a></p>
         <h3 style="text-align: center;color: #005799;">
-            GoldMany (CY) Ltd, Limassol, Cyprus</h3>
+            Gold Many Global Ltd</h3>
         <iframe frameborder="0" height="200" marginheight="0" marginwidth="0" scrolling="no"
-                src="http://www.openstreetmap.org/export/embed.html?bbox=33.066197633743286%2C34.687013314812425%2C33.0732786655426%2C34.69083316687489&amp;layer=mapnik&amp;marker=34.68892326287691%2C33.069738149642944&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent&amp;wmode=transparent"
+                src="http://www.google.cn/maps/embed?pb=!1m18!1m12!1m3!1d2477.890616768358!2d-3.3558591845110985!3d51.606892779651545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e17b3d388f2eb%3A0xc457cf1aad5d42ec!2sGraigwen+Service+Station+Ltd!5e0!3m2!1szh-CN!2scn!4v1475568028608"
                 style="opacity: 0.6;" width="930" wmode="Opaque">
 
         </iframe>
         <div class="contacts_holder">
-            <p style="text-align: center;position: absolute;bottom: 10px;right: 10px;background: #fff;
-            padding: 7px;margin-bottom: 0;">
-                <a href="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_1.JPG"
-                   rel="image_group" style="margin-right: 2px;">
-                    <img src="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_1_s.jpg"
-                            style="height: 100px;"/>
-                </a>
-                <a href="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_2.JPG"
-                        rel="image_group" style="margin-right: 2px;">
-                    <img src="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_2_s.jpg"
-                            style="height: 100px;"/>
-                </a>
-                <a href="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_3.JPG"
-                        rel="image_group">
-                    <img src="http://www.roboforex.com/files/filemanager/image3/structure/about/contacts/cy_office_3_s.jpg"
-                            style="height: 100px;"/>
-                </a>
-            </p>
-            <strong>商业地址</strong>: Soboh House 377, 28th October Street, office #1, CY-3107 Limassol, Cyprus<br/>
-            <strong>注册地址</strong>: 4 Modestou Panteli, office 005, Mesa Geitonia, PC 4003, Limassol, Cyprus<br/>
-            <strong>邮政信箱</strong>: 54176, CY-3721 Limassol, Cyprus<br/>
-            <strong>电话</strong>: +357 25 262660<br/>
-            <strong>邮箱</strong>:&nbsp;<a href="mailto:info@goldmany.com">info@goldmany.com</a><br/>
             <br/>
-            <strong>开放时间</strong>: 从上午 9点到下午6点 (UTC+2)<br/>
+            <strong>商业地址</strong>:  9 Pantygraigwen Road Pontypridd Mid Glamorgan United Kingdom CF37 2RR<br/>
+            <strong>电话</strong>: 400-800-0654<br/>
+            <strong>邮箱</strong>:&nbsp;<a href="mailto:support@goldmanyfx.com">support@goldmanyfx.com</a><br/>
             <br/>
-            <strong>注册号</strong>: HE310464<br/>
-            <strong>纳税人识别号</strong>: 12310464I
+            <strong>开放时间</strong>: 从上午 9点到下午6点 (UTC+0)<br/>
+            <br/>
+            {{--<strong>注册号</strong>: HE310464<br/>--}}
+            {{--<strong>纳税人识别号</strong>: 12310464I--}}
         </div>
-        <div style="border: 1px solid #F5F4F4;padding: 30px;margin-bottom: 20px;">
-            <h3 style="margin-top: 0;">
-                有用链接:</h3>
-            <ul style="list-style-type: none; padding-left: 5px; margin-bottom: 0;">
-                <li style="margin-bottom: 10px;">
-                    <i class="fa fa-angle-double-right" style="width: 15px;">&nbsp;</i> <a
-                            href="http://cn.roboforex.com/operations/security/mobile-verification/"
-                            target="_blank">通过手机验证</a>
-                </li>
-                <li style="margin-bottom: 10px;">
-                    <i class="fa fa-angle-double-right" style="width: 15px;">&nbsp;</i> <a
-                            href="http://cn.roboforex.com/operations/security/webcam-verification/"
-                            target="_blank">用摄像头拍照</a>
-                </li>
-                <li>
-                    <i class="fa fa-angle-double-right" style="width: 15px;">&nbsp;</i> <a
-                            href="http://cn.roboforex.com/operations/security/2-step-authentication/"
-                            target="_blank">两步验证</a>
-                </li>
-            </ul>
-        </div>
-        <script type="text/javascript">
-            $(function () {
-                $('a[href*=#]:not([href=#])').click(function () {
-                    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') &&
-                            location.hostname == this.hostname) {
-                        var target = $(this.hash);
-                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                        if (target.length) {
-                            $('html,body').animate({
-                                scrollTop: target.offset().top
-                            }, 1000);
-                            return false;
-                        }
-                    }
-                });
-            });
-        </script>
-        <script type="text/javascript">
-            function showFaqSText(id) {
-                var show = $('#faq-s_text' + id).css('display') == 'none' ? true : false;
-                $('.fl-answer').hide();
-
-                if (show) {
-                    $('#faq-s_text' + id).fadeIn();
-                } else {
-                    $('#faq-s_text' + id).hide();
-                }
-            }
-        </script>
     </div>
     <br/>
 

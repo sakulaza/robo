@@ -184,11 +184,7 @@
 
 
             </li>
-            <li >
-                <a href="/forex-affiliate/affiliate-accounts/"  >点差增加的交易账户</a>
 
-
-            </li>
             <li  class="selected" >
                 <a>"忠诚计划"</a>
 

@@ -154,11 +154,6 @@
     <div id="right">
         <ul id="r-menu">
             <li >
-                <a href="/operations/bonuses-promotions/"  >赠金,计划和活动</a>
-
-
-            </li>
-            <li >
                 <a href="/operations/verification/"  >账户验证</a>
 
 
@@ -168,21 +163,21 @@
 
 
             </li>
-            <li >
-                <a href="/operations/deposit-withdraw/"  >存款 / 取款</a>
+            {{--<li >--}}
+                {{--<a href="/operations/deposit-withdraw/"  >存款 / 取款</a>--}}
 
 
-            </li>
-            <li >
-                <a href="/operations/1000-up-leverage/"  >杠杆最大值1:1000</a>
+            {{--</li>--}}
+            {{--<li >--}}
+                {{--<a href="/operations/1000-up-leverage/"  >杠杆最大值1:1000</a>--}}
 
 
-            </li>
-            <li  class="selected" >
-                <a>外汇模拟账户比赛</a>
+            {{--</li>--}}
+            {{--<li  class="selected" >--}}
+                {{--<a>外汇模拟账户比赛</a>--}}
 
 
-            </li>
+            {{--</li>--}}
         </ul>
 
 

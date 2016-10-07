@@ -24,9 +24,9 @@
     <div class="clear"></div>
     <div class="risk-warning"><strong>风险提示<br>
             杠杆产品如外汇/差价合约存在高风险，您不应该冒险投入超过您所能承受的损失,
-            投资者有可能损失全部投入资金。请根据个人经济状况量力而行。交易之前，请务必清楚自身承受风险的能力。交易或投资时时请根据自身交易经验水平理性操作。基于其本身的特性复制交易订单服务会有额外的风险.如您对其中之风险<a
-                    href="https://my.robofx.com/files/document/general_risk_disclosure.pdf" target="_blank">risks
-                involved</a> 尚有不理解之处，请寻求第三方业内人士的独立建议。</strong></div>
+            投资者有可能损失全部投入资金。请根据个人经济状况量力而行。交易之前，请务必清楚自身承受风险的能力。
+            交易或投资时时请根据自身交易经验水平理性操作。基于其本身的特性复制交易订单服务会有额外的风险.
+            如您对其中之风险尚有不理解之处，请寻求第三方业内人士的独立建议。</strong></div>
 
     <div id="f-registration">
         <p style="text-align:left;font-weight: bold;">本网站含GoldMany集团公司的基本信息介绍：</p>

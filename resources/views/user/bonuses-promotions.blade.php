@@ -737,21 +737,21 @@
 
 
             </li>
-            <li>
-                <a href="/operations/1000-up-leverage/">杠杆最大值1:1000</a>
+            {{--<li>--}}
+                {{--<a href="/operations/1000-up-leverage/">杠杆最大值1:1000</a>--}}
 
 
-            </li>
-            <li>
-                <a href="/operations/forex-contest/">外汇模拟账户比赛</a>
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="/operations/forex-contest/">外汇模拟账户比赛</a>--}}
 
 
-            </li>
-            <li>
-                <a href="/operations/forex-vps/">VPS外汇服务器</a>
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="/operations/forex-vps/">VPS外汇服务器</a>--}}
 
 
-            </li>
+            {{--</li>--}}
         </ul>
 
         @include('user.partials.right_bar')
