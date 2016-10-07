@@ -586,7 +586,7 @@
             {{--</div>--}}
             <div class="terminal-link">
                 <img src="/images/operations/e2512aec44.png"/>
-                <a href="/operations/bonuses-promotions/commission-free/"
+                <a href="/operations/commission-free/"
                    style="text-decoration: none;" target="_blank">存款到交易账户没有手续费
                 </a>
             </div>

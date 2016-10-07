@@ -5,14 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <meta name="w1-verification" content="117844634768" />
-    <link rel="canonical" href="/operations/deposit-withdrawal/" />
 
 
-    <title>自动提款系统</title>
-    <meta property="og:title" content="自动提款系统" />
+    <title>出入金无手续费</title>
+    <meta property="og:title" content="出入金无手续费" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="/operations/deposit-withdraw/auto-withdrawal" />
+    <meta property="og:url" content="/operations/bonuses-promotions/commission-free" />
 
 @endsection
 
@@ -21,8 +19,7 @@
     <div id="path">
         <a href="/" >首页</a>
         /                                              <a href="/operations/" >交易服务</a>
-        /                                              <a href="/operations/deposit-withdraw/" >存款 / 取款</a>
-        /                                              自动提款系统
+        /                                              出入金无手续费
     </div>
 
 
@@ -30,52 +27,55 @@
 
 @section('left')
     <div id="left">
-        <h1 >自动提款系统</h1>
-        <div ><p>
-                <img alt="" src="http://cn.roboforex.com/files/filemanager/images2/operations/deposit-withdrawal/withdrawal%20cn%20copy.jpg" style="width: 648px; height: 235px;" /></p>
-            <p>
-                自动提款系统是取款请求自动处理的服务,使资金转账的时间缩短至1分钟. 请求不仅在公司的工作时间, 而且在周末, 节假日, 甚至晚上都能得到处理.</p>
-            <div style="position: relative;margin-bottom: 40px;">
-                <div class="card" style="
-    width: 540px;
-    margin: 0 auto;
-    border-bottom: 0px;
-    padding: 20px;
-    background-color: rgba(98, 173, 249, 0.15);
-">
-                    <p style="margin-bottom: 0;text-align: center;">
-                        <strong>您知道现在RoboForex的客户可以每月有两次无手续费出金的机会？</strong><br />
-                        查阅<a href="/operations/bonuses-promotions/free-withdrawal/" target="_blank">我们的日历</a>来找到您下次何时可以无手续费出金!</p>
-                </div>
-                <img src="http://my.roboforex.com/files/filemanager/image3/letters/sh-sep-up.png" style="width: 100%; height: 20px;position: absolute;bottom: 0;" /></div>
-
-            <p>
-                请求自动处理的比例在不断的增加. 目前, 85%客户请求用这个方式处理.</p>
+        <h1 >出入金无手续费</h1>
+        <div ><style type="text/css">
+                .btn_link {
+                    white-space: nowrap;
+                    text-align: center;
+                    overflow: hidden;
+                    display: inline-block;
+                    padding: 6px 8px;
+                    font-size: 14px;
+                    line-height: 19px;
+                    margin: 0px;
+                    text-align: center;
+                    color: #fff !important;
+                    text-shadow: none;
+                    vertical-align: middle;
+                    cursor: pointer;
+                    text-decoration: none;
+                    border-color: #a9a9a9;
+                    background: #286a95;
+                    position: relative;
+                    width: 228px;
+                    -webkit-border-radius: 4px;
+                    -moz-border-radius: 4px;
+                    border-radius: 4px;
+                    -webkit-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                    -moz-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                    -ms-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                    -o-box-shadow: 1px 3px 6px 0px rgba(0, 0, 0, 0.4);
+                    box-shadow: 1px 2px 6px 0px rgba(0, 0, 0, 0.4);
+                }</style>
+            <div class="page-banner no-commission">
+                <div class="title" style="margin-top: 20px;">
+                    免手续费入金</div>
+                <img src="http://cn.roboforex.com/files/filemanager/images2/operations/no-commission.jpg" style="width: 648px; height: 212px;" /></div>
             <h2>
-                自动提款系统的主要优点:</h2>
-            <div>
-                <ul class="terms">
-                    <li>
-                        <p>
-                            <strong>请求处理时间少于1分钟</strong><br />
-                            资金提取包含2个阶段: 取款请求的处理和请求的执行.程式自动化大大加快了资金提取的速度.</p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>系统24小时运行</strong><br />
-                            取款系统1天24小时, 1周7天运行. 所有我们的客户可以在任何时候,甚至晚上,周末或节假日提款.</p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>取款系统是一个简单通用的系统</strong><br />
-                            自动提款系统可用于通过下列支付系统存款的所有类型的会员中心: WebMoney, Skrill (Moneybookers), NETELLER. 只要在会员中心做出提款申请.</p>
-                    </li>
-                </ul>
-            </div>
-            <p class="note_block">
-                <strong>请注意</strong>, RoboForex有权不给出任何理由拒绝提供客户这个服务或更改这个服务的条款和条件.</p>
+                存款到交易账户没有手续费</h2>
             <p>
-                更多关于提款的方式和请求处理时间的详细信息可以在&quot;<a href="/operations/deposit-withdraw" target="_blank">提取资金费用</a>&quot;部分找到.</p>
+                RoboForex承担所有入金相关费用，客户入金时手续费永远为0。因而客户入金时应考虑支付方式便利性而非成本优势。</p>
+            <p style="text-align:center;">
+                <a class="btn_link rw-tip_holder" href="https://my.cn.roboforex.com/cs/register/?utm_source=site&utm_medium=button&utm_campaign=commission_free" style="text-decoration: none;/* background: #D8452A; */width: 250px;" target="_blank"><span>开始和存款交易帐户</span></a>
+            </p>
+            <p>
+                RoboForex公司实现以下方案补偿您的手续费:</p>
+            <p>
+                在交易账户入金时有一部分金额做为手续费由支付系统收取。公司在处理入金时会将此手续费返还至客户账户，虽然在存取款纪录里会显示转账资金与手续费返还两笔入账，但此操作不会给入金带来任何延迟或不便：您的转账和回赠手续费将同步入账。RoboForex对此回赠手续费无任何使用限制。</p>
+            <p>
+                <img alt="" src="http://cn.roboforex.com/files/filemanager/image/infografika_china.jpg" style="width: 648px; height: 183px;" /></p>
+            <p>
+                <strong>例子:</strong> 您通过WebMoney系统存入 $500. 这个系统的手续费是支付的0.8%, 即$4. 当您的交易被处理, 这个手续费由我们公司补偿,总资金是$500存入到您的交易账户. 要了解更多详细的信息关于存入资金到交易账户的方法和处理应用时间, 请访问我们的网站, &ldquo;存款/取款&rdquo; 部分.</p>
         </div>
     </div>
 
@@ -91,81 +91,14 @@
 
 
             </li>
-            <li  class="selected" >
+            <li >
                 <a href="/operations/deposit-withdraw/"  >存款 / 取款</a>
 
+            </li>
+            <li class="selected">
+                <a  >出入金无手续费</a>
 
-                <ul>
-                    <li >
-                        <a href="/operations/deposit-withdraw/payoneer/"  >RoboForex预付Payoneer万事达卡</a>
-                    </li>
-                    <li  class="selected" >
-                        <a>自动提款系统</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/transfers/"  >内部转账</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/exchange-rate/"  >汇率</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/bank-transfer/"  >Bank Transfer</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/bank-transfer-cy/"  >Bank Transfer (Barclays Bank PLC)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/fast-bank-transfer/"  >Fast Bank Transfer</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/neosurf/"  >Neosurf (意大利, 比利时, 法国, 西班牙)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/ideal/"  >iDEAL (荷兰)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/multibanco/"  >Multibanco (葡萄牙)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/teleingreso/"  >Teleingreso (西班牙)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/giropay/"  >Giropay (德国)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/sofort/"  >Sofort (德国, 奥地利, 法国)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/webmoney/"  >WebMoney</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/skrill-moneybookers/"  >Skrill (Moneybookers)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/neteller/"  >NETELLER</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/cashu/"  >CashU</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/euteller/"  >Euteller (芬兰)</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/visa-mastercard/"  >VISA/MasterCard</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/payoneer-mastercard/"  >Payoneer MasterCard</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/china-unionpay/"  >China UnionPay</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/fasapay/"  >FasaPay</a>
-                    </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/epayments/"  >ePayments</a>
-                    </li>
-                </ul>
+
             </li>
 
         </ul>

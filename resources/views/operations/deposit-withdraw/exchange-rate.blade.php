@@ -6,13 +6,12 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="w1-verification" content="117844634768" />
-    <link rel="canonical" href="/operations/deposit-withdrawal/" />
 
 
-    <title>自动提款系统</title>
-    <meta property="og:title" content="自动提款系统" />
+    <title>汇率</title>
+    <meta property="og:title" content="汇率" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="/operations/deposit-withdraw/auto-withdrawal" />
+    <meta property="og:url" content="/operations/deposit-withdraw/exchange-rate" />
 
 @endsection
 
@@ -22,7 +21,7 @@
         <a href="/" >首页</a>
         /                                              <a href="/operations/" >交易服务</a>
         /                                              <a href="/operations/deposit-withdraw/" >存款 / 取款</a>
-        /                                              自动提款系统
+        /                                              汇率
     </div>
 
 
@@ -30,57 +29,99 @@
 
 @section('left')
     <div id="left">
-        <h1 >自动提款系统</h1>
-        <div ><p>
-                <img alt="" src="http://cn.roboforex.com/files/filemanager/images2/operations/deposit-withdrawal/withdrawal%20cn%20copy.jpg" style="width: 648px; height: 235px;" /></p>
-            <p>
-                自动提款系统是取款请求自动处理的服务,使资金转账的时间缩短至1分钟. 请求不仅在公司的工作时间, 而且在周末, 节假日, 甚至晚上都能得到处理.</p>
-            <div style="position: relative;margin-bottom: 40px;">
-                <div class="card" style="
-    width: 540px;
-    margin: 0 auto;
-    border-bottom: 0px;
-    padding: 20px;
-    background-color: rgba(98, 173, 249, 0.15);
-">
-                    <p style="margin-bottom: 0;text-align: center;">
-                        <strong>您知道现在RoboForex的客户可以每月有两次无手续费出金的机会？</strong><br />
-                        查阅<a href="/operations/bonuses-promotions/free-withdrawal/" target="_blank">我们的日历</a>来找到您下次何时可以无手续费出金!</p>
-                </div>
-                <img src="http://my.roboforex.com/files/filemanager/image3/letters/sh-sep-up.png" style="width: 100%; height: 20px;position: absolute;bottom: 0;" /></div>
+        <h1>汇率</h1>
+        <div></div>
 
-            <p>
-                请求自动处理的比例在不断的增加. 目前, 85%客户请求用这个方式处理.</p>
-            <h2>
-                自动提款系统的主要优点:</h2>
-            <div>
-                <ul class="terms">
-                    <li>
-                        <p>
-                            <strong>请求处理时间少于1分钟</strong><br />
-                            资金提取包含2个阶段: 取款请求的处理和请求的执行.程式自动化大大加快了资金提取的速度.</p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>系统24小时运行</strong><br />
-                            取款系统1天24小时, 1周7天运行. 所有我们的客户可以在任何时候,甚至晚上,周末或节假日提款.</p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>取款系统是一个简单通用的系统</strong><br />
-                            自动提款系统可用于通过下列支付系统存款的所有类型的会员中心: WebMoney, Skrill (Moneybookers), NETELLER. 只要在会员中心做出提款申请.</p>
-                    </li>
-                </ul>
+
+        <div class="exchanges">
+            <div class="exchanges-info">
+                <table class="table">
+                    <tr>
+                        <th  class="tc-tl center"  >&nbsp;</th>
+
+                        <th colspan="2" class="center " >存入资金</th>
+
+                        <th colspan="2" class="tc-tr center" >取款</th>
+                    </tr>
+                    <tr>
+                        <td width="20%" >账户货币</td>
+
+                        <td width="20%" >转账货币</td>
+                        <td width="20%" >比率</td>
+
+                        <td width="20%" >转账货币</td>
+                        <td width="20%" class="last" >比率</td>
+                    </tr>
+                    <tr>
+                        <td class="big center tc-bl" rowspan="2" >USD</td>
+
+                        <td>EUR</td>
+                        <td>1.1001</td>
+
+                        <td>EUR</td>
+                        <td class=" last ">1.1447</td>
+                    </tr>
+                    <tr >
+
+                        <td>CNY</td>
+                        <td>6.6713</td>
+
+                        <td>CNY</td>
+                        <td class=" last ">6.5045</td>
+                    </tr>
+                    <tr >
+                        <td class="big center tc-bl" rowspan="2" >EUR</td>
+
+                        <td>USD</td>
+                        <td>1.1336</td>
+
+                        <td>USD</td>
+                        <td class=" last ">1.0889</td>
+                    </tr>
+                    <tr >
+
+                        <td>CNY</td>
+                        <td>7.4506</td>
+
+                        <td>CNY</td>
+                        <td class=" last ">7.2644</td>
+                    </tr>
+                    <tr                                              class="last">
+                        <td class="big center tc-bl" rowspan="3" >PLN</td>
+
+                        <td>CNY</td>
+                        <td>0.5751</td>
+
+                        <td>CNY</td>
+                        <td class=" last last-lcor">0.5923</td>
+                    </tr>
+                    <tr >
+
+                        <td>EUR</td>
+                        <td>0.2380</td>
+
+                        <td>EUR</td>
+                        <td class=" last ">0.2264</td>
+                    </tr>
+                    <tr                                              class="last">
+
+                        <td>USD</td>
+                        <td>0.2646</td>
+
+                        <td>USD</td>
+                        <td class="tc-br last ">0.2541</td>
+                    </tr>
+                    <tr >
+                    </tr>
+                </table>
+                <div>最后更新: 07.10.2016</div>
             </div>
-            <p class="note_block">
-                <strong>请注意</strong>, RoboForex有权不给出任何理由拒绝提供客户这个服务或更改这个服务的条款和条件.</p>
-            <p>
-                更多关于提款的方式和请求处理时间的详细信息可以在&quot;<a href="/operations/deposit-withdraw" target="_blank">提取资金费用</a>&quot;部分找到.</p>
+
         </div>
+
     </div>
 
-
-@endsection
+        @endsection
 
 @section('right')
 
@@ -99,14 +140,14 @@
                     <li >
                         <a href="/operations/deposit-withdraw/payoneer/"  >RoboForex预付Payoneer万事达卡</a>
                     </li>
-                    <li  class="selected" >
+                    <li  href="/operations/deposit-withdraw/auto-withdrawal/">
                         <a>自动提款系统</a>
                     </li>
                     <li >
                         <a href="/operations/deposit-withdraw/transfers/"  >内部转账</a>
                     </li>
-                    <li >
-                        <a href="/operations/deposit-withdraw/exchange-rate/"  >汇率</a>
+                    <li class="selected">
+                        <a  >汇率</a>
                     </li>
                     <li >
                         <a href="/operations/deposit-withdraw/bank-transfer/"  >Bank Transfer</a>
