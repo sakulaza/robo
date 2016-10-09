@@ -625,9 +625,9 @@
             </li>
             <!-- <li rel="tab2">
               <i class="fa fa-gift" style="margin-right: 5px; color: #CC0701">&nbsp;</i>&nbsp;Акции</li> -->
-            <li rel="tab3">
-                <i class="fa fa-university" style="margin-right: 5px;">&nbsp;</i>&nbsp;快捷支付
-            </li>
+            {{--<li rel="tab3">--}}
+                {{--<i class="fa fa-university" style="margin-right: 5px;">&nbsp;</i>&nbsp;快捷支付--}}
+            {{--</li>--}}
             {{--<li rel="tab4">--}}
                 {{--<i class="fa fa-paper-plane" style="margin-right: 5px;">&nbsp;</i>&nbsp;电子支付--}}
             {{--</li>--}}
@@ -696,12 +696,12 @@
                     {{--</span>--}}
                 {{--</a>--}}
             {{--</div>--}}
-            <div style="position: absolute; margin-left: 10px; width: 600px;">
-                <input id="show-withdraw-cards" style="float: left; margin-top: 1px; margin-right: 10px;"
-                       type="checkbox"/>
-                <p style="margin: 0">
-                    只显示那些可用于提取资金的系统</p>
-            </div>
+            {{--<div style="position: absolute; margin-left: 10px; width: 600px;">--}}
+                {{--<input id="show-withdraw-cards" style="float: left; margin-top: 1px; margin-right: 10px;"--}}
+                       {{--type="checkbox"/>--}}
+                {{--<p style="margin: 0">--}}
+                    {{--只显示那些可用于提取资金的系统</p>--}}
+            {{--</div>--}}
             <div class="tab_content" id="tab1" style="display: block;">
                 <h3 style="font-size: 20px; margin-left: 10px; margin-top: 40px; color: #344964;">
                     常用支付方式</h3>
@@ -813,7 +813,7 @@
                             宝付</h3>
                         <img alt="" src="/images/operations/baofu.png"/>
                         <ul class="item-title payment-grid">
-                            {{--<br/><br/><br/>--}}
+                            <br/><br/><br/>
                             <li>
                                 <strong>货币:</strong> CNY
                             </li>
@@ -833,7 +833,7 @@
                                 <strong>取款金额:</strong> 从100 USD
                             </li>
                         </ul>
-                        {{--<br/><br/><br/><br/>--}}
+                        <br/><br/><br/><br/>
                         <p class="more-link_holder">
                             <a class="more-link" href="/operations/deposit-withdraw/skrill-moneybookers/"
                                target="_blank"><span>了解更多</span></a></p>
