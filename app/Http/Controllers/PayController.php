@@ -51,7 +51,7 @@ class PayController extends Controller
         $v['quantity'] = 1;
         $v['service'] = "create_partner_trade_by_buyer";
         $v['subject'] = "doney在线充值";
-        $Md5key="abcdefg";//md5密钥（KEY）
+        $Md5key="me6txh9l9ljec2mc";//md5密钥（KEY）
         $MARK = "|";
         $v['payUrl']="https://pay.asiaswift.com/payindex";//借贷混合
         $v['Signature'] = md5($v['MemberID'].$MARK.$v['PayID'].$MARK.$v['TradeDate'].$MARK.$v['TransID'].
