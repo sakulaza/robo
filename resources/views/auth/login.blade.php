@@ -113,7 +113,7 @@
             <h2>会员登录</h2>
             <div class="input">
                 <label>用户名：</label>
-                <input type="text" id="username" name="username" size="22" class="input-text" value="{{old('username')}}">
+                <input type="text" id="username" name="name" size="22" class="input-text" value="{{old('username')}}">
             </div>
             <div class="input">
                 <label>密码：</label>
@@ -127,7 +127,7 @@
             <div class="take">
                 <input type="checkbox" name="cookietime" value="2592000" id="cookietime"> 记住用户名
                 <a href="index.php?m=member&c=index&a=public_get_password_type&siteid=1" class="blue">密码找回</a><br />
-                <p>{{$errors->all()}}</p>
+                <p style="color: red;">{{$errors->first()}}</p>
                 <div class="submit"><input type="submit" name="dosubmit" id="dosubmit" value="登录"></div></div>
         </form>
     </div>

@@ -11,7 +11,7 @@
         </div>
         <div class="form-group">
             <label for="subtitle" class="col-md-2 control-label">
-                副标题
+                URL
             </label>
             <div class="col-md-10">
                 <input type="text" class="form-control" name="subtitle"

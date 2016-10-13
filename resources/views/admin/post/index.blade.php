@@ -24,7 +24,7 @@
                     <tr>
                         <th>发布时间</th>
                         <th>标题</th>
-                        <th>副标题</th>
+                        <th>URL</th>
                         <th data-sortable="false">操作</th>
                     </tr>
                     </thead>
