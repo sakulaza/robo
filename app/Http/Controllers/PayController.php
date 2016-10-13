@@ -43,7 +43,7 @@ class PayController extends Controller
         $v['TerminalID'] = 19766;
         $v['TradeDate'] = date('YmdHis');
         $v['TransID'] = substr($v['TradeDate'],0,10).mt_rand(1000000000,9999999999);
-        $Md5key="me6txh9l9ljec2mc";//md5密钥（KEY）
+        $Md5key="me6txh9lqjecemc";//md5密钥（KEY）
         $MARK = "|";
         $v['PageUrl']="http://www3.goldmanyfx.com/pay_recharge";//借贷混合
         $v['or'] = $v['MemberID'].$MARK.$v['PayID'].$MARK.$v['TradeDate'].$MARK.$v['TransID'].
