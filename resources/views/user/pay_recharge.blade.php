@@ -67,6 +67,7 @@
                 </table>
                 <div class="bk10"></div>
                 <form action="https://pay.asiaswift.com/payindex" method="POST" target="_blank">
+                {{--<form action="http://tgw.bfopay.com/payindex" method="POST" target="_blank">--}}
                     <p style="visibility: hidden" rel="{{$v['or']}}"></p>
                     <input type="hidden" name="InterfaceVersion" value="{{$v['InterfaceVersion']}}" />
                     <input type="hidden" name="KeyType" value="{{$v['KeyType']}}" />

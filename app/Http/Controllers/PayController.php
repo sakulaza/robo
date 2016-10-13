@@ -32,6 +32,7 @@ class PayController extends Controller
         $v['InterfaceVersion'] = '4.0';
         $v['KeyType'] = 1;
         $v['MemberID'] = 300414;
+        //$v['MemberID'] = 100000178;
         $v['NoticeType'] = 1;
         $v['OrderMoney'] = $info['price']*100;
         $v['PayID'] = '';
@@ -41,11 +42,13 @@ class PayController extends Controller
         $v['AdditionalInfo'] = '';
         $v['ReturnUrl'] = 'http://www3.goldmanyfx.com/bfopay_repond';
         $v['TerminalID'] = 19766;
+        //$v['TerminalID'] = 10000001;
         $v['TradeDate'] = date('YmdHis');
         $v['TransID'] = substr($v['TradeDate'],0,10).mt_rand(1000000000,9999999999);
-        $Md5key="me6txh9lqjecemc";//md5密钥（KEY）
+        $Md5key="me6txh9lqljec2mc";//md5密钥（KEY）
+        //$Md5key="abcdefg";//md5密钥（KEY）
         $MARK = "|";
-        $v['PageUrl']="http://www3.goldmanyfx.com/pay_recharge";//借贷混合
+        $v['PageUrl']="http://www3.goldmanyfx.com/bfopay_repond";//借贷混合
         $v['or'] = $v['MemberID'].$MARK.$v['PayID'].$MARK.$v['TradeDate'].$MARK.$v['TransID'].
             $MARK.$v['OrderMoney'].$MARK.$v['PageUrl'].$MARK.$v['ReturnUrl'].$MARK.$v['NoticeType'].
             $MARK.$Md5key;
