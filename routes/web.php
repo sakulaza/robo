@@ -20,6 +20,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 Route::get('/pay', 'PayController@index');
 Route::post('/pay_recharge', 'PayController@recharge');
+Route::get('/pay_recharge', 'PayController@recharge');
 
 Route::get('/about/{type?}','ArticleController@about');
 Route::get('/trade-conditions/{type?}','ArticleController@trade_conditions');

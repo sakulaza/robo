@@ -75,21 +75,13 @@
                     <input type="hidden" name="PageUrl" value="{{$v['PageUrl']}}" />
                     <input type="hidden" name="PayID" value="{{$v['PayID']}}" />
                     <input type="hidden" name="ProductName" value="{{$v['ProductName']}}" />
+                    <input type="hidden" name="Amount" value="{{$v['Amount']}}" />
+                    <input type="hidden" name="Username" value="{{$v['Username']}}" />
+                    <input type="hidden" name="AdditionalInfo" value="{{$v['AdditionalInfo']}}" />
                     <input type="hidden" name="ReturnUrl" value="{{$v['ReturnUrl']}}" />
                     <input type="hidden" name="TerminalID" value="{{$v['TerminalID']}}" />
                     <input type="hidden" name="TradeDate" value="{{$v['TradeDate']}}" />
                     <input type="hidden" name="TransID" value="{{$v['TransID']}}" />
-                    <input type="hidden" name="_input_charset" value="utf-8" />
-                    <input type="hidden" name="body" value="{{$v['body']}}" />
-                    <input type="hidden" name="buyer_email" value="{{$v['buyer_email']}}" />
-                    <input type="hidden" name="logistics_fee" value="{{$v['logistics_fee']}}" />
-                    <input type="hidden" name="logistics_payment" value="{{$v['logistics_payment']}}" />
-                    <input type="hidden" name="logistics_type" value="{{$v['logistics_type']}}" />
-                    <input type="hidden" name="out_trade_no" value="{{$v['out_trade_no']}}" />
-                    <input type="hidden" name="payment_type" value="{{$v['payment_type']}}" />
-                    <input type="hidden" name="quantity" value="{{$v['quantity']}}" />
-                    <input type="hidden" name="service" value="{{$v['service']}}" />
-                    <input type="hidden" name="subject" value="{{$v['subject']}}" />
                     <input type="hidden" name="Signature" value="{{$v['Signature']}}" />
                     <input type="submit" value="确认并支付" class="button" />
                 </form>
