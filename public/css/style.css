@@ -282,7 +282,7 @@ i.tl_main_select {
 #h-logo .quote-wrapper { width: 232px; overflow: hidden; position: absolute; bottom: 0; left: 71px; font-size: 11px; text-transform: uppercase; color: #888888; }
 #h-logo .quote { margin: 0; white-space: nowrap; }
 #h-logo .winter-hat { display: none; }
-#h-logo.winter { position: relative; margin: 17px 35px 0 0; }
+#h-logo.winter { position: relative; margin: -3px 35px 0 0; }
 #h-logo.winter .winter-hat { background: url('../images/winter_hat.png'); content: ""; position: absolute; top: -28px; left: -14px; width: 77px; height: 91px; display: block; }
 /* при включении НГ-лого проверить позицию - картинка может быть опущенной на 7px */
 #h-logo .ny a img { height: 75px; margin: 0 44px 0 0; }

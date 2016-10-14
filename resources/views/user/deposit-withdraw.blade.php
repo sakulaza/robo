@@ -614,7 +614,9 @@
             <div class="terminal-link" style="border: none;">
                 <img src="/images/operations/e2512aec44.png"/>
                 <a href="/operations/deposit-withdraw/payoneer/"
-                   style="text-decoration: none;" target="_blank">GoldMany Payoneer万事达卡</a>
+                   style="text-decoration: none;" target="_blank">
+                    GoldMany Payoneer万事达卡
+                </a>
             </div>
         </div>
     </div>
