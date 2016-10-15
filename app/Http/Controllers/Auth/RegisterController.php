@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
+use App\Http\Requests\InfoRequest;
 use App\User;
 use Validator;
 use App\Http\Controllers\Controller;
@@ -67,5 +68,26 @@ class RegisterController extends Controller
             'email' => $data['email'],
             'password' => bcrypt($data['password']),
         ]);
+    }
+
+    /**
+     * Email the contact request
+     *
+     * @param ContactMeRequest $request
+     * @return Redirect
+     */
+    public function sendInfo(InfoRequest $request)
+    {
+        $data = $request->only('name', 'email', 'phone');
+        $data['messageLines'] = explode("\n", $request->get('message'));
+
+        Mail::send('emails.contact', $data, function ($message) use ($data) {
+            $message->subject('Blog Contact Form: '.$data['name'])
+                ->to(config('blog.contact_email'))
+                ->replyTo($data['email']);
+        });
+
+        return back()
+            ->withSuccess("Thank you for your message. It has been sent.");
     }
 }

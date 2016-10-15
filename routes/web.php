@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 Auth::routes();
+Route::post('register_email', 'RegisterController@sendInfo');
 
 Route::get('/home', 'HomeController@index');
 Route::get('/pay', 'PayController@index');
