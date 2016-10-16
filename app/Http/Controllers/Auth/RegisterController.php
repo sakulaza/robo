@@ -87,4 +87,9 @@ class RegisterController extends Controller
 
         return view('success.message',['message'=>"邮件发送成功，感谢您提供的资料。"]);
     }
+
+    public function showForm()
+    {
+        return view('auth.register_cp');
+    }
 }

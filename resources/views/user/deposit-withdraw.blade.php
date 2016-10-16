@@ -754,10 +754,10 @@
                                 <strong>取款金额:</strong> 从 10 USD
                             </li>
                         </ul>
-                        <p class="more-link_holder">
-                            <a class="more-link" href="/operations/deposit-withdraw/visa-mastercard-cy/"
-                               target="_blank"><span>了解更多</span></a>
-                        </p>
+                        {{--<p class="more-link_holder">--}}
+                            {{--<a class="more-link" href="/operations/deposit-withdraw/visa-mastercard-cy/"--}}
+                               {{--target="_blank"><span>了解更多</span></a>--}}
+                        {{--</p>--}}
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
                                {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
@@ -837,9 +837,9 @@
                             </li>
                         </ul>
                         <br/><br/><br/><br/>
-                        <p class="more-link_holder">
-                            <a class="more-link" href="/operations/deposit-withdraw/skrill-moneybookers/"
-                               target="_blank"><span>了解更多</span></a></p>
+                        {{--<p class="more-link_holder">--}}
+                            {{--<a class="more-link" href="/operations/deposit-withdraw/skrill-moneybookers/"--}}
+                               {{--target="_blank"><span>了解更多</span></a></p>--}}
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
                                {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}

@@ -18,7 +18,7 @@
 </head>
 <body>
 <div id="header">
-    <div class="logo"><a href="">
+    <div class="logo"><a href="/home">
             <img src="/images/logo.png" height="60" /></a>
         <h3>会员中心</h3>
     </div>

@@ -23,28 +23,41 @@
         </div>
     </div>
     <div id="t-user" class="user-lk-top-panel">
-        <a href="https://my.cn.GoldMany.com/cs" id="tu-login" class="lk-top-link">
-            <i class="fa fa-lock"></i>
-            <span>登陆会员中心</span>
-        </a>
-        <form id="tu-auth" method="post" action="https://my.cn.GoldMany.com/cs/login/">
-            <p>
-                <input id="tua-email" name="login[email]" placeholder="E-mail" class="fText" value="">
-                <input type="password" name="login[password]" id="tua-password" placeholder="密码" class="fText"
-                       value="">
-                <input name="login[from_site]" type="hidden" value="1">
-                <span class="fSubmit"><span>登录</span></span>
-                <button type="submit" class="fSubmit" id="tua-submit" style="display: none;">登录</button>
-            </p>
-            <p>
-                <a href="https://my.cn.GoldMany.com/cs/remind/">忘记密码?</a>
-            </p>
-        </form>
+        @if(empty(Auth::user()))
+            <a href="/login"  class="lk-top-link">
+                <i class="fa fa-lock"></i>
+                <span>登陆会员中心</span>
+            </a>
+            <a href="/register"  class="lk-top-link">
+                <i class="fa fa-pencil-square-o"></i>
+                <span>注册</span>
+            </a>
+        @else
+            <a id="tu-login" class="lk-top-link">
+                <i class="fa fa-lock"></i>
+                <span>你好 {{Auth::user()->name}}</span>
+            </a>
+            <a href="/logout"  class="lk-top-link">
+                <i class="fa fa-pencil-square-o"></i>
+                <span>退出</span>
+            </a>
+        @endif
 
-        <a href="https://my.cn.GoldMany.com/cs/register/" id="tu-registration" class="lk-top-link">
-            <i class="fa fa-pencil-square-o"></i>
-            <span>注册</span>
-        </a>
+        {{--<form id="tu-auth" method="post" action="https://my.cn.GoldMany.com/cs/login/">--}}
+            {{--<p>--}}
+                {{--<input id="tua-email" name="login[email]" placeholder="E-mail" class="fText" value="">--}}
+                {{--<input type="password" name="login[password]" id="tua-password" placeholder="密码" class="fText"--}}
+                       {{--value="">--}}
+                {{--<input name="login[from_site]" type="hidden" value="1">--}}
+                {{--<span class="fSubmit"><span>登录</span></span>--}}
+                {{--<button type="submit" class="fSubmit" id="tua-submit" style="display: none;">登录</button>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<a href="https://my.cn.GoldMany.com/cs/remind/">忘记密码?</a>--}}
+            {{--</p>--}}
+        {{--</form>--}}
+
+
     </div>
 
     <form id="t-search" action="http://cn.GoldMany.com/search/" method="get">

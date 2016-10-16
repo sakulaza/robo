@@ -141,10 +141,7 @@
 
         fbq('init', '240223389695091');
         fbq('track', "PageView");</script>
-    <noscript>&lt;img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=240223389695091&amp;ev=PageView&amp;noscript=1"
-        /&gt;
-    </noscript>
+
     <!-- End Facebook Pixel Code -->
 
     <script type="text/javascript">

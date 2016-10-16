@@ -19,6 +19,8 @@ Route::get('/phpinfo', function () {
     echo phpinfo();
 });
 
+Route::get('/logout', 'Auth\LoginController@logout');
+Route::get('/add_user', 'Auth\RegisterController@showForm');
 Auth::routes();
 Route::post('register_email', 'Auth\RegisterController@sendInfo');
 
