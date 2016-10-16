@@ -117,6 +117,15 @@ return [
         'mobile' => '手机号码',
         'password' => '密码',
         'role_id' => '会员属性',
+
+        'real_name' => '真实姓名',
+        'country' => '国籍',
+        'type' => '证件类型',
+        'idcard' => '证件号',
+        'address' => '住址',
+        'email' => '邮箱',
+        'bankaccount' => '银行帐号',
+
     ],
 
 ];

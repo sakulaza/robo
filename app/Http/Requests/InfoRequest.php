@@ -24,9 +24,16 @@ class InfoRequest extends FormRequest
     public function rules()
     {
         return [
-            'name' => 'required',
-            'email' => 'required|email',
-            'message' => 'required',
+            'real_name' => 'required',
+            'country' => 'required',
+            'type' => 'required',
+            'idcard' => 'required',
+            'address' => 'required',
+            'email' => 'required',
+            'mobile' => 'required',
+            'bankaccount' => 'required',
+            //'email' => 'required|email',
+           // 'message' => 'required',
         ];
     }
 }

@@ -15,8 +15,12 @@ Route::get('/', function () {
     return view('user.home');
 });
 
+Route::get('/phpinfo', function () {
+    echo phpinfo();
+});
+
 Auth::routes();
-Route::post('register_email', 'RegisterController@sendInfo');
+Route::post('register_email', 'Auth\RegisterController@sendInfo');
 
 Route::get('/home', 'HomeController@index');
 Route::get('/pay', 'PayController@index');

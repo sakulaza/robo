@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Auth;
 
 use App\Http\Requests\InfoRequest;
 use App\User;
+use Illuminate\Support\Facades\Mail;
 use Validator;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
@@ -78,16 +79,12 @@ class RegisterController extends Controller
      */
     public function sendInfo(InfoRequest $request)
     {
-        $data = $request->only('name', 'email', 'phone');
-        $data['messageLines'] = explode("\n", $request->get('message'));
-
-        Mail::send('emails.contact', $data, function ($message) use ($data) {
-            $message->subject('Blog Contact Form: '.$data['name'])
-                ->to(config('blog.contact_email'))
-                ->replyTo($data['email']);
+        $data = $request->except('_token');
+        Mail::send('emails.account', $data, function ($message) use ($data) {
+            $message->subject($data['real_name'].'的开户资料 ')
+                ->to('support@goldmanyfx.com');
         });
 
-        return back()
-            ->withSuccess("Thank you for your message. It has been sent.");
+        return view('success.message',['message'=>"邮件发送成功，感谢您提供的资料。"]);
     }
 }

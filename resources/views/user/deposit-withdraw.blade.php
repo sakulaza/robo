@@ -761,6 +761,7 @@
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
                                {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
+                                       href="/login"
                                style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span>
                             </a>
                             <a class="view-btn_link"
@@ -842,6 +843,7 @@
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
                                {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
+                               href="/login"
                                style="text-decoration: none; color: #fff;" target="_blank">
                                 <span>存款</span></a>
                             <a class="view-btn_link"

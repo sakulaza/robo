@@ -27,44 +27,43 @@
 <header class="top_nav_skin">
 
     <div class="top-miaos screen-wid">
-        <h1 class="logo lt"><a rel="nofollow" href="http://www.goldmanyfx.com/" class="hide-t"></a></h1>
+        <h1 class="logo lt"><a rel="nofollow" href="/" class="hide-t"></a></h1>
         <ul id="navul" class="cl">
-            <li><a href="http://www.goldmanyfx.com/index.php" title="">关于我们</a>
+            <li><a href="/about" title="">关于我们</a>
                 <ul>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=2&page=1"
+                    <li><a href="/about/why-goldmany"
                            title="">公司简介</a>
                     </li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=4&page=1"
+                    <li><a href="/about/regulation"
                            title="">资质</a>
                     </li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=5&page=1"
+                    <li><a href="/about/mission"
                            title="">企业文化</a>
                     </li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=3&page=1"
+                    <li><a href="/about/contacts"
                            title="">联系我们</a>
                     </li>
                 </ul>
             </li>
-            <li><a href="http://www.goldmanyfx.com/index.php" title="">产品与服务</a>
+            <li><a href="/" title="">产品与服务</a>
                 <ul>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=10&page=1"
+                    <li><a href="/"
                            title="">产品</a></li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=11&page=1"
+                    <li><a href="/"
                            title="">服务</a></li>
                 </ul>
             </li>
-            <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=12&page=1"
+            <li><a href="/"
                    title="">我们的优势</a></li>
             <li><a href="" title="">客户支持</a>
                 <ul>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=14&siteid=1"
+                    <li><a href="/"
                            title="">模拟盘开户</a></li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=12&siteid=1
-" title="">实盘开户</a></li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=pay&c=deposit&a=pay" title="">入金</a></li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=13&siteid=1"
+                    <li><a href="/" title="">实盘开户</a></li>
+                    <li><a href="/pay" title="">入金</a></li>
+                    <li><a href="/"
                            title="">出金</a></li>
-                    <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=18"
+                    <li><a href="/"
                            title="">MT4下载</a></li>
                 </ul>
             </li>
@@ -81,52 +80,54 @@
     <div class="top-miaos screen-wid clear">
         <p class="phone-num lt">24小时客服热线：400-800-0657</p>
         <div class="top-alink rt">
-            <a rel="nofollow" href="http://www.goldmanyfx.com/index.php?m=member&c=index&a=login" class="user-bt"><i
+            <a rel="nofollow" href="/login" class="user-bt"><i
                         class="t-ic1"></i>用户登入</a>
-            <a rel="nofollow" href="" class="user-bt"><i class="t-ic2"></i>在线客服</a>
+            {{--<a rel="nofollow" href="" class="user-bt"><i class="t-ic2"></i>在线客服</a>--}}
         </div>
     </div>
 
     <div class="nav">
         <div class="screen-wid">
-            <h1 class="logo lt"><a rel="nofollow" href="http://www.goldmanyfx.com/" class="hide-t"></a></h1>
+            <h1 class="logo lt"><a rel="nofollow" href="/" class="hide-t"></a></h1>
             <ul id="navul" class="cl">
-                <li><a href="http://www.goldmanyfx.com/index.php" title="">关于我们</a>
+                <li><a href="/about" title="">关于我们</a>
                     <ul>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=2&page=1"
-                               title="">公司简介</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=4&page=1"
-                               title="">资质</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=5&page=1"
-                               title="">企业文化</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=3&page=1"
-                               title="">联系我们</a></li>
-                    </ul>
-                </li>
-                <li><a href="http://www.goldmanyfx.com/index.php" title="">产品与服务</a>
-                    <ul>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=10&page=1"
-                               title="">产品</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=11&page=1"
-                               title="">服务</a></li>
-                    </ul>
-                </li>
-                <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=12&page=1" title="">我们的优势</a>
-                </li>
-                <li><a href="" title="">客户支持</a>
-                    <ul>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=14&siteid=1"
-                               title="">模拟盘开户</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=12&siteid=1
-" title="">实盘开户</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=pay&c=deposit&a=pay" title="">入金</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=13&siteid=1"
-                               title="">出金</a></li>
-                        <li><a href="http://www.goldmanyfx.com/index.php?m=content&c=index&a=lists&catid=18" title="">MT4下载</a>
+                        <li><a href="/about/why-goldmany"
+                               title="">公司简介</a>
+                        </li>
+                        <li><a href="/about/regulation"
+                               title="">资质</a>
+                        </li>
+                        <li><a href="/about/mission"
+                               title="">企业文化</a>
+                        </li>
+                        <li><a href="/about/contacts"
+                               title="">联系我们</a>
                         </li>
                     </ul>
                 </li>
-
+                <li><a href="/" title="">产品与服务</a>
+                    <ul>
+                        <li><a href="/"
+                               title="">产品</a></li>
+                        <li><a href="/"
+                               title="">服务</a></li>
+                    </ul>
+                </li>
+                <li><a href="/"
+                       title="">我们的优势</a></li>
+                <li><a href="" title="">客户支持</a>
+                    <ul>
+                        <li><a href="/"
+                               title="">模拟盘开户</a></li>
+                        <li><a href="/" title="">实盘开户</a></li>
+                        <li><a href="/pay" title="">入金</a></li>
+                        <li><a href="/"
+                               title="">出金</a></li>
+                        <li><a href="/"
+                               title="">MT4下载</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
@@ -138,7 +139,8 @@
         <!--content begin-->
         <div class="w960">
             <div class="top-bgbox">
-                <a href="" class="position-main" title="首页">首页</a> > <a href="" class="position-mid" title="">在线开户</a>
+                <a href="" class="position-main" title="首页">首页</a> >
+                <a href="" class="position-mid" title="">在线开户</a>
                 <span class="position-sp"></span>
             </div>
 
@@ -153,7 +155,7 @@
 
                     <div class="left-btnbox">
                         <a class="leftbtn1"
-                           href="http://www.goldmanyfx.com/index.php?m=formguide&c=index&a=show&formid=12&siteid=1"
+                           href="/"
                            id="seo79">开立真实账户</a>
                         <a class="leftbtn2" href="" id="seo80">体验模拟账户</a>
                     </div>
@@ -190,23 +192,24 @@
 
                             <DIV id=append_parent></DIV>
                             <div class="fmo-reg">
-                                <form method="post" action="?m=formguide&c=index&a=show&formid=12&siteid=1"
+                                <form method="post" action="/register_email"
                                       name="myform" id="myform" class="fm-form">
-
+                                    {{csrf_field()}}
                                     <h1 class="checkout-title">开户资料 &nbsp;&nbsp;(<font color="red">*</font>号为必填项)</h1>
+                                    <p style="color: red;">{{$errors->first()}}</p>
                                     <ul>
                                         <li class="fmo-reg-left1">真实姓名&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[name]" id="name"
+                                        <li class="fmo-reg-left2"><input type="text" name="real_name" id="name"
                                                                          size="50" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">国籍&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[country]" id="country"
+                                        <li class="fmo-reg-left2"><input type="text" name="country" id="country"
                                                                          size="50" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">证件类型&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><select name='info[type]' id='type'>
+                                        <li class="fmo-reg-left2"><select name='type' id='type'>
                                                 <option value="1">身份证</option>
                                                 <option value="2">护照</option>
                                                 <option value="3">驾照</option>
@@ -214,27 +217,27 @@
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">证件号&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[idcard]" id="idcard"
+                                        <li class="fmo-reg-left2"><input type="text" name="idcard" id="idcard"
                                                                          size="50" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">住址&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[address]" id="address"
+                                        <li class="fmo-reg-left2"><input type="text" name="address" id="address"
                                                                          size="50" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">邮箱&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[email]" id="email"
+                                        <li class="fmo-reg-left2"><input type="text" name="email" id="email"
                                                                          size="50" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">手机号码&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[mobile]" id="mobile"
+                                        <li class="fmo-reg-left2"><input type="text" name="mobile" id="mobile"
                                                                          size="20" value="" class="input-text"></li>
                                     </ul>
                                     <ul>
                                         <li class="fmo-reg-left1">银行帐号&nbsp;<em>*</em></li>
-                                        <li class="fmo-reg-left2"><input type="text" name="info[bankaccount]"
+                                        <li class="fmo-reg-left2"><input type="text" name="bankaccount"
                                                                          id="bankaccount" size="50" value=""
                                                                          class="input-text"></li>
                                     </ul>
@@ -242,16 +245,11 @@
 
                                     <ul class="submit">
                                         <input type="submit" name="dosubmit" id="dosubmit" class="checkout-btn"
-                                               value="提交" onclick="return fm_submit_onclick(1)"/><INPUT id=agreebbrule
-                                                                                                        class=pc
-                                                                                                        value=4bba9016
-                                                                                                        CHECKED
-                                                                                                        type=checkbox
-                                                                                                        name=agreebbrule
-                                                                                                        disabled><span
-                                                class=agree>阅读并同意</span><a href="javascript:;" onclick="showBBRule()">《风险披露政策》</a>
+                                               value="提交" onclick="return fm_submit_onclick(1)"/>
+                                        <INPUT id=agreebbrule class=pc value=4bba9016 CHECKED type=checkbox name=agreebbrule disabled>
+                                        <span class=agree>阅读并同意</span>
+                                        <a href="javascript:;" onclick="showBBRule()">《风险披露政策》</a>
                                     </ul>
-
                                     <ul style=" color:red;">开户提示：<br>
                                         在完成开户申请的提交后，请您及时将你的证件与银行卡的影像扫描文件发往以下邮箱：goldmanyjy@163.com。<br>
                                         在收到您的完整资料后，我们将在一个工作日内完成审核工作。
@@ -729,7 +727,13 @@ classified as an ordinary creditor.</span></p>
 
 <SCRIPT type=text/javascript>
     var ignoreEmail = false;
-    showBBRule();
+    var error = "{{$errors->first()}}";
+    if(error == ""){
+        showBBRule();
+    }else{
+        alert(error);
+    }
+
     addFormEvent('registerform', 0);
     function showBBRule() {
         showDialog($('layer_bbrule').innerHTML, 'info', '风险揭示书');
@@ -737,59 +741,59 @@ classified as an ordinary creditor.</span></p>
     }
 </SCRIPT>
 <!-- //底部模板 -->
-<footer id="footer">
-    <h2 class="non-text">版权信息</h2>
-    <div class="new-copyright">
-        <div class="screen-wid">
-            <p class="warning">外汇交易和现货贵金属交易包含重大损失风险，并不适合所有投资者。在Gold
-                many开立交易账户之前，请仔细考虑您的经验水平，投资目的，资产，收入和风险承受能力。进行交易可能导致您部分或全部投资损失，
-                因此您不可将您借贷或急需使用或个人或家庭生存必需的您无法承受损失的资金用于投机、投资或进行对冲交易。
-                您应当了解与外汇交易相关的所有风险，如果有任何疑问，请向独立金融顾问咨询。
-            </p>
-            <div class="jtyw-info">
-                <p>
-                    Gold many：贵金属<span>|</span>证券<span>|</span>期货<span>|</span>资产管理<span>|</span>
-                    外汇<span class="dail-sp"><a href="" target="_blank" style="color:#95969a"></a></span>
-                </p>
-                <ul class="coo-link-nav" id="TabMenu6">
-                    <li><span>合作机构：</span></li>
-                    <!--    <li><span>友情链接</span></li> -->
-                </ul>
-                <div class="jig-box">
-                    <div class="share-info">
-                        <a href="" class="sa-weix">微信</a>
-                        <a href="" class="sa-weib">微博</a>
-                        <a href="" class="sa-faceb">Facebook</a>
-                        <a href="" class="sa-twit">twitter</a>
-                    </div>
-                    <div class="safe-web">
-                        <a href="" onclick="" class="dat-zs">Financial Dispute Resolution</a>
-                        <a href="" onclick="" class="dat-safe">可信网站</a>
-                    </div>
-                </div>
-            </div>
-            <p class="reserve">
-                <a rel="nofollow" href="" target="_blank">私隐条款</a>
-                <span>|</span>
-                <a target="_blank" rel="nofollow" href="">免责声明</a>
-                <span>|</span>
-                <a target="_blank" rel="nofollow" href="">English</a><br>
-                Copyright © 2012-2017 goldmanyfx.com 版权所有不得转载</p>
-        </div>
-    </div>
-    <div class="bot-info">
-        <div class="screen-wid">
-            <a rel="nofollow" href="" onclick="">在线客服</a>
-            <span>|</span>
-            <a rel="nofollow" href="" onclick="">企业QQ</a>
-            <span>|</span>
-            <a href="" rel="nofollow" target="_blank">在线留言</a>
-            <span>|</span>
-            24小时客服热线：400-800-0657（中国）
-        </div>
-    </div>
+{{--<footer id="footer">--}}
+    {{--<h2 class="non-text">版权信息</h2>--}}
+    {{--<div class="new-copyright">--}}
+        {{--<div class="screen-wid">--}}
+            {{--<p class="warning">外汇交易和现货贵金属交易包含重大损失风险，并不适合所有投资者。在Gold--}}
+                {{--many开立交易账户之前，请仔细考虑您的经验水平，投资目的，资产，收入和风险承受能力。进行交易可能导致您部分或全部投资损失，--}}
+                {{--因此您不可将您借贷或急需使用或个人或家庭生存必需的您无法承受损失的资金用于投机、投资或进行对冲交易。--}}
+                {{--您应当了解与外汇交易相关的所有风险，如果有任何疑问，请向独立金融顾问咨询。--}}
+            {{--</p>--}}
+            {{--<div class="jtyw-info">--}}
+                {{--<p>--}}
+                    {{--Gold many：贵金属<span>|</span>证券<span>|</span>期货<span>|</span>资产管理<span>|</span>--}}
+                    {{--外汇<span class="dail-sp"><a href="" target="_blank" style="color:#95969a"></a></span>--}}
+                {{--</p>--}}
+                {{--<ul class="coo-link-nav" id="TabMenu6">--}}
+                    {{--<li><span>合作机构：</span></li>--}}
+                    {{--<!--    <li><span>友情链接</span></li> -->--}}
+                {{--</ul>--}}
+                {{--<div class="jig-box">--}}
+                    {{--<div class="share-info">--}}
+                        {{--<a href="" class="sa-weix">微信</a>--}}
+                        {{--<a href="" class="sa-weib">微博</a>--}}
+                        {{--<a href="" class="sa-faceb">Facebook</a>--}}
+                        {{--<a href="" class="sa-twit">twitter</a>--}}
+                    {{--</div>--}}
+                    {{--<div class="safe-web">--}}
+                        {{--<a href="" onclick="" class="dat-zs">Financial Dispute Resolution</a>--}}
+                        {{--<a href="" onclick="" class="dat-safe">可信网站</a>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<p class="reserve">--}}
+                {{--<a rel="nofollow" href="" target="_blank">私隐条款</a>--}}
+                {{--<span>|</span>--}}
+                {{--<a target="_blank" rel="nofollow" href="">免责声明</a>--}}
+                {{--<span>|</span>--}}
+                {{--<a target="_blank" rel="nofollow" href="">English</a><br>--}}
+                {{--Copyright © 2012-2017 goldmanyfx.com 版权所有不得转载</p>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+    {{--<div class="bot-info">--}}
+        {{--<div class="screen-wid">--}}
+            {{--<a rel="nofollow" href="" onclick="">在线客服</a>--}}
+            {{--<span>|</span>--}}
+            {{--<a rel="nofollow" href="" onclick="">企业QQ</a>--}}
+            {{--<span>|</span>--}}
+            {{--<a href="" rel="nofollow" target="_blank">在线留言</a>--}}
+            {{--<span>|</span>--}}
+            {{--24小时客服热线：400-800-0657（中国）--}}
+        {{--</div>--}}
+    {{--</div>--}}
 
-</footer>
+{{--</footer>--}}
 
 
 {{--<div class="qust_contach">--}}

@@ -19,3 +19,8 @@
 [28-Sep-2016 06:32:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Post' not found in K:\object\robo\app\Http\Controllers\ArticleController.php on line 17
 [07-Oct-2016 10:08:10 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14
 [07-Oct-2016 10:09:52 UTC] PHP Fatal error:  Class 'Michelf\SmartyPants' not found in K:\object\robo\app\Services\Markdowner.php on line 14
+[16-Oct-2016 08:27:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in K:\object\robo\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php on line 163
+[16-Oct-2016 08:27:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in K:\object\robo\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php on line 163
+[16-Oct-2016 08:28:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in K:\object\robo\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php on line 163
+[16-Oct-2016 08:32:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in K:\object\robo\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php on line 163
+[16-Oct-2016 11:21:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in K:\object\robo\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php on line 163
