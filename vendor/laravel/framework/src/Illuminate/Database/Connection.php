@@ -333,7 +333,7 @@ class Connection implements ConnectionInterface
             $statement = $this->getPdoForSelect($useReadPdo)->prepare($query);
 
             $me->bindValues($statement, $me->prepareBindings($bindings));
-            //dd($statement);
+
             $statement->execute();
 
             $fetchMode = $me->getFetchMode();
