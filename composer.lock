@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "31d086b8fbc0ceb3b12563df5a3c221c",
-    "content-hash": "f28d898f743d07bd2c478e05039ece32",
+    "hash": "03c9fc045eaa25d893b67328eab60d59",
+    "content-hash": "8dbd82cd56ed289be5b5769d9e51e039",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -664,16 +664,16 @@
         },
         {
             "name": "michelf/php-smartypants",
-            "version": "1.6-beta1",
+            "version": "dev-lib",
             "source": {
                 "type": "git",
                 "url": "https://github.com/michelf/php-smartypants.git",
-                "reference": "171a3a2552f33340bf3636bdb4b05eb4e406fbda"
+                "reference": "8729ae078b2acfdb2a53fc5c9be6594be7bed859"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/michelf/php-smartypants/zipball/171a3a2552f33340bf3636bdb4b05eb4e406fbda",
-                "reference": "171a3a2552f33340bf3636bdb4b05eb4e406fbda",
+                "url": "https://api.github.com/repos/michelf/php-smartypants/zipball/8729ae078b2acfdb2a53fc5c9be6594be7bed859",
+                "reference": "8729ae078b2acfdb2a53fc5c9be6594be7bed859",
                 "shasum": ""
             },
             "require": {
@@ -685,6 +685,11 @@
                     "dev-lib": "1.6.x-dev"
                 }
             },
+            "autoload": {
+                "psr-0": {
+                    "Michelf": ""
+                }
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
@@ -693,16 +698,16 @@
                 {
                     "name": "Michel Fortin",
                     "email": "michel.fortin@michelf.ca",
-                    "homepage": "http://michelf.ca/",
+                    "homepage": "https://michelf.ca/",
                     "role": "Developer"
                 },
                 {
                     "name": "John Gruber",
-                    "homepage": "http://daringfireball.net/"
+                    "homepage": "https://daringfireball.net/"
                 }
             ],
             "description": "PHP SmartyPants",
-            "homepage": "http://michelf.ca/projects/php-smartypants/",
+            "homepage": "https://michelf.ca/projects/php-smartypants/",
             "keywords": [
                 "dashes",
                 "quotes",
@@ -710,7 +715,7 @@
                 "typographer",
                 "typography"
             ],
-            "time": "2013-01-12 22:23:30"
+            "time": "2016-10-16 22:59:05"
         },
         {
             "name": "monolog/monolog",
@@ -3636,7 +3641,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "michelf/php-smartypants": 10
+        "michelf/php-smartypants": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

@@ -3702,30 +3702,35 @@
     },
     {
         "name": "michelf/php-smartypants",
-        "version": "1.6-beta1",
-        "version_normalized": "1.6.0.0-beta1",
+        "version": "dev-lib",
+        "version_normalized": "dev-lib",
         "source": {
             "type": "git",
             "url": "https://github.com/michelf/php-smartypants.git",
-            "reference": "171a3a2552f33340bf3636bdb4b05eb4e406fbda"
+            "reference": "8729ae078b2acfdb2a53fc5c9be6594be7bed859"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/michelf/php-smartypants/zipball/171a3a2552f33340bf3636bdb4b05eb4e406fbda",
-            "reference": "171a3a2552f33340bf3636bdb4b05eb4e406fbda",
+            "url": "https://api.github.com/repos/michelf/php-smartypants/zipball/8729ae078b2acfdb2a53fc5c9be6594be7bed859",
+            "reference": "8729ae078b2acfdb2a53fc5c9be6594be7bed859",
             "shasum": ""
         },
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2013-01-12 22:23:30",
+        "time": "2016-10-16 22:59:05",
         "type": "library",
         "extra": {
             "branch-alias": {
                 "dev-lib": "1.6.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Michelf": ""
+            }
+        },
         "notification-url": "https://packagist.org/downloads/",
         "license": [
             "BSD-3-Clause"
@@ -3734,16 +3739,16 @@
             {
                 "name": "Michel Fortin",
                 "email": "michel.fortin@michelf.ca",
-                "homepage": "http://michelf.ca/",
+                "homepage": "https://michelf.ca/",
                 "role": "Developer"
             },
             {
                 "name": "John Gruber",
-                "homepage": "http://daringfireball.net/"
+                "homepage": "https://daringfireball.net/"
             }
         ],
         "description": "PHP SmartyPants",
-        "homepage": "http://michelf.ca/projects/php-smartypants/",
+        "homepage": "https://michelf.ca/projects/php-smartypants/",
         "keywords": [
             "dashes",
             "quotes",
