@@ -50,6 +50,7 @@ class PostCreateRequest extends FormRequest
             'content_raw' => $this->get('content2'),
             'meta_description' => $this->meta_description,
             'is_draft' => (bool)$this->is_draft,
+            'is_cat' => (bool)$this->is_cat,
             'published_at' => $published_at,
             'layout' => $this->layout,
             'category_id' => $this->category_id,

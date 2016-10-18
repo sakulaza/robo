@@ -15,6 +15,14 @@ Route::get('/', function () {
     return view('user.home');
 });
 
+$categories = \App\Category::all();
+foreach($categories as $c){
+    $temp = explode('/',$c->cname);
+    $temp2 = array_filter($temp);
+    $path = implode('/',$temp2);
+    Route::get("$path",'ArticleController@article');
+}
+
 Route::get('/phpinfo', function () {
     echo phpinfo();
 });
@@ -29,13 +37,13 @@ Route::get('/pay', 'PayController@index');
 Route::post('/pay_recharge', 'PayController@recharge');
 Route::get('/bfopay_repond', 'PayController@repond');
 
-Route::get('/about/{type?}','ArticleController@about');
-Route::get('/trade-conditions/{type?}','ArticleController@trade_conditions');
-Route::get('/trading-accounts/{type?}','ArticleController@trading_accounts');
-Route::get('/operations/{type?}','ArticleController@operations');
-Route::get('/forex-affiliate/{type?}','ArticleController@forex_affiliate');
-Route::get('/beginner/{type?}','ArticleController@beginner');
-Route::get('/analytics/{type?}','ArticleController@analytics');
+//Route::get('/about/{type?}','ArticleController@about');
+//Route::get('/trade-conditions/{type?}','ArticleController@trade_conditions');
+//Route::get('/trading-accounts/{type?}','ArticleController@trading_accounts');
+//Route::get('/operations/{type?}','ArticleController@operations');
+//Route::get('/forex-affiliate/{type?}','ArticleController@forex_affiliate');
+//Route::get('/beginner/{type?}','ArticleController@beginner');
+//Route::get('/analytics/{type?}','ArticleController@analytics');
 Route::get('/analytics/forex-forecast/{cat}/{id}','ArticleController@forex_forecast');
 Route::get('/about/news/{cat}/{id}','ArticleController@news');
 Route::get('operations/{cat}/{id}','ArticleController@operations_info');

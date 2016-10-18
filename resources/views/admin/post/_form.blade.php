@@ -11,7 +11,7 @@
         </div>
         <div class="form-group">
             <label for="subtitle" class="col-md-2 control-label">
-                URL
+                副标题
             </label>
             <div class="col-md-10">
                 <input type="text" class="form-control" name="subtitle"
@@ -113,7 +113,17 @@
                 <div class="checkbox">
                     <label>
                         <input {{ checked($is_draft) }} type="checkbox" name="is_draft">
-                        草搞?
+                        保存为草搞
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-8 col-md-offset-3">
+                <div class="checkbox">
+                    <label>
+                        <input {{ checked($is_cat) }} type="checkbox" name="is_cat">
+                        是否栏目文章
                     </label>
                 </div>
             </div>

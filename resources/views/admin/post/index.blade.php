@@ -24,7 +24,7 @@
                     <tr>
                         <th>发布时间</th>
                         <th>标题</th>
-                        <th>URL</th>
+                        <th>副标题</th>
                         <th data-sortable="false">操作</th>
                     </tr>
                     </thead>
@@ -41,8 +41,9 @@
                                    class="btn btn-xs btn-info">
                                     <i class="fa fa-edit"></i> Edit
                                 </a>
-                                <a href="/blog/{{ $post->slug }}"
-                                   class="btn btn-xs btn-warning">
+                                <?php $url = \App\Post::url($post->id,$post->category_id,$post->is_cat);?>
+                                <a href="{{$url}}"
+                                   class="btn btn-xs btn-warning" target="_blank">
                                     <i class="fa fa-eye"></i> View
                                 </a>
                             </td>

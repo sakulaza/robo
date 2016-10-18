@@ -25,6 +25,7 @@ class PostFormFields extends Job
         'content' => '',
         'meta_description' => '',
         'is_draft' => "0",
+        'is_cat' => "0",
         'publish_date' => '',
         'publish_time' => '',
         'layout' => 'blog.layouts.post',

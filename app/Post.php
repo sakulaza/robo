@@ -8,7 +8,7 @@ class Post extends Model
     protected $dates = ['published_at'];
     protected $fillable = [
         'title', 'subtitle', 'content_raw', 'page_image', 'meta_description',
-        'layout', 'is_draft', 'published_at','category_id',
+        'layout', 'is_draft', 'published_at','category_id','is_cat'
     ];
     /**
      * The many-to-many relationship between posts and tags.
@@ -101,11 +101,21 @@ class Post extends Model
      * @param Tag $tag
      * @return string
      */
-    public function url(Tag $tag = null)
+//    public function url(Tag $tag = null)
+//    {
+//        $url = url('blog/'.$this->slug);
+//        if ($tag) {
+//            $url .= '?tag='.urlencode($tag->tag);
+//        }
+//        return $url;
+//    }
+    static public function url($id,$category_id,$is_cat)
     {
-        $url = url('blog/'.$this->slug);
-        if ($tag) {
-            $url .= '?tag='.urlencode($tag->tag);
+        $cname = Category::where('id',$category_id)->value('cname');
+        if ($is_cat) {
+            $url = "/".$cname;
+        }else{
+            $url = "/".$cname."?id=".$id;
         }
         return $url;
     }

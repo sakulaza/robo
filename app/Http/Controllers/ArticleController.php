@@ -2,7 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Category;
+use App\Post;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class ArticleController extends Controller
 {
@@ -53,6 +56,28 @@ class ArticleController extends Controller
 
     public function operations_info(Request $request,$cat = '',$id=''){
         return view("operations.$cat.$id");
+    }
+
+    public function article(Request $request){
+        $uri=$request->path();
+        $category = Category::where('cname','like','%'.$uri.'%')->select('id','father_id')->first();
+        if($category->father_id == 0){
+            
+        }else{
+
+        }
+        $path_array = [];
+        do{
+            $top_cate = Category::where('id',$category->father_id)->select('father_id','title','cname')->first();
+            $path_array[] = $top_cate;
+        }while($top_cate->father_id>0);
+        dd($path_array);
+        if(empty($request->id)){
+            $post = Post::where('category_id',$category->id)->where('is_cat',1)->orderBy('id','desc')->first();
+        }else{
+            $post = Post::find($request->id);
+        }
+        return view("post.article",compact('post'));
     }
 
 
