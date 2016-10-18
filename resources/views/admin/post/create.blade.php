@@ -6,6 +6,7 @@
     <link href="/assets/pickadate/themes/default.time.css" rel="stylesheet">
     <link href="/assets/selectize/css/selectize.css" rel="stylesheet">
     <link href="/assets/selectize/css/selectize.bootstrap3.css" rel="stylesheet">
+    <link href="/assets/css/summernote.css" rel="stylesheet">
 @stop
 
 @section('content')
@@ -58,7 +59,38 @@
     <script src="/assets/pickadate/picker.date.js"></script>
     <script src="/assets/pickadate/picker.time.js"></script>
     <script src="/assets/selectize/selectize.min.js"></script>
+    <script src="/assets/js/summernote.min.js"></script>
+    <script src="/assets/js/summernote-zh-CN.js"></script>
     <script>
+        $(document).ready(function() {
+            $('#content2').summernote({
+                height:300,
+                lang:'zh-CN',
+                callbacks: {
+                    onImageUpload: function(files) {
+                        url = $(this).data('upload'); //path is defined as data attribute for  textarea
+                        sendFile(files[0], url, $(this));
+                    }
+                }
+            });
+            function sendFile(file, url, editor) {
+                var data = new FormData();
+                data.append("file", file);
+                $.ajax({
+                    data: data,
+                    type: "POST",
+                    url: url,
+                    cache: false,
+                    contentType: false,
+                    processData: false,
+                    success: function(objFile) {
+                        editor.summernote('insertImage',objFile.url+'/'+objFile.file);
+                    },
+                    error: function(jqXHR, textStatus, errorThrown) {
+                    }
+                });
+            }
+        });
         $(function() {
             $("#publish_date").pickadate({
                 format: "mmm-d-yyyy"

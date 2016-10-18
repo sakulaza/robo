@@ -47,4 +47,5 @@ Route::group(['prefix'=>'admin', 'middleware' => 'web'], function(){
     Route::post('logout', 'Auth\AdminLoginController@logout');
     Route::resource('category', 'CategoryController', ['except' => 'show']);
     Route::resource('post', 'PostController', ['except' => 'show']);
+    Route::post('uploadImage', 'AdminController@uploadImage');
 });

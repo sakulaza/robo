@@ -70,13 +70,22 @@
                 {{--</div>--}}
             {{--</div>--}}
         {{--</div>--}}
+        {{--<div class="form-group">--}}
+            {{--<label for="content" class="col-md-2 control-label">--}}
+                {{--内容--}}
+            {{--</label>--}}
+            {{--<div class="col-md-10">--}}
+            {{--<textarea class="form-control" name="content" rows="14"--}}
+                  {{--id="content">{{ $content }}</textarea>--}}
+            {{--</div>--}}
+        {{--</div>--}}
         <div class="form-group">
-            <label for="content" class="col-md-2 control-label">
+            <label for="content2" class="col-md-2 control-label">
                 内容
             </label>
             <div class="col-md-10">
-        <textarea class="form-control" name="content" rows="14"
-                  id="content">{{ $content }}</textarea>
+            <textarea class="form-control" name="content2" rows="14"
+                      id="content2" data-upload="/admin/uploadImage">{{ $content }}</textarea>
             </div>
         </div>
     </div>

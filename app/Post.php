@@ -53,9 +53,10 @@ class Post extends Model
      */
     public function setContentRawAttribute($value)
     {
-        $markdown = new Markdowner();
+        //$markdown = new Markdowner();
         $this->attributes['content_raw'] = $value;
-        $this->attributes['content_html'] = $markdown->toHTML($value);
+        //$this->attributes['content_html'] = $markdown->toHTML($value);
+        $this->attributes['content_html'] = '';
     }
     /**
      * Sync tag relation adding new tags as needed
