@@ -55,54 +55,6 @@
     </div>
 
     <div id="left">
-
-        <div id="news-subscribe">
-            <form method="post" id="subscribe" enctype="multipart/form-data" action="" target="_self" onsubmit="return false;">
-                <p>
-                    <input id="s-email" name="email[email]" placeholder="输入您的电子邮件" class="fText" value="" onkeydown="if (key_enter(event)) form_validate_email();" />
-                    <button type="button" id="s-submit" class="fSubmit button likeBigButtonLoader" onclick="form_validate_email();" >订阅</button>
-                    <a href="/news/rss/" id="s-rss" class="rss-button">
-                        <i class="fa fa-rss-square"></i>
-                    </a>
-                </p>
-            </form>
-
-            <script type="text/javascript">
-                var err_request = '数据上传时发生一个错误';
-                var form_state = 1;
-
-                function form_validate_email()
-                {
-                    if (form_state == 0) return;
-                    form_state = 0;
-
-                    var selector = '#subscribe';
-                    var form = $(selector);
-                    var validate_path = '/subscription/validateMain/';
-
-                    JsHttpRequest.query(validate_path, form.serialize(),
-                            function(result, errors)
-                            {
-                                form_state = 1;
-                                if (result && result.res == 0)
-                                {
-                                    $.dqValidate(selector, result);
-                                } else if (result && result.res == 1 && result.link)
-                                {
-                                    //alert(result.link);
-                                    window.location.assign(result.link);
-                                    return;
-                                } else
-                                {
-                                    console.log(errors);
-                                }
-                            }, true
-                    );
-                }
-
-            </script>
-        </div>
-
         <h1>公司新闻</h1>
         <div class="marg_top_30"><br />
         </div>

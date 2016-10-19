@@ -15,7 +15,7 @@
         <select class="form-control" name="father_id" id="father_id">
             <option value="0">顶级分类</option>
             @foreach($topCategories as $tc)
-                <option value="{{$tc->id}}">{{$tc->title}}</option>
+                <option value="{{$tc->id}}" @if ($father_id == $tc->id) selected @endif>{{$tc->title}}</option>
             @endforeach
         </select>
         {{--<input type="text" class="form-control" name="subtitle" id="subtitle" value="{{ $subtitle }}">--}}

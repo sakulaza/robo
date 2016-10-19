@@ -25,7 +25,7 @@
             <div class="col-md-10">
                 <select name="category_id" class="form-control">
                     @foreach($categories as $c)
-                        <option value="{{$c->id}}">{{$c->title}}</option>
+                        <option value="{{$c->id}}" @if ($category_id == $c->id) selected @endif>{{$c->title}}</option>
                     @endforeach
                 </select>
                 {{--<input type="text" class="form-control" name="category_id"--}}
@@ -143,15 +143,19 @@
                 </select>
             </div>
         </div>
-        {{--<div class="form-group">--}}
-            {{--<label for="layout" class="col-md-3 control-label">--}}
-                {{--Layout--}}
-            {{--</label>--}}
-            {{--<div class="col-md-8">--}}
+        <div class="form-group">
+            <label for="layout" class="col-md-3 control-label">
+                Layout
+            </label>
+            <div class="col-md-8">
+                <select class="form-control" name="layout" id="layout">
+                    <option value="default"  @if ($layout == 'default') selected @endif>默认模板</option>
+                    <option value="without_right"  @if ($layout == 'without_right') selected @endif>模板2</option>
+                </select>
                 {{--<input type="text" class="form-control" name="layout"--}}
                        {{--id="layout" value="{{ $layout }}">--}}
-            {{--</div>--}}
-        {{--</div>--}}
+            </div>
+        </div>
         <div class="form-group">
             <label for="meta_description" class="col-md-3 control-label">
                 Meta

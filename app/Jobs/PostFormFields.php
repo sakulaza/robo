@@ -28,7 +28,8 @@ class PostFormFields extends Job
         'is_cat' => "0",
         'publish_date' => '',
         'publish_time' => '',
-        'layout' => 'blog.layouts.post',
+        'layout' => 'default',
+        'category_id' => '',
         'tags' => [],
         'categories' => [],
     ];

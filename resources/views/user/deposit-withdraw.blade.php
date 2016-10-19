@@ -625,17 +625,6 @@
             <li class="first active" rel="tab1">
                 <i class="fa fa-star" style="margin-right: 5px; color: #FF9B04;">&nbsp;</i>&nbsp;常用支付方式
             </li>
-            <!-- <li rel="tab2">
-              <i class="fa fa-gift" style="margin-right: 5px; color: #CC0701">&nbsp;</i>&nbsp;Акции</li> -->
-            {{--<li rel="tab3">--}}
-                {{--<i class="fa fa-university" style="margin-right: 5px;">&nbsp;</i>&nbsp;快捷支付--}}
-            {{--</li>--}}
-            {{--<li rel="tab4">--}}
-                {{--<i class="fa fa-paper-plane" style="margin-right: 5px;">&nbsp;</i>&nbsp;电子支付--}}
-            {{--</li>--}}
-            {{--<li rel="tab5">--}}
-                {{--<i class="fa fa-credit-card" style="margin-right: 5px;">&nbsp;</i>&nbsp;银行卡--}}
-            {{--</li>--}}
         </ul>
         <div class="tabs-links"
              style="margin-top: 180px; display: block; position: absolute; max-width: 250px; padding: 10px 5px; top: auto; text-decoration: none; color: rgb(74, 82, 86); width: 260px;"
@@ -659,79 +648,23 @@
                     USD</a></p>
             <p style="font-weight: bold;text-align: center;margin-top: 20px;border: 1px solid #e3e3e3;padding: 5px;color: #344964;">
                 每月两次无手续费出金!
-                {{--<a href="/operations/bonuses-promotions/free-withdrawal/" style="text-decoration:none;"--}}
-                               {{--target="_blank">阅读更多...</a>--}}
             </p>
         </div>
     </div>
     <div class="tab_container" id="payment-content">
         <p class="button_holder" style="position: absolute; margin-top: 18px; right: 30px;">
-            {{--<a class="table-toggle view-btn_link" id="show-table2" onclick="showTable(2);"--}}
-               {{--style="margin: 0 5px;padding: 2px 4px;min-width: 90px;box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.4);">--}}
-                {{--<span>对比</span></a>--}}
+
         </p>
         <p class="button_holder" style="position: absolute; margin-top: 18px; left: 15px;">
-            {{--<a class="view-btn show-systems show-bz-systems view-btn_selected" style="margin: 0 5px;padding: 2px 8px;min-width: 100px;"> --}}
-                {{--<span>GoldMany Ltd</span>--}}
-            {{--</a> --}}
-            {{--<a class="view-btn show-systems show-cy-systems view-btn_selected" style="margin: 0 5px;padding: 2px 8px;min-width: 100px;">--}}
-                {{--<span>GoldMany (CY)</span>--}}
-            {{--</a>--}}
+
         </p>
         <div class="ct-changer show" id="payment-ct-holder1" style="margin-top: 80px; display: block">
-            {{--<div class="buttons" style="display: block; z-index: 9999;">--}}
-                {{--<a class="payment-view grid view-btn_selected"--}}
-                   {{--style="margin-right: 4px; width: 18px; height: 18px; padding: 3px;">--}}
-                    {{--<span class="grid-icon">--}}
-                        {{--<span class="grid-icon-block">1</span> <span class="grid-icon-block">2</span> <span--}}
-                                {{--class="grid-icon-block">3</span> <span class="grid-icon-block">4</span> <span--}}
-                                {{--class="grid-icon-block">5</span> <span class="grid-icon-block">6</span> <span--}}
-                                {{--class="grid-icon-block">7</span> <span class="grid-icon-block">8</span> <span--}}
-                                {{--class="grid-icon-block">9</span> </span>--}}
-                {{--</a>--}}
-                {{--<a class="payment-view list view-btn" style="width: 18px; height: 18px; padding: 3px;">--}}
-                    {{--<span class="list-icon">--}}
-                        {{--<span class="list-icon-block_min">1</span> <span--}}
-                                {{--class="list-icon-block_mid">2</span> <span class="list-icon-block_min">3</span> <span--}}
-                                {{--class="list-icon-block_mid">4</span> <span class="list-icon-block_min">5</span> <span--}}
-                                {{--class="list-icon-block_mid">6</span>--}}
-                    {{--</span>--}}
-                {{--</a>--}}
-            {{--</div>--}}
-            {{--<div style="position: absolute; margin-left: 10px; width: 600px;">--}}
-                {{--<input id="show-withdraw-cards" style="float: left; margin-top: 1px; margin-right: 10px;"--}}
-                       {{--type="checkbox"/>--}}
-                {{--<p style="margin: 0">--}}
-                    {{--只显示那些可用于提取资金的系统</p>--}}
-            {{--</div>--}}
+
             <div class="tab_content" id="tab1" style="display: block;">
                 <h3 style="font-size: 20px; margin-left: 10px; margin-top: 40px; color: #344964;">
                     常用支付方式</h3>
                 <ul class="payment-grid">
-                    {{--<li class="payment-item bz-systems system-on deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--VISA / MasterCard</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/23.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 20,000 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/visa-mastercard/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>--}}
-                    {{--</li>--}}
+
                     <li class="payment-item cy-systems" style="display: inline-block;">
                         <h3>
                             VISA / MasterCard</h3>
@@ -754,13 +687,9 @@
                                 <strong>取款金额:</strong> 从 10 USD
                             </li>
                         </ul>
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/visa-mastercard-cy/"--}}
-                               {{--target="_blank"><span>了解更多</span></a>--}}
-                        {{--</p>--}}
+
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
                                        @if(empty(Auth::user()))
                                             href="/login"
                                        @else
@@ -769,52 +698,12 @@
                                style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span>
                             </a>
                             <a class="view-btn_link"
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
                                     style="text-decoration: none; color: #344964;" target="_blank">
                                 <span>取款</span>
                             </a>
                         </p>
                     </li>
-                    {{--<li class="payment-item bz-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--WebMoney</h3>--}}
-                        {{--<img alt="" src="/images/operations/24.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 0,8% &nbsp;--}}
-                                {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                   {{--title="WebMoney 最大手续费: WMZ 和 WME — 50, WMR — 1,500, WMU — 250.">--}}
-                                    {{--&nbsp;</i>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额: &nbsp;--}}
-                                    {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                       {{--title="支付系统限制是可能的, 如果您的电子钱包未经授权.">&nbsp;--}}
-                                    {{--</i>--}}
-                                {{--</strong>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从0,02 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/webmoney/" target="_blank"><span>了解更多</span></a>--}}
-                        {{--</p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
+
                     <li class="payment-item bz-systems cy-systems system-on" style="display: inline-block;">
                         <h3>
                             宝付</h3>
@@ -841,12 +730,9 @@
                             </li>
                         </ul>
                         <br/><br/><br/><br/>
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/skrill-moneybookers/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
+
                         <p class="button_holder">
                             <a class="view-btn_link dark-blue"
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
                                @if(empty(Auth::user()))
                                href="/login"
                                @else
@@ -855,7 +741,6 @@
                                style="text-decoration: none; color: #fff;" target="_blank">
                                 <span>存款</span></a>
                             <a class="view-btn_link"
-                               {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
                                     style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span>
                             </a>
                         </p>
@@ -1137,408 +1022,7 @@
                 <p style="font-size: 11px;color: #a9a9a9; text-align: center; margin-top: 30px;">
                     交易账户不能通过不属于交易账户所有者的电子钱包, 银行账户, 和银行卡进行存款.</p>
             </div>
-            <!-- #tab3 -->
-            {{--<div class="tab_content" id="tab4" style="display: none;">--}}
-                {{--<h3 style="font-size: 20px; margin-left: 10px; margin-top: 40px; color: #344964;">--}}
-                    {{--电子支付</h3>--}}
-                {{--<ul class="payment-grid">--}}
-                    {{--<li class="payment-item bz-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--WebMoney</h3>--}}
-                        {{--<img alt="" src="/images/operations/24.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 0,8% &nbsp;--}}
-                                {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                   {{--title="WebMoney 最大手续费: WMZ 和 WME — 50, WMR — 1,500, WMU — 250.">--}}
-                                    {{--&nbsp;--}}
-                                {{--</i>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额: &nbsp;--}}
-                                    {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                       {{--title="支付系统限制是可能的, 如果您的电子钱包未经授权.">&nbsp;</i></strong>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从0,02 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/webmoney/" target="_blank">--}}
-                                {{--<span>了解更多</span>--}}
-                            {{--</a>--}}
-                        {{--</p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems cy-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--Skrill (Moneybookers)</h3>--}}
-                        {{--<img alt="" src="/images/operations/21.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 1%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从10 USD &nbsp;--}}
-                                {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                   {{--title="支付系统限制是可能的, 如果您的电子钱包未经授权.">&nbsp;--}}
-                                {{--</i>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从0,1 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/skrill-moneybookers/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems cy-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--NETELLER</h3>--}}
-                        {{--<img alt="" src="/images/operations/13.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 1,9% &nbsp;--}}
-                                {{--<i class="fa fa-question-circle" style="color: #344964; font-size: 12px"--}}
-                                   {{--title="通过NETELLER支付系统取款手续费是1.9%,不少于1 USD.">--}}
-                                    {{--&nbsp;</i>--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 50,000 USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从5 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/neteller/" target="_blank">--}}
-                                {{--<span>了解更多</span>--}}
-                            {{--</a>--}}
-                        {{--</p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a>--}}
-                            {{--<a class="view-btn_link"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                               {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span>--}}
-                            {{--</a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems system-on deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--CashU</h3>--}}
-                        {{--<img alt="" src="/images/operations/3.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 25,000 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/cashu/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--ePayments</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/46.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<!----}}
-                                        {{--<li>--}}
-                                            {{--<strong>取款费用:</strong> 0%</li>--}}
-                {{---->--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从10 USD 到 10,000 USD--}}
-                            {{--</li>--}}
-                            {{--<!----}}
-                                        {{--<li>--}}
-                                            {{--<strong>取款金额:</strong> 从1 USD 到 10,000 USD</li>--}}
-                {{---->--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/epayments/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item cy-systems" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--FasaPay</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/6.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 0,5% &nbsp;--}}
-                                {{--<i class="fa fa-question-circle"--}}
-                                   {{--style="color: #344964; font-size: 12px"--}}
-                                   {{--title="手续费最低0.1美金, 最高为5美金.">&nbsp;</i></li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 5,000 USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从 0,1 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/fasapay/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item cy-systems deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--Euteller (芬兰)</h3>--}}
-                        {{--<img alt="" src="/images/operations/38.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从 10 EUR 到 10,000 EUR--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/euteller/" target="_blank">--}}
-                                {{--<span>了解更多</span></a>--}}
-                        {{--</p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>--}}
-                    {{--</li>--}}
-
-
-                    {{--<li class="payment-item bz-systems cy-systems deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--比特币</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/bitcoin-m.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR / GBP--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从 10 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/bitcoin/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>--}}
-                    {{--</li>--}}
-
-                {{--</ul>--}}
-                {{--<p style="font-size: 11px;color: #a9a9a9; text-align: center; margin-top: 30px;">--}}
-                    {{--交易账户不能通过不属于交易账户所有者的电子钱包, 银行账户, 和银行卡进行存款.</p>--}}
-            {{--</div>--}}
-            <!-- #tab4 -->
-            {{--<div class="tab_content" id="tab5" style="display: none;">--}}
-                {{--<h3 style="font-size: 20px; margin-left: 10px; margin-top: 40px; color: #344964;">--}}
-                    {{--银行卡</h3>--}}
-                {{--<ul class="payment-grid">--}}
-                    {{--<li class="payment-item bz-systems system-on deposit-system-card" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--VISA / MasterCard</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/23.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 20,000 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/visa-mastercard/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a></p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item cy-systems" style="display: none;">--}}
-                        {{--<h3>--}}
-                            {{--VISA / MasterCard</h3>--}}
-                        {{--<img alt=""--}}
-                             {{--src="/images/operations/23.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD / EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 5 EUR--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从 10 USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从 10 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/visa-mastercard-cy/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--Payoneer MasterCard</h3>--}}
-                        {{--<img alt="" src="/images/operations/14.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 2-5 USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 从30 USD--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从20 USD--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/payoneer-mastercard/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                    {{--<li class="payment-item bz-systems cy-systems system-on" style="display: inline-block;">--}}
-                        {{--<h3>--}}
-                            {{--China UnionPay</h3>--}}
-                        {{--<img alt="" src="/images/operations/1.png"/>--}}
-                        {{--<ul class="item-title payment-grid">--}}
-                            {{--<li>--}}
-                                {{--<strong>货币:</strong> CNY--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款费用:</strong> 0%--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款费用:</strong> 5 CNY--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>存款金额:</strong> 到 100,000 CNY--}}
-                            {{--</li>--}}
-                            {{--<li>--}}
-                                {{--<strong>取款金额:</strong> 从50 CNY--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
-                        {{--<p class="more-link_holder">--}}
-                            {{--<a class="more-link" href="/operations/deposit-withdraw/china-unionpay/"--}}
-                               {{--target="_blank"><span>了解更多</span></a></p>--}}
-                        {{--<p class="button_holder">--}}
-                            {{--<a class="view-btn_link dark-blue"--}}
-                               {{--href="https://my.cn.roboforex.com/cs/operations/deposit-funds/"--}}
-                               {{--style="text-decoration: none; color: #fff;" target="_blank"><span>存款</span></a><a--}}
-                                    {{--class="view-btn_link"--}}
-                                    {{--href="https://my.cn.roboforex.com/cs/operations/withdraw-funds/"--}}
-                                    {{--style="text-decoration: none; color: #344964;" target="_blank"><span>取款</span></a>--}}
-                        {{--</p>--}}
-                    {{--</li>--}}
-                {{--</ul>--}}
-                {{--<p style="font-size: 11px;color: #a9a9a9; text-align: center; margin-top: 30px;">--}}
-                    {{--交易账户不能通过不属于交易账户所有者的电子钱包, 银行账户, 和银行卡进行存款.</p>--}}
-            {{--</div>--}}
-            <!-- #tab5 --></div>
+           </div>
 
     </div>
     <script type="text/javascript">
