@@ -7,8 +7,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Open free forex demo account in GoldMany" />
-    <meta name="keywords" content="forex demo account, free forex demo account, forex demo accounts, forex demo trading account, forex trading demo account
-" />
+    <meta name="keywords" content="forex demo account, free forex demo account, forex demo accounts,
+    forex demo trading account, forex trading demo account" />
     <meta name="w1-verification" content="117844634768" />
 
 
@@ -95,7 +95,6 @@
                 <br />
                 <p style="text-align:center;">
                     <a class="likeBigButton"
-                       {{--href="https://my.cn.roboforex.com/cs/register-demo/"--}}
                        style="margin-right:20px;" target="_blank"><span>开设 MT4 模拟账户</span></a>
                 </p>
                 <h2>

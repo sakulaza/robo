@@ -274,7 +274,6 @@
         </div>
         <p style="text-align: center;margin-bottom: 60px;margin-top: 40px;">
             <a class="results-btn rw-tip_holder"
-               {{--href="https://my.cn.roboforex.com/cs/register/eu/"--}}
                style="text-decoration: none;color: #fff;margin-top: 0;" target="_blank"
                title="">
                 <span>注册</span></a></p>
@@ -293,8 +292,7 @@
             <br/>
             <strong>开放时间</strong>: 从上午 9点到下午6点 (UTC+0)<br/>
             <br/>
-            {{--<strong>注册号</strong>: HE310464<br/>--}}
-            {{--<strong>纳税人识别号</strong>: 12310464I--}}
+
         </div>
     </div>
     <br/>

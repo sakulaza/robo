@@ -115,7 +115,6 @@
                 </p>
             </div>
             <p class="analytics-categories">
-                {{--<a href="https://www.youtube.com/user/RoboForexLP" target="_blank">视频分析</a>,--}}
                 <a href="/beginner/webinars/" target="_blank">在线研讨会</a>,
                 <a href="/analytics/forex-forecast/" target="_blank">外汇预测和分析</a>,
                 <a href="https://my.cn.roboforex.com/cs/profile/forex-news/" target="_blank">外汇新闻</a>,
@@ -146,57 +145,6 @@
 
             </script>
 
-            {{--<h3 class="styled-h first">--}}
-                {{--<i class="icon icon-yt"></i><span class="styled-h-text"><a--}}
-                            {{--href="https://www.youtube.com/user/RoboForexLP" target="_blank">视频分析</a></span>--}}
-            {{--</h3>--}}
-            {{--<div class="lc-left">--}}
-                {{--<div class="youtube-news">--}}
-
-                    {{--<div class="yn-item">--}}
-                        {{--<div class="yn-thumbnail">--}}
-                            {{--<img alt="RoboForex - Forex Technical Analysis 01.04.2015 EUR/USD, GBP/USD, …"--}}
-                                 {{--src="https://i.ytimg.com/vi/xq0SMWRP5VA/default.jpg">--}}
-                            {{--<a data-yt-id="xq0SMWRP5VA" class="yn-title"--}}
-                               {{--title="RoboForex - Forex Technical Analysis 01.04.2015 EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, GOLD">--}}
-                                {{--<span>RoboForex - Forex Technical Analysis 01.04.2015 EUR/USD,…</span>--}}
-                            {{--</a>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<div class="yn-item">--}}
-                        {{--<div class="yn-thumbnail">--}}
-                            {{--<img alt="RoboForex - Forex Technical Analysis 20.03.2015 EUR/USD, GBP/USD, …"--}}
-                                 {{--src="https://i.ytimg.com/vi/HqEvaQnmyXc/default.jpg">--}}
-                            {{--<a data-yt-id="HqEvaQnmyXc" class="yn-title"--}}
-                               {{--title="RoboForex - Forex Technical Analysis 20.03.2015 EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, GOLD">--}}
-                                {{--<span>RoboForex - Forex Technical Analysis 20.03.2015 EUR/USD,…</span>--}}
-                            {{--</a>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<div class="yn-item">--}}
-                        {{--<div class="yn-thumbnail">--}}
-                            {{--<img alt="RoboForex - Forex Technical Analysis 13.03.2015 EUR/USD, GBP/USD, …"--}}
-                                 {{--src="https://i.ytimg.com/vi/fN0uM-fJU80/default.jpg">--}}
-                            {{--<a data-yt-id="fN0uM-fJU80" class="yn-title"--}}
-                               {{--title="RoboForex - Forex Technical Analysis 13.03.2015 EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, GOLD">--}}
-                                {{--<span>RoboForex - Forex Technical Analysis 13.03.2015 EUR/USD,…</span>--}}
-                            {{--</a>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-
-            {{--<div class="lc-right">--}}
-                {{--<div class="youtube-news">--}}
-                    {{--<div class="yn-preview">--}}
-                        {{--<img style="display: none;" alt="Loader" class="yn-loader"--}}
-                             {{--src="themes/rbforex/images/yt/yn-loader.gif">--}}
-                        {{--<iframe width="304" height="200" frameborder="0" allowfullscreen=""--}}
-                                {{--src="http://www.youtube.com/embed/xq0SMWRP5VA" id="yn-preview-player"></iframe>--}}
-                    {{--</div>--}}
-
-                {{--</div>--}}
-            {{--</div>--}}
 
             <div style="clear:both;"></div>
 

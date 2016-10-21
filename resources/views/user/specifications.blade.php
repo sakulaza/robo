@@ -13,7 +13,8 @@
 
     <title>合约细则</title>
     <meta property="og:title" content="合约细则" />
-    <meta property="og:description" content="通过合约细则，您可以了解到外汇 股票 指数 期货 贵金属 黄金 白银 能源 石油等交易品种" />
+    <meta property="og:description" content="通过合约细则，您可以了解到外汇 股票 指数 期货 贵金属 黄金 白银 能源
+    石油等交易品种" />
     <meta property="og:url" content="/trade-conditions/specifications/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 

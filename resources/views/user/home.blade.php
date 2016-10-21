@@ -531,8 +531,8 @@
                         最小点差0点起
                     </li>
                     <li>
-                        <a href="/operations/bonuses-promotions/1000-up-leverage/"
-                           target="_blank">杠杆 1:100</a></li>
+                        杠杆 1:100
+                    </li>
                     <li>
                         差价合约交易 (CFD)
                     </li>
@@ -652,14 +652,22 @@
             <div class="lc-right">
                 <h3 class="h1">公司新闻</h3>
                 <div class="newsList">
-                    <div class="nl-item">
-                        <div class="nli-date">02.09.2016</div>
-                        <h2><a href="/about/news/schedule-trade-change-cfd-xau-xag-09-2016/691/">Changes
-                                in trading schedule on CFD and Metals</a></h2>
-                        <div class="nli-announce">Trading schedule on Contracts for Difference and Metals will be
-                            changed.
+                    @foreach($news as $new)
+                        <div class="nl-item">
+                            <div class="nli-date">
+                                {{$new->published_at}}
+                            </div>
+                            <?php $url = \App\Post::url($post->id,$post->category_id,$post->is_cat);?>
+                            <h2>
+                                <a href="{{$url}}">
+                                    {{$new->title}}
+                                </a>
+                            </h2>
+                            <div class="nli-announce">
+                                {{$new->subtitle}}
+                            </div>
                         </div>
-                    </div>
+                    @endforeach
                     <div class="nl-item">
                         <div class="nli-date">31.08.2016</div>
                         <h2><a href="/about/news/coupons-the-dakar-2017/689/">"2017达喀尔之路"活动礼券已在您的会员中心里</a>

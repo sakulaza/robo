@@ -91,7 +91,6 @@
                 <img alt="" src="http://cn.roboforex.com/files/filemanager/image/scheme_1_6_cn.jpg" style="width: 648px; height: 225px;" /></p>
             <p style="margin: 20px 0px 20px; text-align:center;">
                 <a class="results-btn rw-tip_holder"
-                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
                    style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a>
             </p>
             <p style="text-align: justify">
@@ -155,7 +154,6 @@
                             <td>
                                 要想成为公司代理, 请先在会员中心开设代理账户或在网站
                                 <a class="rw-tip_holder"
-                                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
                                    target="_blank">注册成为代理</a>.<br />
                                 <br />
                                 注册成功之后, 您将获得两个代理账号（固定点差和浮动点差美分账户）以收取代理佣金.<br />
@@ -221,7 +219,6 @@
                                 <p>
                                     您还可使用会员中心&quot;
                                     <a
-                                            {{--href="https://my.cn.roboforex.com/cs/partner-account/calculator/" --}}
                                             target="_blank">代理计算器</a>&quot;计算具体代理佣金.</p>
                             </td>
                         </tr>
@@ -238,7 +235,6 @@
                                 <p>
                                     GoldMany (CY) Ltd 的代理需在完成个人信息的验证后才能开始吸引新的客户: 验证信息包括个人身份证件以及永久居住地址. GoldMany Ltd的代理需要先通过完整的验证才能支取转存代理账户内的资金. 通过完整验证, 每间公司的代理都需要
                                     <a
-                                            {{--href="https://my.cn.roboforex.com/cs/profile/verification-of-the-documents/" --}}
                                             target="_blank">上传</a>文件复印件或者扫描件证明其个人身份信息以及其个人用户中心
                                     的实际居住地址.
                                 </p>
@@ -264,14 +260,12 @@
                                     <li>
                                         Gold Many Global Ltd
                                         <a
-                                                {{--href="https://my.robofx.com/files/document/introducing_broker_agreement.pdf" --}}
                                                 target="_blank">
                                             代理合作协议</a>
                                     </li>
                                     <li>
                                         Gold Many Global Ltd
                                         <a
-                                                {{--href="https://my.roboforex.com/files/document/partner_agreement.pdf" --}}
                                                 target="_blank">代理合作协议
                                         </a>
                                     </li>
@@ -303,7 +297,6 @@
                                 <p>
                                     您可以使用会员中心的&quot;
                                     <a
-                                            {{--href="https://my.cn.roboforex.com/cs/partner-account/calculator/" --}}
                                             target="_blank">代理计算器</a>&quot;来计算出您代理佣金的准确金额.
                                 </p>
                             </td>
@@ -346,7 +339,6 @@
             </div>
             <p style="margin: 20px 0px 20px; text-align:center;">
                 <a class="results-btn rw-tip_holder"
-                   {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
                    style="text-decoration: none;color: #fff;" target="_blank"><span>开通附属账户</span></a>
             </p>
             <p>

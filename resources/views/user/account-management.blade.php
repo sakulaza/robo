@@ -408,7 +408,6 @@
                     <h3> 教学材料</h3>
                     <p> 教学视频可在&quot;您的外汇教学&quot;版块找到,除此之外,还有&quot;在线研讨会&quot;版块,您可以注册且参与公司所举办的这些在线研讨会.</p>
                     <a
-                            {{--href="https://my.cn.roboforex.com/cs/profile/forex-education/" --}}
                        target="_blank">阅读更多</a>
                 </div>
             </div>
@@ -422,9 +421,7 @@
                     <h4> 我如果更改会员中心密码?</h4>
                     <p> 您可以在会员中心&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/change-password/" --}}
                                 target="_blank">更改密码</a>&quot;或&quot;<a
-                                {{--href="https://my.cn.roboforex.com/cs/remind/" --}}
                                 target="_blank">重置密码</a>&quot;版块进行更改.</p>
                 </div>
                 <div class="features-bottom__item">
@@ -432,9 +429,7 @@
                     <h4> 我在哪更改我的个人信息?</h4>
                     <p> 您可以在&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/personal-information/"--}}
                                      target="_blank">个人信息</a>&quot;版块更改您的邮箱. 您需要联系我们的&quot;<a
-                                {{--href="https://my.cn.roboforex.com/cs/help/add-a-ticket/" --}}
                                 target="_blank">在线技术支持</a>&quot;来更改其它的个人信息.
                     </p>
                 </div>
@@ -443,7 +438,6 @@
                     <h4> 我如何添加提问?</h4>
                     <p> 您需在会员中心&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/help/add-a-ticket/"--}}
                                         target="_blank">在线技术支持</a>&quot;版块填写一张特别的表格来添加提问给我们的在线技术支持.</p>
                 </div>
             </div>
@@ -453,7 +447,6 @@
                     <h4> 我如何验证我的银行卡？</h4>
                     <p> 验证您的银行卡,您需前往会员中心&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/operations/bank-cards/" --}}
                                 target="_blank">银行卡</a>
                         “版块上传您卡的每一面的照片或扫描图片.
                     </p>
@@ -463,9 +456,7 @@
                     <h4> 在哪里可以看见代理佣金?</h4>
                     <p> 代理佣金率可在&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/partner-account/comission/"--}}
                                         target="_blank">代理佣金率</a>&quot;版块查看. 您所获得佣金的信息可以在&quot;<a
-                                {{--href="https://my.cn.roboforex.com/cs/partner-account/commission-archive/"--}}
                                 target="_blank">佣金明细</a>&quot;版块找到.</p>
                 </div>
                 <div class="features-bottom__item">
@@ -473,7 +464,6 @@
                     <h4> 我可以更改杠杆吗？</h4>
                     <p> 是的,您可以. 您可以在&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/trading-account/change-leverage/" --}}
                                 target="_blank">更改杠杆</a>
                         &quot;版块开进行修改. 但是只有在账户内没有持仓的情况下才能够更改.
                     </p>
@@ -485,7 +475,6 @@
                     <h4> 我如果能找回会员中心密码？</h4>
                     <p> 如果您忘记了会员中心密码,使用&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/remind/" --}}
                                 target="_blank">密码恢复</a>&quot;服务(您需要能够进入您的邮箱).
                         如果您的邮箱不可用,请联系&quot;在<a href="javascript:void(0)" id="hc-support"
                                                onclick="window.open('https://my.cn.roboforex.com/cs/livesupport/',
@@ -498,7 +487,6 @@
                     <h4> 我如何更改账号密码?</h4>
                     <p> 如果您忘记了您的账号密码, 前往&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/trading-account/change-password/"--}}
                                                  target="_blank">更改密码</a>&quot;版块(您需要能够进入您的邮箱).
                         如果您的邮箱不可用,请联系&quot;在<a
                                 href="javascript:void(0)" id="hc-support"
@@ -510,7 +498,6 @@
                     <h4> 如何更改我的手机号码？</h4>
                     <p> 如果您的手机号码还没有被验证,请在&quot;
                         <a
-                                {{--href="https://my.cn.roboforex.com/cs/profile/sms-verification/"--}}
                                                   target="_blank">SMS短信验证</a>&quot;版块通过验证.
                         如果您的手机号码已经验证了并且现在可以使用,您可以在相同的地方进行更改. 如果有需要,请联系我们的&quot;<a href="javascript:void(0)"
                                                                                   id="hc-support"
@@ -522,7 +509,6 @@
     </div>
     <div class="footer-register">
         <a class="results-btn rw-tip_holder"
-           {{--href="https://my.cn.roboforex.com/cs/register/" --}}
            target="_blank">
             注册
         </a>

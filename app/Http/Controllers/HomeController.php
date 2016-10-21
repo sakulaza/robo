@@ -23,6 +23,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('user.home');
+        $news = Post::where('category_id',14)->where('is_draft',0)->where('is_cat',0)->paginate(6);
+        return view('user.home',compact('news'));
     }
 }

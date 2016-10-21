@@ -347,7 +347,6 @@
             </div>
             <p style="text-align: center;">
                 <a class="results-btn modal-trigger" data-terminal="mt4"
-                   {{--href="http://my.roboforex.com/en/help/download-center/" --}}
                    style="text-decoration: none;
                    color: #fff;" target="_blank"><span>下载MT4</span>
                 </a>
@@ -439,7 +438,6 @@
             </div>
             <p style="text-align: center; margin-bottom: 30px;">
                 <a class="results-btn rw-tip_holder"
-                   {{--href="https://my.cn.roboforex.com/cs/register/"--}}
                    style="text-decoration: none;color: #fff;" target="_blank"
                    title="">
                     <span>开户</span></a>

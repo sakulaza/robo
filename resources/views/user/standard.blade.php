@@ -14,7 +14,8 @@
 
     <title>开设帐户</title>
     <meta property="og:title" content="开设帐户" />
-    <meta property="og:description" content="与GoldMany 经纪人一起开设外汇交易帐户： Level2，使命令实行自动化，浮动0.3PIP点差，1：500交易杠杆，最小点差2PIP，最小交易0.01LOT,专家顾问，袖珍和微账户类型。 " />
+    <meta property="og:description" content="与GoldMany 经纪人一起开设外汇交易帐户： Level2，使命令实行自动化，
+    浮动0.3PIP点差，1：500交易杠杆，最小点差2PIP，最小交易0.01LOT,专家顾问，袖珍和微账户类型。 " />
     <meta property="og:url" content="/trading-accounts/standard/" />
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png" />
 

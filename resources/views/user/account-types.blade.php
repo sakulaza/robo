@@ -16,7 +16,8 @@
 
     <title>账户类型</title>
     <meta property="og:title" content="账户类型"/>
-    <meta property="og:description" content="通过账户类型，可以了解微小账户和标准账户有关最小交易，杠杆，保证金，最小存款，Swap-Free"/>
+    <meta property="og:description" content="通过账户类型，可以了解微小账户和标准账户有关最小交易，杠杆，保证金，最小存款，
+    Swap-Free"/>
     <meta property="og:url" content="/trade-conditions/account-types/"/>
     <meta property="og:image" content="/themes/rbforex/images/logo-soc-share.png"/>
 
@@ -507,16 +508,6 @@
                                 <a class="acc-button rw-tip_holder"
                                    href="https://my.cn.roboforex.com/cs/register/ecn-pro/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                {{--<a class="acc-button rw-tip_holder"--}}
-                                   {{--href="https://my.cn.roboforex.com/cs/register/mt5/ecn-pro/"--}}
-                                   {{--style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>--}}
-                                {{--<a class="acc-button rw-tip_holder"--}}
-                                   {{--href="https://my.cn.roboforex.com/cs/register/ct/"--}}
-                                   {{--style="text-decoration: none; color:#fff;">开设cTrader账户</a>--}}
-                                {{--<a class="acc-button rw-tip_holder"--}}
-                                   {{--href="https://my.cn.roboforex.com/cs/register-copyfx/"--}}
-                                   {{--style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"--}}
-                                   {{--target="_blank">开设CopyFX账户</a>--}}
                             </div>
                         </div>
                     </td>
@@ -529,13 +520,6 @@
                                 <a class="acc-button rw-tip_holder"
                                    href="https://my.cn.roboforex.com/cs/register/ecn-fix/"
                                    style="text-decoration: none; color:#fff;" target="_blank">开设MT4账户</a>
-                                {{--<a class="acc-button rw-tip_holder"--}}
-                                   {{--href="https://my.cn.roboforex.com/cs/register/mt5/ecn-fix/"--}}
-                                   {{--style="text-decoration: none; color:#fff;" target="_blank">开设MT5账户</a>--}}
-                                {{--<a class="acc-button rw-tip_holder"--}}
-                                   {{--href="https://my.cn.roboforex.com/cs/register-copyfx/"--}}
-                                   {{--style="text-decoration: none; background-color: #f0ad0c;border: 1px solid #f0ad0c;"--}}
-                                   {{--target="_blank">开设CopyFX账户</a>--}}
                             </div>
                         </div>
                     </td>

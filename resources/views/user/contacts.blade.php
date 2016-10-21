@@ -191,15 +191,6 @@
                         <td><textarea warp=soft rows=7 cols=50 name=send[title]></textarea></td>
                     </tr>
                     <tr id="faq-code">
-                        {{--<th>--}}
-                            {{--<img src="/kcaptcha.php?temp=525" style="cursor:pointer;"--}}
-                                 {{--onclick="var time = new Date(); --}}
-                                 {{--this.src = '/kcaptcha.php?temp='+time.getMilliseconds();"/>--}}
-                        {{--</th>--}}
-                        {{--<td>--}}
-                            {{--<input id="ff-code" class="fText" name="send[captcha]" value=""/>--}}
-                            {{--<label for="ff-code">键入字符<br/>您看到下面的图片</label>--}}
-                        {{--</td>--}}
                     </tr>
 
                     <tr>

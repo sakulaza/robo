@@ -7,8 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="免费下载MetaTrader 4(MT4)" />
-    <meta name="keywords" content="免费下载MetaTrader 4(MT4)
-" />
+    <meta name="keywords" content="免费下载MetaTrader 4(MT4)" />
     <meta name="w1-verification" content="117844634768" />
 
 

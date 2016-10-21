@@ -73,7 +73,6 @@
                     <ul class="buttons">
                         <li>
                             <a class="likeBigButton rw-tip_holder"
-                               {{--href="http://my.cn.roboforex.com/cs/register/"--}}
                                target="_blank" title="外汇交易涉及高风险, 可能导致失去您的整个投资.">
                                 <span>注册 </span>
                             </a>
@@ -189,7 +188,6 @@
                     </ul>
                     <p>
                         <a class="rw-tip_holder"
-                           {{--href="https://my.cn.GoldMany.com/cs/trading-account/open-trading-account/"--}}
                            target="_blank">更多交易账户类型
                         </a>
                     </p>
@@ -209,7 +207,6 @@
                             <li style="line-height: 34px;">
                                 <i class="fa fa-tasks" style="width: 31px;color: #455A77;font-size: 16px;">&nbsp;</i>
                                 <a
-                                        {{--href="https://my.cn.GoldMany.com/cs/analytics"--}}
                                         target="_blank">
                                     <span class="bonus-title">GoldMany分析中心</span>
                                 </a>
@@ -225,7 +222,6 @@
                             <li style="line-height: 34px;">
                                 <i class="icon icon-news" style="width:18px;">&nbsp;</i>
                                 <a
-                                        {{--href="https://my.cn.roboforex.com/cs/profile/forex-news/" --}}
                                         target="_blank">
                                     外汇新闻
                                 </a>

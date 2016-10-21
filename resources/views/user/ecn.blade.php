@@ -250,7 +250,6 @@
                 </table>
                 <p style="text-align: center;">
                     <a class="results-btn rw-tip_holder"
-                       {{--href="https://my.cn.roboforex.com/cs/register/ecn-pro/"--}}
                        style="text-decoration: none; color: #fff; margin: 0 40px;" target="_blank">开设ECN-Pro NDD账户</a>
                 </p>
             </div>
@@ -262,10 +261,8 @@
                 公司保证同类型及同交易平台（MT4）的ECN模拟账户与真实账户将享有同样的订单执行模式。</p>
             <p style="text-align: center;">
                 <a class="results-btn"
-                   {{--href="https://my.cn.roboforex.com/cs/register-demo"--}}
                    style="text-decoration: none; color: #fff;background: #215682; border: 1px solid #215682;margin: 0 40px;" target="_blank">开设模拟ECN-Pro NDD</a>
                 <a class="results-btn"
-                   {{--href="https://my.cn.GoldMany.com/cs/register-demo"--}}
                    style="text-decoration: none; color: #fff;background: #215682; border: 1px solid #215682;margin: 0 40px;" target="_blank">开设模拟ECN-FixSpread NDD</a></p>
         </div>
     </div>

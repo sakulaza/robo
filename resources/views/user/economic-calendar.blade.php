@@ -65,53 +65,6 @@
 
             </div>
             <div style="display:table-header-group;">
-                <div id="news-subscribe" class="events-news-subscribe">
-                    <form method="post" id="subscribe" enctype="multipart/form-data" action="" target="_self" onsubmit="return false;">
-                        <p>
-                            <input onkeydown="if (key_enter(event)) form_validate_email();" value="" class="fText" placeholder="输入邮箱" name="email[email]" id="s-email">
-                            <button type="button" onclick="form_validate_email();" class="fSubmit button likeBigButtonLoader" id="s-submit">订阅</button>
-                            <a id="s-rss" href="/analytics/economic-calendar/rss" class="rss-button">
-                                <i class="fa fa-rss-square"></i>
-                            </a>
-                        </p>
-                    </form>
-                </div>
-
-                <script type="text/javascript">
-                    var err_request = '数据上传时发生一个错误';
-                    var form_state = 1;
-
-                    function form_validate_email()
-                    {
-                        if (form_state == 0) return;
-                        form_state = 0;
-
-                        var selector = '#subscribe';
-                        var form = $(selector);
-                        var validate_path = '/subscription/validateMain/';
-
-                        JsHttpRequest.query(validate_path, form.serialize(),
-                                function(result, errors)
-                                {
-                                    form_state = 1;
-                                    if (result && result.res == 0)
-                                    {
-                                        $.dqValidate(selector, result);
-                                    } else if (result && result.res == 1 && result.link)
-                                    {
-                                        //alert(result.link);
-                                        window.location.assign(result.link);
-                                        return;
-                                    } else
-                                    {
-                                        console.log(errors);
-                                    }
-                                }, true
-                        );
-                    }
-
-                </script>
-
                 <div class="dq-validate-errors"></div>
                 <div id="c-timezones" class="event-timezones">
                     <div>
@@ -4969,7 +4922,6 @@
             </li>
             <li >
                 <a
-                        {{--href="https://my.cn.roboforex.com/cs/analytics"  --}}
                         target="_blank"  >GoldMany分析中心</a>
 
 

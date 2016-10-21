@@ -291,7 +291,6 @@
                 <hr />
                 <p style=" text-align:center;">
                     <a class="results-btn rw-tip_holder"
-                       {{--href="https://my.cn.roboforex.com/cs/register-partner/" --}}
                        style="text-decoration: none;color: #fff;" target="_blank" title="Trading on Forex involves
                        high risks and you can lose your entire deposit.">
                         <span>开通附属账户</span></a>
