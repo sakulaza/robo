@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('user.home');
-});
+Route::get('/', 'HomeController@index');
 
 $categories = \App\Category::all();
 foreach($categories as $c){
