@@ -25,7 +25,8 @@ class HomeController extends Controller
     public function index()
     {
         $news = Post::where('category_id',14)->where('is_draft',0)->where('is_cat',0)->orderBy('id','desc')->paginate(6);
+        $analytics = Post::where('category_id',58)->where('is_draft',0)->where('is_cat',0)->orderBy('id','desc')->paginate(6);
         //dd($news);
-        return view('user.home',compact('news'));
+        return view('user.home',compact('news','analytics'));
     }
 }

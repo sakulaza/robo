@@ -594,55 +594,17 @@
             <div class="lc-left">
                 <h2 class="h1">外汇分析</h2>
                 <div class="newsList">
+                    @foreach($analytics as $a)
                     <div class="nl-item">
-                        <div class="nli-date">02.09.2016 / 12:51</div>
+                        <div class="nli-date">{{$a->published_at}}</div>
                         <h2>
-                            <a href="/analytics/forex-forecast/ichimoku-analysis/ichimoku-02092016/">一目云图分析
-                                02.09.2016 (GBP/USD, GOLD)</a></h2>
+                            <?php $url = \App\Post::url($a->id,$a->category_id,$a->is_cat);?>
+                            <a href="{{$url}}">
+                                {{$a->title}}
+                            </a>
+                        </h2>
                     </div>
-                    <div class="nl-item">
-                        <div class="nli-date">02.09.2016 / 12:42</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/ichimoku-analysis/candlesticks-02092016/">日本蜡烛图分析02.09.2016
-                                (EUR/USD, USD/JPY)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">02.09.2016 / 12:21</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/technical-analysis/technical-02092016/">外汇技术分析
-                                02.09.2016 (EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, USD/RUB, GOLD)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">02.09.2016 / 11:15</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-02092016/">穆雷数学线分析
-                                02.09.2016 (EUR/USD, AUD/USD)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">01.09.2016 / 14:59</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/technical-analysis/fibo-01092016/">斐波那契数列分析
-                                01.09.2016 (EUR/USD, EUR/GBP)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">01.09.2016 / 13:47</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/technical-analysis/technical-01092016/">外汇技术分析
-                                01.09.2016 (EUR/USD, GBP/USD, USD/CHF, USD/JPY, AUD/USD, USD/RUB, GOLD)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">01.09.2016 / 13:39</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/murray-analysis/murrey-eurusd-audusd-01092016/">穆雷数学线分析
-                                01.09.2016 (EUR/USD, AUD/USD)</a></h2>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">01.09.2016 / 13:27</div>
-                        <h2>
-                            <a href="/analytics/forex-forecast/ichimoku-analysis/ichimoku-01092016/">一目云图分析01.09.2016
-                                (GBP/USD, GOLD)</a></h2>
-                    </div>
-
+                    @endforeach
                     <div class="left read-more">
                         <a href="/analytics/forex-forecast/">分析存档</a>
                     </div>
@@ -657,7 +619,7 @@
                             <div class="nli-date">
                                 {{$new->published_at}}
                             </div>
-                            <?php $url = \App\Post::url($post->id,$post->category_id,$post->is_cat);?>
+                            <?php $url = \App\Post::url($new->id,$new->category_id,$new->is_cat);?>
                             <h2>
                                 <a href="{{$url}}">
                                     {{$new->title}}
@@ -668,44 +630,9 @@
                             </div>
                         </div>
                     @endforeach
-                    <div class="nl-item">
-                        <div class="nli-date">31.08.2016</div>
-                        <h2><a href="/about/news/coupons-the-dakar-2017/689/">"2017达喀尔之路"活动礼券已在您的会员中心里</a>
-                        </h2>
-                        <div class="nli-announce">现在您可以在一个页面就可以查看所有活动以及所获得礼券的最新信息.</div>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">24.08.2016</div>
-                        <h2><a href="/about/news/schedule-trade-change-cfd-08-2016/687/">差价合约FTSE100指数交易时间更改</a>
-                        </h2>
-                        <div class="nli-announce">差价合约FTSE100指数交易时间将做出更改.</div>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">17.08.2016</div>
-                        <h2>
-                            <a href="/about/news/new-payment-bitcoin/685/">GoldMany的客户可以使用比特币入金</a>
-                        </h2>
-                        <div class="nli-announce">我们的客户可以使用趋势支付系统比特币入金交易账户.</div>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">16.08.2016</div>
-                        <h2><a href="/about/news/improved-trading-conditions-08-2016/684/">贵金属交易列表扩充ECN和Pro类型账户交易条件改进</a>
-                        </h2>
-                        <div class="nli-announce">Pro-Cent, Pro-Standard, ECN-Pro NDD以及ECN-Pro
-                            Affiliate类型账户的交易工具列表已经进行了扩充.
+                        <div class="left read-more">
+                            <a href="/about/news/">新闻存档</a>
                         </div>
-                    </div>
-                    <div class="nl-item">
-                        <div class="nli-date">10.08.2016</div>
-                        <h2><a href="/about/news/the-dakar-2017/682/">从GoldMany获得观看2017达喀尔拉力赛的机会!</a>
-                        </h2>
-                        <div class="nli-announce">公司赠送两张全世界最大越野赛事2017年达喀尔拉力锦标赛的门票.</div>
-                    </div>
-
-                    <div class="left read-more">
-                        <a href="/about/news/">新闻存档</a>
-                    </div>
-
                 </div>
 
             </div>
