@@ -110,6 +110,11 @@
             $('#content2').summernote({
                 height:300,
                 lang:'zh-CN',
+                toolbar:[["style",["style"]],["font",["bold","underline","clear"]],["fontname",["fontname"]],
+                    ["fontsize",["fontsize"]],
+                    ["color",["color"]],["para",["ul","ol","paragraph"]],["table",["table"]],
+                    ["insert",["link","picture","video"]],
+                    ["view",["fullscreen","codeview","help"]]],
                 callbacks: {
                     onImageUpload: function(files) {
                         url = $(this).data('upload'); //path is defined as data attribute for  textarea
